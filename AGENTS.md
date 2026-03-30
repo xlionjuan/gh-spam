@@ -57,6 +57,27 @@ gh api users/USERNAME --jq '{login: .login, created: .created_at}'
 gh api repos/USER/REPO --jq '.name' 2>/dev/null || echo "DELETED"
 ```
 
+### 驗證 Report 日期是否正確
+**目的**：確保所有有 Report 日期的 repos 都真的在 report 檔案中
+
+```bash
+# 1. 確認 spam-repo-list.md 中有 Report 日期的 repos
+grep 'Report:' spam-repo-list.md | grep '| `' | awk -F'`' '{print $2}' | awk -F'`' '{print $1}' | sort -u > /tmp/listed_repos.txt
+
+# 2. 檢查是否每個有 Report 日期的 repo 都在 report 檔案中
+for repo in $(cat /tmp/listed_repos.txt); do
+  if ! grep -q "$repo" github-spam-report-*.md 2>/dev/null; then
+    echo "NOT IN REPORT: $repo"
+  fi
+done
+
+# 3. 檢查是否有重複的 repo 條目
+grep 'Report:' spam-repo-list.md | grep '| `' | awk -F'`' '{print $2}' | sort | uniq -d
+
+# 4. 確認數量正確（42 個 repos 應該有 Report 日期）
+grep 'Report:' spam-repo-list.md | grep -v '已提交' | wc -l
+```
+
 ## 發現的 Spam Pattern
 
 ### 2026 Spam（當前大規模攻擊）
