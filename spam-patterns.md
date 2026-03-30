@@ -331,72 +331,35 @@ gh search repos 'qq.com in:repo'
 
 | Repo | 建立時間 | Issues 數量 | 備註 |
 |------|----------|-------------|------|
-| `rluchik1/o` | 2026-03-21 | 10,451 | **爆增中！** |
-| `allisongae/oimxa` | 2026-03-29 | 3,991 | ２０２６年度盘点、２０２６第一科普 |
-| `womansalad/pztlg` | 2026-03-29 | 3,917 | |
-| `milica64/d1acb` | 2026-03-29 | 2,886 | |
-| `agunni/d1l8f` | 2026-03-29 | 2,860 | |
+| `rluchik1/o` | 2026-03-21 | ~1,900 (高峰期 10,000+) | GitHub 刪除中 |
+| `agunni/d1l8f` | 2026-03-27 | 29,000+ | 持續快速增長 |
+| `jakesms/xiaoixoafei` | 2026-03-30 | 17,500+ | **今日新發現** |
+| `nkhed/nkhed.github.io` | 2025-09-14 | 15,270 | 歷史累積 |
+| `johrok/dqwdqdq` | 2026-03-30 | 7,600+ | **今日新發現** |
+| `allisongae/oimxa` | 2026-03-29 | 5,136 | 持續增長 |
+| `womansalad/pztlg` | 2026-03-29 | 4,917 | 持續增長 |
+| `clebcourse/s0rpd` | 2026-03-29 | 4,097 | 持續增長 |
+| `shyathsing/drqxv` | 2026-03-29 | 4,078 | 持續增長 |
+| `thanhctapcon/thanhctapcon.github.io` | 2025-08-26 | 3,705 | PG電子 spam |
+| `milica64/d1acb` | 2026-03-29 | 2,800+ | |
 | `noumarageue/5xhk7` | 2026-03-28 | 2,983 | X分钟了解-XXX-第一财经 |
 | `jy2886-2/ygi0v` | 2026-03-28 | 2,958 | X分钟了解-XXX-第一财经 |
 | `rhoselin/cjrsq` | 2026-03-28 | 2,997 | X分钟了解-XXX-第一财经 |
 | `waizou/1uovd` | 2026-03-28 | 2,989 | X分钟了解-XXX-第一财经 |
-| `lillianxxbanksh/7` | 2026-03-29 | 2,130 | 皇冠信用盘代理开户 |
-| `norma9783-lundy7/o` | 2026-03-29 | 2,130 | 皇冠信用盘代理开户 |
-| `julke-541/b` | 2026-03-29 | 2,130 | 皇冠信用盘代理开户 |
-| `ervin-smolka346d/k` | 2026-03-29 | 2,130 | 皇冠信用盘代理开户 |
-| `clebcourse/s0rpd` | 2026-03-29 | 3,800 | |
-| `ln1962/anqbn` | 2026-03-29 | 1,600+ | |
-| `shyathsing/drqxv` | 2026-03-29 | 3,122 | |
-| `smramy/1cjhc` | 2026-03-29 | 3,086 | |
-| `powersandr/x1g62` | 2026-03-29 | 2,437 | |
-| `xhizan/6m81n` | 2026-03-29 | 2,469 | |
-| `crib5bull/acc61` | 2026-03-29 | 2,453 | |
-| `pxcarter/skc3u` | 2026-03-29 | 2,483 | |
-| `arebitl/z99tq` | 2026-03-29 | 1,300+ | |
-| `lisaunt/wwxeq` | 2026-03-29 | 2,591 | 銀商、極速賽車 |
-| `danielfw4willisb/dvdv` | 2026-03-28 | 1,323 | 2026超全指南、2026独家精选 |
-| `bbio0118/kggla` | 2026-03-28 | 496 | X分钟了解-XXX-第一财经 |
-| `frederick2025-d9/erey7` | 2026-03-28 | 498 | X分钟了解-XXX-第一财经 |
-| `noumarageue/tllub` | 2026-03-28 | 496 | X分钟了解-XXX-第一财经 |
-| `vinod5li/gdrzb` | 2026-03-28 | 1,100+ | |
-| `isaacshirt/lhag4` | 2026-03-28 | 1,000+ | |
-| `zemtal/oy5ob` | 2026-03-28 | 1,100+ | |
-| `frisacamer/xpe2j` | 2026-03-28 | 1,100+ | |
-| `charles-king504e/xt5q0` | 2026-03-28 | 413 | X分钟了解-XXX-第一财经 |
-| `rhoselin/w3z4e` | 2026-03-28 | 498 | X分钟了解-XXX-第一财经 |
-| `jy2886-2/7w1v6` | 2026-03-28 | 299 | X分钟了解-XXX-第一财经 |
-| `llevaner/gmvnh` | 2026-03-28 | 600+ | |
-| `shrimp79sk/z57` | 2026-03-29 | 541 | 2026最新XXX、彩票导师 |
-| `thedrikes/oo0` | 2026-03-29 | 501 | 2026最新XXX、彩票导师 |
-| `gukasydamo/agnzgu` | 2026-03-29 | 500 | 2026独家精选、年度更新 |
-| `davidljone/msxtlt` | 2026-03-29 | 500 | 2026独家精选、年度更新 |
-| `eleyardone/1p1gg3` | 2026-03-29 | 500 | 2026独家精选、年度更新 |
-| `klausdelac/c82ym0` | 2026-03-29 | 500 | 2026独家精选、年度更新 |
-| `jimkrudzel/nir3xa` | 2026-03-29 | 500 | 2026独家精选、年度更新 |
-| `bsethpwyatt/zb424` | 2026-03-28 | 294 | X分钟了解-XXX-第一财经 |
-| `maxsappi/06pcc9` | 2026-03-29 | 423 | 2026全面科普 |
-| `ahanhawk/m0jyqf` | 2026-03-29 | 464 | plotly_chart kwargs deprecation warning |
-| `womap3/6yjlo` | 2026-03-28 | 336 | 第一人物、第一科普，分析第一 |
-| `gmarla/my` | 2026-03-29 | 200 | 隨機字符 spam |
-| `gmarla/il` | 2026-03-29 | 141 | 隨機字符 spam |
-| `georoconto2030/w72vf` | 2026-03-28 | 140 | 第一人物、第一科普 |
-| `bbio0118/g7c9f` | 2026-03-28 | 159 | 隨機字符 spam |
-| `ervin-smolka346d/k` | 2026-03-29 | 2,020 | 皇冠信用盘出租 |
-| `plushlowski/m88ur` | 2026-03-30 | 388 | 澳洲幸运10 spam |
-| `montagrang/588ex` | 2026-03-27 | 1,504 | 彩票 spam |
-| `rgrossic/g11iour4` | 2026-03-26 | 418 | 门徒娱乐 spam |
-| `iphobiks/757p9` | 2026-03-27 | 2,851 | 门徒娱乐 spam |
-| `smithalmed/m2d3p` | 2026-03-27 | 1,200 | 门徒娱乐 spam |
-| `danyafordepsdg/j` | 2026-03-29 | 127 | 皇冠信用盘出租 |
-| `rjelix/9uj` | 2026-03-30 | 46 | 保管箱 spam |
-| `mf3187-6/6dnno` | 2026-03-29 | 1,018 | 技術文章偽裝 spam |
-| `maxvivian/o1v0l` | 2026-03-29 | 471 | 91y銀商 spam |
-| `bdtrapicom/0` | 2026-03-30 | 173 | 91y銀商 spam |
-| `rjelix/04w` | 2026-03-30 | 68 | 保管箱 spam |
-| `set43diviny2/8trq` | 2026-03-30 | 93 | 技術文章偽裝 spam |
-| `bayjhand/xjbp` | 2026-03-30 | 90 | 技術文章偽裝 spam |
-| `khanvgpalle/ubov0` | 2026-03-30 | 24 | 極速賽車 spam |
-| `batchero/44h3v` | 2026-03-30 | 84 | 極速賽車 spam |
+| `jackcyachner/xmpfev` | 2026-03-30 | 1,400+ | 魚丸捕魚/PG電子 |
+| `whbhams/i96d` | 2025-12-14 | 1,345 | |
+| `nechsdusenko/bensterdarch-bec` | 2025-12-11 | 1,177 | |
+
+### 2026-03-30 新發現 Spam Repo
+
+| Repo | 建立時間 | Issues 數量 | 備註 |
+|------|----------|-------------|------|
+| `johrok/dqwdqdq` | 2026-03-30 | 7,600+ | 大發/快3/极速飞艇 倍投公式 |
+| `jakesms/xiaoixoafei` | 2026-03-30 | 17,500+ | 快3 計劃導師 spam |
+| `jackcyachner/xmpfev` | 2026-03-30 | 1,400+ | 魚丸捕魚/PG電子 spam |
+| `mnosd6815/u98` | 2026-03-30 | 427 | |
+| `akirjannerchepu/v` | 2026-03-30 | 395 | |
+| `sienwal2002/h0d` | 2026-03-30 | 131 | |
 
 ### 宝塔面板 Spam（2026-03 新發現）
 
@@ -418,6 +381,51 @@ gh search repos 'qq.com in:repo'
 | `takestarry/1anoi` | 2026-03-27 | 146 |
 | `di-pai-phoo/p9vcv` | 2026-03-27 | 144 |
 
+### 2026-03-30 新 Spam Pattern
+
+#### 1. 快3 計劃導師 spam
+```
+快3计划导师团队
+快3单带一对一计划导师
+快3赚钱计划聊天室
+快3大小单双平台导师计划
+快3精准计划三天包回本
+快3聊天室赚钱
+```
+
+#### 2. 极速飞艇 spam
+```
+极速飞艇8码走势技巧图
+极速飞艇7码计划表规律
+极速飞艇五码跨度
+极速飞艇信誉群
+极速飞艇168官网
+```
+
+#### 3. 倍投公式 spam
+```
+分分快3倍投公式
+分分快3倍投10期方案
+极速飞艇8码倍投规律
+大发全天快3永久计划网
+```
+
+#### 4. 大發 回血 spam
+```
+大发回血邀请码是多少
+大发回血稳赚的玩法
+大发群计划导师带人赚钱
+大发全天实时计划团队
+```
+
+#### 5. 魚丸捕魚/PG電子 spam
+```
+魚丸捕魚充值微信銀商
+魚丸捕魚上下分客服銀商
+PG電子游戏麻将胡了2打法
+PG電子大奖视频
+```
+
 ---
 
 ## 十一、數量估算總結
@@ -425,9 +433,11 @@ gh search repos 'qq.com in:repo'
 | 類型 | 數量 |
 |------|------|
 | 非 2026 Spam（歷史累積） | ~11,375 issues |
-| 2026 Spam（持續增長） | **15萬+ issues**（大量新 pattern 被發現） |
+| 2026 Spam（持續變化） | **15萬+ issues**（GitHub 開始刪除部分 spam） |
 
 ---
 
 ## 更新時間
 2026-03-30（大量新 spam pattern 持續發現）
+- 2026-03-30 14:30：新增今日巨型 spam repos（johrok, jakesms, jackcyachner）
+- 發現 GitHub 開始刪除部分 spam（rluchik1/o 從 10,000+ 降至 1,900）
