@@ -5,36 +5,40 @@
 ### 超大型 Spam（5000+ issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `rluchik1/o` | 2026-03-21 | ~1,900 (高峰期 10,000+) | 大量刪除中 | |
-| `agunni/d1l8f` | 2026-03-27 | 29,000+ | 持續快速增長 | |
-| `jakesms/xiaoixoafei` | 2026-03-30 | 17,500+ | 今日新發現 | |
-| `nkhed/nkhed.github.io` | 2025-09-14 | 15,270 | 歷史累積 | |
-| `johrok/dqwdqdq` | 2026-03-30 | 7,600+ | 今日新發現，快速增長中 | |
+| `rluchik1/o` | 2026-03-21 | 10,470 | | Report: 2026-03-30 |
 
 ### 大型 Spam（2000-5000 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `allisongae/oimxa` | 2026-03-29 | 5,136 | 持續增長 | |
-| `womansalad/pztlg` | 2026-03-29 | 4,917 | 持續增長 | |
-| `clebcourse/s0rpd` | 2026-03-29 | 4,097 | 持續增長 | |
-| `shyathsing/drqxv` | 2026-03-29 | 4,078 | 持續增長 | |
-| `smramy/1cjhc` | 2026-03-29 | 2,100+ | 成長放緩 | |
-| `milica64/d1acb` | 2026-03-29 | 2,800+ | | |
-| `noumarageue/5xhk7` | 2026-03-28 | 2,983 | | |
-| `jy2886-2/ygi0v` | 2026-03-28 | 2,958 | | |
-| `hga080/hga0800` | 2026-03-11 | 2,191 | 足球平台出租 spam | |
-| `rhoselin/cjrsq` | 2026-03-28 | 2,997 | | |
-| `waizou/1uovd` | 2026-03-28 | 2,989 | | |
-| `lisaunt/wwxeq` | 2026-03-29 | 2,727+ | | |
-| `iphobiks/757p9` | 2026-03-27 | 2,851 | | |
-| `crib5bull/acc61` | 2026-03-29 | 2,600+ | | |
-| `pxcarter/skc3u` | 2026-03-29 | 2,589 | | |
-| `powersandr/x1g62` | 2026-03-29 | 2,400+ | | |
-| `xhizan/6m81n` | 2026-03-29 | 2,469 | | |
-| `thanhctapcon/thanhctapcon.github.io` | 2025-08-26 | 3,705 | PG電子 spam | |
-| `jackcyachner/xmpfev` | 2026-03-30 | 1,422 | 魚丸捕魚/PG電子 | |
-| `whbhams/i96d` | 2025-12-14 | 1,345 | | |
-| `nechsdusenko/bensterdarch-bec` | 2025-12-11 | 1,177 | | |
+| `allisongae/oimxa` | 2026-03-29 | 4,078 | | Report: 2026-03-30 |
+| `womansalad/pztlg` | 2026-03-29 | 4,014 | | Report: 2026-03-30 |
+| `clebcourse/s0rpd` | 2026-03-29 | 3,800 | | Report: 2026-03-30 |
+| `shyathsing/drqxv` | 2026-03-29 | 3,122+ | | Report: 2026-03-30 |
+| `smramy/1cjhc` | 2026-03-29 | 3,086+ | | Report: 2026-03-30 |
+| `milica64/d1acb` | 2026-03-29 | 2,886 | | Report: 2026-03-30 |
+| `agunni/d1l8f` | 2026-03-29 | 2,860 | | Report: 2026-03-30 |
+| `noumarageue/5xhk7` | 2026-03-28 | 2,983 | | Report: 2026-03-30 |
+| `jy2886-2/ygi0v` | 2026-03-28 | 2,958 | | Report: 2026-03-30 |
+| `hga080/hga0800` | 2026-03-11 | 2,191 | 足球平台出租 spam | Report: 2026-03-30 |
+| `rhoselin/cjrsq` | 2026-03-28 | 2,997 | | Report: 2026-03-30 |
+| `waizou/1uovd` | 2026-03-28 | 2,989 | | Report: 2026-03-30 |
+| `lillianxxbanksh/7` | 2026-03-29 | 2,130+ | | Report: 2026-03-30 |
+| `norma9783-lundy7/o` | 2026-03-29 | 2,130+ | | Report: 2026-03-30 |
+| `julke-541/b` | 2026-03-29 | 2,130+ | | Report: 2026-03-30 |
+| `ervin-smolka346d/k` | 2026-03-29 | 2,130+ | | Report: 2026-03-30 |
+| `lisaunt/wwxeq` | 2026-03-29 | 2,727+ | | Report: 2026-03-30 |
+| `iphobiks/757p9` | 2026-03-27 | 2,851 | | Report: 2026-03-30 |
+| `crib5bull/acc61` | 2026-03-29 | 2,608 | | Report: 2026-03-30 |
+| `pxcarter/skc3u` | 2026-03-29 | 2,589 | | Report: 2026-03-30 |
+| `powersandr/x1g62` | 2026-03-29 | 2,437+ | | Report: 2026-03-30 |
+| `xhizan/6m81n` | 2026-03-29 | 2,469 | | Report: 2026-03-30 |
+| `crib5bull/acc61` | 2026-03-29 | 2,453 | | Report: 2026-03-30 |
+| `pxcarter/skc3u` | 2026-03-29 | 2,483 | | Report: 2026-03-30 |
+| `montagrang/588ex` | 2026-03-27 | 1,504 | | |
+| `mildred6993-moran9/rkx` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
+| `y7dersmith58/ok7` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
+| `kriwalleni7/qu8` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
+| `karagfqreynol1/9a9` | 2026-03-27 | 1,027 | 星力 gambling spam | Report: 2026-03-30 |
 
 ### 中型 Spam（500-2000 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -43,7 +47,7 @@
 | `arebitl/z99tq` | 2026-03-29 | 1,300+ | | |
 | `danielfw4willisb/dvdv` | 2026-03-28 | 1,323 | | |
 | `smithalmed/m2d3p` | 2026-03-27 | 1,200 | | |
-| `llevaner/gmvnh` | 2026-03-28 | 3,540 | | |
+| `llevaner/gmvnh` | 2026-03-28 | 3,540 | | Report: 2026-03-30 |
 | `mf3187-6/6dnno` | 2026-03-29 | 1,018 | | |
 | `vinod5li/gdrzb` | 2026-03-28 | 1,100+ | | |
 | `isaacshirt/lhag4` | 2026-03-28 | 1,000+ | | |
@@ -63,8 +67,8 @@
 | `klausdelac/c82ym0` | 2026-03-29 | 500 | | |
 | `jimkrudzel/nir3xa` | 2026-03-29 | 500 | | |
 | `bsethpwyatt/zb424` | 2026-03-28 | 294 | | |
-| `bsethpwyatt/fpp8o` | 2026-03-28 | 2,968 | | |
-| `charles-king504e/5mcxw` | 2026-03-28 | 2,967 | | |
+| `bsethpwyatt/fpp8o` | 2026-03-28 | 2,968 | | Report: 2026-03-30 |
+| `charles-king504e/5mcxw` | 2026-03-28 | 2,967 | | Report: 2026-03-30 |
 | `maxsappi/06pcc9` | 2026-03-29 | 423 | | |
 | `ahanhawk/m0jyqf` | 2026-03-29 | 464 | | |
 | `womap3/6yjlo` | 2026-03-28 | 336 | | |
@@ -107,11 +111,6 @@
 | `fabrilt89/8d8` | 2026-03-30 | 118 | 電玩/spawning spam | |
 | `lockettech/d0z` | 2026-03-30 | 87 | 電玩/spawning spam | |
 | `kamilaparn/5rr` | 2026-03-30 | 103 | 電玩/spawning spam | |
-| `akirjannerchepu/v` | 2026-03-30 | 395 | 今日新發現 | |
-| `mnosd6815/u98` | 2026-03-30 | 427 | 今日新發現 | |
-| `sienwal2002/h0d` | 2026-03-30 | 131 | 今日新發現 | |
-| `vuldjohsbey/vuldjohsbey.github.io` | 2025-09-14 | 1,419 | 快3 回血 spam | |
-| `evin718/rpw58` | 2026-03-30 | 1,235 | 快3/大發 spam | |
 
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -170,26 +169,26 @@
 ### 2025 Spam
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `lilladezman-boop/y7vk53iv` | 2025-08-06 | 5,209 | | |
-| `snowladidi-hash/zrbsou18` | 2025-08-06 | 3,795 | | |
-| `hnsts666/-2134563145` | 2025-10-18 | 166 | | |
-| `xx248808dfhsy/-Y-HJ0071510` | 2025-06-19 | 44 | | |
-| `zlfhlls/-Y-` | 2025-07-13 | 36 | | |
-| `flqazlfmmm/HJ0071510` | 2025-06-27 | 13 | | |
-| `skdfjhjk455/-Y-` | 2025-07-11 | 4 | | |
-| `sluo89170-maker/xs10211.com` | 2025-12-11 | 2 | | |
-| `hienquocha-ship-it/j` | 2025-09-25 | 99 | | |
+| `lilladezman-boop/y7vk53iv` | 2025-08-06 | 5,209 | | Report: 2026-03-30 |
+| `snowladidi-hash/zrbsou18` | 2025-08-06 | 3,795 | | Report: 2026-03-30 |
+| `hnsts666/-2134563145` | 2025-10-18 | 166 | | Report: 2026-03-30 |
+| `xx248808dfhsy/-Y-HJ0071510` | 2025-06-19 | 44 | | Report: 2026-03-30 |
+| `zlfhlls/-Y-` | 2025-07-13 | 36 | | Report: 2026-03-30 |
+| `flqazlfmmm/HJ0071510` | 2025-06-27 | 13 | | Report: 2026-03-30 |
+| `skdfjhjk455/-Y-` | 2025-07-11 | 4 | | Report: 2026-03-30 |
+| `sluo89170-maker/xs10211.com` | 2025-12-11 | 2 | | Report: 2026-03-30 |
+| `hienquocha-ship-it/j` | 2025-09-25 | 99 | | Report: 2026-03-30 |
 
 ### 2024 Spam
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `8brdh7uf/hahaha` | 2024-03-10 | 300 | | |
+| `8brdh7uf/hahaha` | 2024-03-10 | 300 | | Report: 2026-03-30 |
 
 ### 2023 Spam（域名搶注）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `rthrsd/baidu.com` | 2023-01-04 | 990 | | |
-| `dfghau/baidu` | 2023-01-05 | 717 | | |
+| `rthrsd/baidu.com` | 2023-01-04 | 990 | | Report: 2026-03-30 |
+| `dfghau/baidu` | 2023-01-05 | 717 | | Report: 2026-03-30 |
 
 ---
 
@@ -197,29 +196,13 @@
 
 | 類型 | 估算數量 |
 |------|----------|
-| 2026 Spam | 15萬+ issues（GitHub 開始刪除部分 spam） |
+| 2026 Spam | 20萬+ issues（持續快速增長） |
 | 非 2026 Spam | ~11,375 issues |
-| **總計** | **16萬+ issues** |
-
-### 2026-03-30 新發現 Spam（今日）
-
-| Repo | 建立時間 | Issues 數量 | 備註 |
-|------|----------|-------------|------|
-| `johrok/dqwdqdq` | 2026-03-30 | 7,600+ | 大發/快3 倍投公式 spam |
-| `jakesms/xiaoixoafei` | 2026-03-30 | 17,500+ | 快3 計劃導師 spam |
-| `jackcyachner/xmpfev` | 2026-03-30 | 1,400+ | 魚丸捕魚/PG電子 spam |
-| `agunni/d1l8f` | 2026-03-27 | 29,000+ | 平台主管 spam（持續增長） |
-| `mnosd6815/u98` | 2026-03-30 | 427 | 今日新發現 |
-| `akirjannerchepu/v` | 2026-03-30 | 395 | 今日新發現 |
-| `sienwal2002/h0d` | 2026-03-30 | 131 | 今日新發現 |
-| `vuldjohsbey/vuldjohsbey.github.io` | 2025-09-14 | 1,419 | 快3 回血 spam |
-| `evin718/rpw58` | 2026-03-30 | 1,235 | 快3/大發 spam |
-
-### 2026-03-30 活跃 Spam Repo（96 個 unique repos 發布新 issue）
+| **總計** | **21萬+ issues** |
 
 ---
 
 ## 更新時間
 2026-03-30
 
-**注意**：所有 Report 欄位為空，待實際提交 GitHub Abuse Report 後再填寫日期。
+**注意**：只有上方表格中列出的 42 個 repos 已提交 abuse report（Report: 2026-03-30）。其餘 repos 待報告。
