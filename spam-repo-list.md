@@ -5,6 +5,8 @@
 ### 超大型 Spam（5000+ issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
+| `johrok/dqwdqdq` | 2026-03-30 | 22,050 | 赛车计划 spam | |
+| `jakesms/xiaoixoafei` | 2026-03-30 | 20,253 | 快3计划导师 spam | |
 | `rluchik1/o` | 2026-03-21 | 10,470 | | Report: 2026-03-30 |
 
 ### 大型 Spam（2000-5000 issues）
@@ -18,6 +20,8 @@
 | `milica64/d1acb` | 2026-03-29 | 2,886 | | Report: 2026-03-30 |
 | `agunni/d1l8f` | 2026-03-29 | 2,860 | | Report: 2026-03-30 |
 | `noumarageue/5xhk7` | 2026-03-28 | 2,983 | | Report: 2026-03-30 |
+| `jackcyachner/xmpfev` | 2026-03-30 | 4,265 | 上门服务 spam | |
+| `porpn/nihaqfe` | 2026-03-30 | 2,322 | pg麻将胡了 spam | |
 | `jy2886-2/ygi0v` | 2026-03-28 | 2,958 | | Report: 2026-03-30 |
 | `hga080/hga0800` | 2026-03-11 | 2,191 | 足球平台出租 spam | Report: 2026-03-30 |
 | `rhoselin/cjrsq` | 2026-03-28 | 2,997 | | Report: 2026-03-30 |
@@ -66,6 +70,17 @@
 | `jimkrudzel/nir3xa` | 2026-03-29 | 500 | | |
 | `bsethpwyatt/zb424` | 2026-03-28 | 294 | | |
 | `bsethpwyatt/fpp8o` | 2026-03-28 | 2,968 | | Report: 2026-03-30 |
+| `tohmenter/75jwt` | 2026-03-30 | 1,808 | pg麻将胡了 spam | |
+| `welbm/b7r1m` | 2026-03-30 | 1,808 | pg麻将胡了 spam | |
+| `svaril-ittac/0aor3` | 2026-03-30 | 1,806 | pg麻将胡了 spam | |
+| `zenohapric/hp7j0` | 2026-03-30 | 1,806 | pg麻将胡了 spam | |
+| `jimantenok/6m63u` | 2026-03-30 | 1,806 | pg麻将胡了 spam | |
+| `jisonm-ndss/m29cm` | 2026-03-30 | 1,806 | pg麻将胡了 spam | |
+| `ronemerdbayuntc/5sflb` | 2026-03-30 | 1,807 | pg麻将胡了 spam | |
+| `davidgamerabs/3d2hw` | 2026-03-30 | 1,805 | pg麻将胡了 spam | |
+| `behreica/7nuty` | 2026-03-30 | 1,805 | pg麻将胡了 spam | |
+| `hhoylongkenzol95/9aplc` | 2026-03-30 | 1,805 | pg麻将胡了 spam | |
+| `cvarkiett/98j` | 2026-03-30 | 1,334 | pg麻将胡了 spam | |
 | `charles-king504e/5mcxw` | 2026-03-28 | 2,967 | | Report: 2026-03-30 |
 | `maxsappi/06pcc9` | 2026-03-29 | 423 | | |
 | `ahanhawk/m0jyqf` | 2026-03-29 | 464 | | |
