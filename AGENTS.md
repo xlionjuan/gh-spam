@@ -188,6 +188,8 @@ git commit -m 'Update: add new spam repos found'
 git push
 ```
 
+**Forgejo Push 注意**：此專案托管於 Forgejo (`git.xlion.tw`)，偶爾會出現認證錯誤。若 push 失敗，重試一次即可成功。
+
 ### 提交 GitHub Abuse Report
 1. 建立 report 檔案：`github-spam-report-YYYY-MM-DD.md`
 2. **Report 格式注意**：不要包含以下欄位：
