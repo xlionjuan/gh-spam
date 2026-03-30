@@ -142,6 +142,66 @@ SpringMVC 核心原理讲解
 ### 驗證並更新清單
 1. 發現可疑 repo → 2. `gh api repos/USER/REPO --jq '{...}'` → 3. 記錄到 spam-repo-list.md → 4. 如已 report，填寫 report 日期
 
+### 批次尋找新 spam repos（2026-03-30 為例）
+```bash
+# 1. 列出特定日期的所有 unique repos
+gh search issues 'created:2026-03-30' --limit 500 --sort created | \
+  grep -E '^[a-z0-9-]+/[a-z0-9]+' | awk '{print $1}' | sort -u
+
+# 2. 過濾高 issue 數量的可疑 repos
+gh search issues 'created:2026-03-30' --limit 500 --sort created | \
+  grep -E '^[a-z0-9-]+/[a-z0-9]+' | awk '{if ($2 > 100) print}' | head -30
+
+# 3. 批次驗證 repos（檢查建立時間和 issue 數量）
+for repo in repo1 repo2 repo3; do
+  info=$(gh api repos/$repo --jq '{created: .created_at, issues: .open_issues_count}' 2>/dev/null)
+  echo "$repo: $info"
+done
+
+# 4. 檢查 issue 標題確認是否為 spam
+gh api repos/USER/REPO/issues --jq '.[0:3] | .[].title'
+```
+
+### 識別技術名稱偽裝 spam
+技術專案名稱 spam 的共同特徵：
+- Repo 名稱：隨機字元組合（如 `khanvgpalle/ubov0`、`kwonghugo/o8629`）
+- Issue 內容：賭博關鍵字隱藏在技術標題中
+- 同時間大量出現（同一分鐘建立）
+```bash
+# 搜尋技術名稱偽裝 spam
+gh search issues 'created:2026-03-30' --limit 500 --sort created | \
+  grep -E '(Vite|React|Spring|LangChain|Docker|Gatsby|Nuxt)' | head -20
+```
+
+### Git 工作流程
+```bash
+# 初始化（首次）
+git init -b main
+git add -A
+git commit -m 'Initial commit'
+git remote add origin https://git.xlion.tw/xlionjuan/gh-spam.git
+git push -u origin main
+
+# 更新後推送
+git add -A
+git commit -m 'Update: add new spam repos found'
+git push
+```
+
+### 提交 GitHub Abuse Report
+1. 建立 report 檔案（包含 timestamp）：`github-spam-report-YYYY-MM-DD.md`
+2. 複製 report 內容到 [GitHub Abuse Form](https://github.com/contact/report-abuse)
+3. 或 email 到 abuse@github.com
+4. 更新 spam-repo-list.md 中所有相關 repos 的 Report 日期
+
+### 批次更新 Report 日期
+```bash
+# 將所有空的 Report 欄位填入日期
+sed -i '/^|.*| |$/s/| |/| Report: 2026-03-30 |/' spam-repo-list.md
+
+# 或手動指定某幾個 repo（需手動編輯）
+```
+
 ## 研究檔案
 - `spam-patterns.md` - 完整 pattern 分析
 - `spam-repo-list.md` - 已被確認的 spam repo 清單（含 report 狀態）
