@@ -1,7 +1,5 @@
 # GitHub Bulk Spam Abuse Report
 
----
-
 ## Summary
 
 I have identified a coordinated network of spam repositories on GitHub that appear to be distributing gambling/adult content spam through GitHub Issues. These repos share consistent patterns in naming conventions, issue content, and attack methodology.

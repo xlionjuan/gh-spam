@@ -1,11 +1,5 @@
 # GitHub Bulk Spam Abuse Report - Historical Spam
 
-**Report Date:** 2026-03-30
-**Reporter:** Community Contributor
-**Contact:** N/A (public research)
-
----
-
 ## Summary
 
 This is a follow-up report to my previous submission, covering additional spam repositories that were identified as part of the same coordinated gambling spam attack network but belong to earlier time periods (2023-2025).
@@ -76,8 +70,3 @@ These historical spam repositories follow the same attack methodology as the 202
 ## Request
 
 I request that GitHub Trust & Safety team investigate these historical spam repositories as part of the broader coordinated spam network investigation.
-
----
-
-**Report ID:** `github-spam-report-2026-03-30-historical`
-**Generated:** 2026-03-30
