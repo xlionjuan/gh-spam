@@ -32,8 +32,6 @@
 | `pxcarter/skc3u` | 2026-03-29 | 2,589 | | Report: 2026-03-30 |
 | `powersandr/x1g62` | 2026-03-29 | 2,437+ | | Report: 2026-03-30 |
 | `xhizan/6m81n` | 2026-03-29 | 2,469 | | Report: 2026-03-30 |
-| `crib5bull/acc61` | 2026-03-29 | 2,453 | | Report: 2026-03-30 |
-| `pxcarter/skc3u` | 2026-03-29 | 2,483 | | Report: 2026-03-30 |
 | `montagrang/588ex` | 2026-03-27 | 1,504 | | |
 | `mildred6993-moran9/rkx` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
 | `y7dersmith58/ok7` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
