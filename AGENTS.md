@@ -45,6 +45,13 @@ gh api users/USERNAME --jq '{login: .login, created: .created_at}'
 ### 驗證步驟
 1. 發現可疑 spam repo → 2. 檢查 `gh api repos/USER/REPO --jq '.created_at'` → 3. 確認建立時間 → 4. 記錄到 spam-repo-list.md
 
+### ⚠️ 重要規則：嚴禁提前填寫 Report 日期
+**嚴禁在未實際提交 GitHub Abuse Report 之前填寫 Report 日期！**
+- 只有已提交 abuse report 的 repos 才能填寫 Report 日期
+- 發現新 spam repo 時，Report 欄位留空
+- 填寫日期必須是真正完成 report 的日期
+- 違者後果自負
+
 ### 驗證 repo 是否仍存在
 ```bash
 gh api repos/USER/REPO --jq '.name' 2>/dev/null || echo "DELETED"
