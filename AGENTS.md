@@ -189,10 +189,16 @@ git push
 ```
 
 ### 提交 GitHub Abuse Report
-1. 建立 report 檔案（包含 timestamp）：`github-spam-report-YYYY-MM-DD.md`
-2. 複製 report 內容到 [GitHub Abuse Form](https://github.com/contact/report-abuse)
-3. 或 email 到 abuse@github.com
-4. 更新 spam-repo-list.md 中所有相關 repos 的 Report 日期
+1. 建立 report 檔案：`github-spam-report-YYYY-MM-DD.md`
+2. **Report 格式注意**：不要包含以下欄位：
+   - `Report Date:`
+   - `Reporter:`
+   - `Contact:`
+   - `Report ID:`
+   - `Generated:`
+3. 複製 report 內容到 [GitHub Abuse Form](https://github.com/contact/report-abuse)
+4. 或 email 到 abuse@github.com
+5. 更新 spam-repo-list.md 中所有相關 repos 的 Report 日期
 
 ### 批次更新 Report 日期
 ```bash
