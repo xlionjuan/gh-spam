@@ -5,6 +5,13 @@
 ### 超大型 Spam（5000+ issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
+| `courl0dowm/wftp` | 2026-03-30 | 17,662+ | 一肖一码 spam | |
+| `thedardney/h96` | 2026-03-30 | 9,504+ | c7 spam | |
+| `janceswl/d83` | 2026-03-30 | 9,101+ | c7/188BET spam | |
+| `ta96489580/nl3` | 2026-03-30 | 9,051+ | c7 spam | |
+| `achen-msima/0jh` | 2026-03-30 | 9,030+ | c7 spam | |
+| `chewor-nyunkeyei/dmf` | 2026-03-30 | 9,510+ | 188BET spam | |
+| `octnihb/08z` | 2026-03-30 | 8,560+ | 188BET spam | |
 | `huzhangh2010/a8a` | 2026-03-30 | 9,608+ | ２０２６第一指南 spam | |
 | `justibricks/7kg` | 2026-03-30 | 9,491+ | ２０２６第一甄选 spam | |
 | `lucavieidev/6tg` | 2026-03-30 | 8,586+ | ２０２６第一专栏 spam | |
@@ -51,6 +58,8 @@
 | `womap3/6yjlo` | 2026-03-28 | 336 | | |
 | `rgrossic/g11iour4` | 2026-03-26 | 418 | | |
 | `skymonthar/7f7s7` | 2026-03-20 | 1,354 | 網投第一信誉 spam | |
+| `glantand2012/0bczc` | 2026-03-30 | 6,270+ | kaiyun spam | |
+| `quantilid199/pbz` | 2026-03-30 | 5,171+ | 皇冠信用盘 spam | |
 
 ### 小型 Spam（<500 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -71,6 +80,12 @@
 | `svaril-ittac/n65a4` | 2026-03-30 | 100 | pg电子赌博 spam | |
 | `ronemerdbayuntc/afud6` | 2026-03-30 | 100 | PG电子网站 spam | |
 | `welbm/kz7rw` | 2026-03-30 | 100 | PG电子网站 spam | |
+| `olusafikot/raii3` | 2026-03-30 | 404 | 皇冠信用盘 spam | |
+| `quantilid199/5ji` | 2026-03-30 | 67 | 皇冠信用盘 spam | |
+| `helixvalo/dv8on` | 2026-03-30 | 199 | 皇冠信用盘 spam | |
+| `helixvalo/odbjp` | 2026-03-30 | 301 | 皇冠信用盘 spam | |
+| `cvgobbasoo/96i2d` | 2026-03-30 | 402 | 皇冠信用盘 spam | |
+| `zoungh1227/2q8` | 2026-03-30 | 303 | 皇冠信用盘 spam | |
 
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
