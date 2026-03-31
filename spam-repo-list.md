@@ -87,7 +87,7 @@
 | `zgjin62/n` | 2026-03-30 | 2,238 | 微信群 spam | Report: 2026-04-01 |
 | `rell-2006/q` | 2026-03-30 | 2,233 | 微信群 spam | Report: 2026-04-01 |
 | `hga080/hga0800` | 2026-03-11 | 2,191 | 足球平台出租 spam | Report: 2026-03-30 |
-| `ervin-smolka346d/k` | 2026-03-29 | 2,130+ | Report: 2026-03-30 |
+| `ervin-smolka346d/k` | 2026-03-29 | 2,130+ | | Report: 2026-03-30 |
 | `iphobiks/757p9` | 2026-03-27 | 3,126 | | Report: 2026-03-30 |
 | `mildred6993-moran9/rkx` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
 | `y7dersmith58/ok7` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
@@ -138,8 +138,8 @@
 | `tomncc2112/ejgbcco` | 2026-03-31 | 722 | ２０２６第一 spam | |
 | `yaroshmedi/vpp` | 2026-03-31 | 1,243 | ２０２６第一 spam | |
 | `yowar4zow/exrdxpwn` | 2026-03-30 | 679 | ２０２６第一 spam | |
-| `ln1962/anqbn` | 2026-03-29 | 3,501+ | Report: 2026-04-01 |
-| `arebitl/z99tq` | 2026-03-29 | 3,459+ | Report: 2026-04-01 |
+| `ln1962/anqbn` | 2026-03-29 | 3,501+ | | Report: 2026-04-01 |
+| `arebitl/z99tq` | 2026-03-29 | 3,459+ | | Report: 2026-04-01 |
 | `llevaner/gmvnh` | 2026-03-28 | 3,813 | | Report: 2026-03-30 |
 | `bsethpwyatt/fpp8o` | 2026-03-28 | 2,968 | | Report: 2026-03-30 |
 | `cvarkiett/98j` | 2026-03-30 | 1,356 | pg麻将胡了 spam | Report: 2026-04-01 |
@@ -315,25 +315,25 @@
 ### 技術項目名稱 Spam（2026-03-30 新發現）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `kwonghugo/o8629` | 2026-03-30 | 500+ | Report: 2026-04-01 |
-| `johnshawn0/k25c5` | 2026-03-30 | 500+ | Report: 2026-04-01 |
-| `herrdowe/3ybrj` | 2026-03-30 | 500+ | Report: 2026-04-01 |
-| `sandershin/eep10` | 2026-03-30 | 500+ | Report: 2026-04-01 |
-| `tommiz-lan/vouxp` | 2026-03-30 | 500+ | Report: 2026-04-01 |
-| `obrisicino/yoih5` | 2026-03-30 | 500+ | Report: 2026-04-01 |
-| `jrvfg/fsqmv` | 2026-03-30 | 499+ | Report: 2026-04-01 |
-| `k0mscribba/yxsdl` | 2026-03-30 | 497+ | Report: 2026-04-01 |
-| `mihainer/p4bcu` | 2026-03-30 | 500+ | Report: 2026-04-01 |
-| `howarddgro/5sh97` | 2026-03-30 | 498+ | Report: 2026-04-01 |
-| `jvest-787/apesh` | 2026-03-30 | 498+ | Report: 2026-04-01 |
-| `tgaani/ajcc3` | 2026-03-30 | 497+ | Report: 2026-04-01 |
-| `stageblade/shivg` | 2026-03-30 | 496+ | Report: 2026-04-01 |
-| `moorpura/yiiqu` | 2026-03-30 | 499+ | Report: 2026-04-01 |
-| `blackegypt/hmh4y` | 2026-03-30 | 496+ | Report: 2026-04-01 |
-| `jhappyak/yh9u3` | 2026-03-30 | 496+ | Report: 2026-04-01 |
-| `tagwast/ymhd9` | 2026-03-30 | 492+ | Report: 2026-04-01 |
+| `kwonghugo/o8629` | 2026-03-30 | 500+ | | Report: 2026-04-01 |
+| `johnshawn0/k25c5` | 2026-03-30 | 500+ | | Report: 2026-04-01 |
+| `herrdowe/3ybrj` | 2026-03-30 | 500+ | | Report: 2026-04-01 |
+| `sandershin/eep10` | 2026-03-30 | 500+ | | Report: 2026-04-01 |
+| `tommiz-lan/vouxp` | 2026-03-30 | 500+ | | Report: 2026-04-01 |
+| `obrisicino/yoih5` | 2026-03-30 | 500+ | | Report: 2026-04-01 |
+| `jrvfg/fsqmv` | 2026-03-30 | 499+ | | Report: 2026-04-01 |
+| `k0mscribba/yxsdl` | 2026-03-30 | 497+ | | Report: 2026-04-01 |
+| `mihainer/p4bcu` | 2026-03-30 | 500+ | | Report: 2026-04-01 |
+| `howarddgro/5sh97` | 2026-03-30 | 498+ | | Report: 2026-04-01 |
+| `jvest-787/apesh` | 2026-03-30 | 498+ | | Report: 2026-04-01 |
+| `tgaani/ajcc3` | 2026-03-30 | 497+ | | Report: 2026-04-01 |
+| `stageblade/shivg` | 2026-03-30 | 496+ | | Report: 2026-04-01 |
+| `moorpura/yiiqu` | 2026-03-30 | 499+ | | Report: 2026-04-01 |
+| `blackegypt/hmh4y` | 2026-03-30 | 496+ | | Report: 2026-04-01 |
+| `jhappyak/yh9u3` | 2026-03-30 | 496+ | | Report: 2026-04-01 |
+| `tagwast/ymhd9` | 2026-03-30 | 492+ | | Report: 2026-04-01 |
 | `junatr0n/4a6gv` | 2026-03-30 | 494+ | PG電子 spam | Report: 2026-04-01 |
-| `lufuxuan1/adx` | 2026-03-30 | 162+ | Report: 2026-04-01 |
+| `lufuxuan1/adx` | 2026-03-30 | 162+ | | Report: 2026-04-01 |
 | `lufuxuan1/iiz` | 2026-03-30 | 239+ | 家電售后服務 spam | Report: 2026-04-01 |
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 |
 
