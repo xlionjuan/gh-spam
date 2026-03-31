@@ -34,6 +34,7 @@
 | `okdis/jr2` | 2026-03-30 | 5,058+ | 足球平台 spam | |
 | `evin718/rpw58` | 2026-03-30 | 4,915+ | 上岸回血 spam | |
 | `kktanil/uer` | 2026-03-30 | 5,202+ | 买球软件 spam | |
+| `licbbres/fhl6jzn1` | 2026-03-31 | 3,190 | 注册 spam | |
 | `afanducarsh/u6y` | 2026-03-31 | 4,123 | 预测 spam | |
 | `jeanleggener/4` | 2026-03-30 | 2,252 | 预测 spam | |
 | `matynguy/1` | 2026-03-30 | 2,262 | 预测 spam | |
