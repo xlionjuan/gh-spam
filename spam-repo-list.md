@@ -98,6 +98,47 @@
 ### 中型 Spam（500-2000 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
+| `abemingbuble/haaj` | 2026-03-30 | 2,391 | ２０２６第一 spam | |
+| `achiperal6677/r7` | 2026-03-31 | 2,427 | ２０２６第一 spam | |
+| `adadaslc/owh4` | 2026-03-31 | 2,434 | ２０２６第一 spam | |
+| `alex-giu/ylnny` | 2026-03-31 | 656 | ２０２６第一 spam | |
+| `anyuk4989/azf` | 2026-03-31 | 305 | ２０２６第一 spam | |
+| `arvaneshow/fcq` | 2026-03-31 | 805 | ２０２６第一 spam | |
+| `belibaser/heh` | 2026-03-31 | 1,439 | ２０２６第一 spam | |
+| `bjaezz/epnwvhvn` | 2026-03-30 | 659 | ２０２６第一 spam | |
+| `brchnprinterg/dbmptfy` | 2026-03-30 | 660 | ２０２６第一 spam | |
+| `charfanda/3wn` | 2026-03-31 | 874 | ２０２６第一 spam | |
+| `chlri/o5di` | 2026-03-31 | 2,444 | ２０２６第一 spam | |
+| `corakeloren/mfnimq` | 2026-03-31 | 407 | ２０２６第一 spam | |
+| `cordufree/gm` | 2026-03-31 | 2,451 | ２０２６第一 spam | |
+| `davidvktrosclr/snamd223` | 2026-03-30 | 8,966 | ２０２６第一 spam | |
+| `devlodi00/qwesziku` | 2026-03-30 | 663 | ２０２６第一 spam | |
+| `dogravia7/a263t` | 2026-03-31 | 329 | ２０２６第一 spam | |
+| `drafieldamion/qohtqkh` | 2026-03-31 | 711 | ２０２６第一 spam | |
+| `eliqueedito/7vk` | 2026-03-31 | 306 | ２０２６第一 spam | |
+| `fhederichb/ds` | 2026-03-31 | 2,460 | ２０２６第一 spam | |
+| `fiscollinzi/05x3` | 2026-03-31 | 1,957 | ２０２６第一 spam | |
+| `gitktger20/g5hxr` | 2026-03-31 | 330 | ２０２６第一 spam | |
+| `greschatewritn/bvvmbpo` | 2026-03-30 | 666 | ２０２６第一 spam | |
+| `hougro/yyf` | 2026-03-31 | 883 | ２０２６第一 spam | |
+| `izai1201/4p` | 2026-03-31 | 2,458 | ２０２６第一 spam | |
+| `jamesud13/hx9` | 2026-03-31 | 883 | ２０２６第一 spam | |
+| `khurius2004/9st` | 2026-03-31 | 1,710 | ２０２６第一 spam | |
+| `kite-4ml/nzdb` | 2026-03-30 | 669 | ２０２６第一 spam | |
+| `kjwilling/94q` | 2026-03-31 | 1,723 | ２０２６第一 spam | |
+| `leocelord/hx5` | 2026-03-31 | 308 | ２０２６第一 spam | |
+| `muyao102/y3` | 2026-03-31 | 2,474 | ２０２６第一 spam | |
+| `rehheerzcinoh/olpoh` | 2026-03-30 | 674 | ２０２６第一 spam | |
+| `sacheswike/dedrl` | 2026-03-30 | 673 | ２０２６第一 spam | |
+| `seaqoupersven/u9v75` | 2026-03-31 | 815 | ２０２６第一 spam | |
+| `shiyugithu/6jy` | 2026-03-31 | 1,199 | ２０２６第一 spam | |
+| `siminioc/twtsblv` | 2026-03-30 | 676 | ２０２６第一 spam | |
+| `sportsgit/rrk` | 2026-03-31 | 316 | ２０２６第一 spam | |
+| `tenderv/5w` | 2026-03-31 | 2,481 | ２０２６第一 spam | |
+| `tommerchrischk/cva` | 2026-03-31 | 1,713 | ２０２６第一 spam | |
+| `tomncc2112/ejgbcco` | 2026-03-31 | 722 | ２０２６第一 spam | |
+| `yaroshmedi/vpp` | 2026-03-31 | 1,243 | ２０２６第一 spam | |
+| `yowar4zow/exrdxpwn` | 2026-03-30 | 679 | ２０２６第一 spam | |
 | `ln1962/anqbn` | 2026-03-29 | 3,501+ | Report: 2026-04-01 |
 | `arebitl/z99tq` | 2026-03-29 | 3,459+ | Report: 2026-04-01 |
 | `llevaner/gmvnh` | 2026-03-28 | 3,813 | | Report: 2026-03-30 |
