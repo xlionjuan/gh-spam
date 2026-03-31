@@ -28,6 +28,7 @@
 | `okdis/jr2` | 2026-03-30 | 5,058+ | 足球平台 spam | |
 | `evin718/rpw58` | 2026-03-30 | 4,915+ | 上岸回血 spam | |
 | `kktanil/uer` | 2026-03-30 | 5,202+ | 买球软件 spam | |
+| `richtoala/rim` | 2026-03-30 | 3,446+ | 导师带你赚钱 spam | |
 | `CaseyVevefw/11y` | 2026-03-30 | 6,358+ | 芒果棋牌 spam | |
 | `johrok/dqwdqdq` | 2026-03-30 | 45,578 | 赛车计划 spam | |
 | `jakesms/xiaoixoafei` | 2026-03-30 | 45,000 | 快3计划导师 spam | |
