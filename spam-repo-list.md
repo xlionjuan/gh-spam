@@ -29,6 +29,7 @@
 | `yhyng/wjvcf` | 2026-03-30 | 6,289+ | 炸金花 spam | |
 | `damienlin/tlw` | 2026-03-30 | 5,056+ | 买球 spam | |
 | `chenbhove/7rb` | 2026-03-30 | 5,074+ | 网投 spam | |
+| `jeffvandel/huu` | 2026-03-31 | 1,176 | 菠菜 spam | |
 | `mshadysch/qum` | 2026-03-30 | 5,021+ | 买球 spam | |
 | `okdis/jr2` | 2026-03-30 | 5,058+ | 足球平台 spam | |
 | `evin718/rpw58` | 2026-03-30 | 4,915+ | 上岸回血 spam | |
