@@ -108,6 +108,28 @@ AG真人
 耀世
 门徒娱乐
 皇冠信用盘
+pg电子 / PG电子
+c7
+188BET
+kaiyun
+BET9
+芒果体育
+芒果棋牌
+集结号
+集结号91y
+信誉第一
+网投信誉
+买球
+世界杯买球
+赛车
+极速赛车
+快3
+3分快3
+加拿大28
+pc28
+pk10
+一肖一码
+白小姐
 ```
 
 #### 2026 新 spam 標題 pattern
@@ -135,29 +157,41 @@ SpringMVC 核心原理讲解
 91y银商
 极速赛车qq群
 澳洲幸运10微信群
+
+# 彩票欺騙
+一肖一码澳门一肖
+白小姐一码一肖中特
+精准四肖四码
+
+# 投注平台
+买球世界杯买球
+快3带赚包赔快3导师
 ```
 
-#### 2026 代表 spam repo
-| Repo |  Issues 數量 |
-|------|-------------|
-| `rluchik1/o` | 10,000+ |
-| `allisongae/oimxa` | 4,000+ |
-| `womansalad/pztlg` | 4,000+ |
-| `noumarageue/5xhk7` | 2,983 |
-| `jy2886-2/ygi0v` | 2,958 |
+#### 2026 Spam 攻擊時間線
+- 2026-03-30 大規模攻擊（多個 repos 同時建立，如 08:19）
+- 大型 spam 類型：
+  - pg麻将胡了（~7400 issues/repo）
+  - ２０２6第一指南/第一甄选/第一专栏（~8500-9600 issues/repo）
+  - c7 平台（~9000+ issues/repo）
+  - 188BET 平台（~8500-9500 issues/repo）
+  - AG真人（~6200+ issues/repo）
+  - 炸金花（~6200+ issues/repo）
+  - kaiyun（~6200+ issues/repo）
+  - 买球（~5000 issues/repo）
+  - 芒果棋牌（~6300+ issues/repo）
+  - 一肖一码/白小姐（~17,000+ issues/repo）
+  - 信誉类（~43,000 issues/repo）
 
 ### 2025 Spam
 - 關鍵字：`2025彩民`、`彩票导师`
-- 代表 repo：`lilladezman-boop/y7vk53iv`（5,209 issues）
 
 ### 2024 Spam
 - 少量 spam
-- 代表 repo：`8brdh7uf/hahaha`（300 issues）
 
 ### 2023 Spam（域名搶注）
 - 關鍵字：`《资讯》`、`AG真人`、`-2023`
-- 手法：域名搶注（如 `rthrsd/baidu.com`）
-- 代表 repo：`rthrsd/baidu.com`（990 issues）
+- 手法：域名搶注（如 `baidu.com` 作為 repo 名稱）
 
 ## 工作流程
 
@@ -261,7 +295,5 @@ grep '^|' spam-repo-list.md | grep -v 'Repo' | grep -v '\-\-\-' | awk -F'`' '{pr
 
 ## 網頁版完整搜尋語法
 ```
-("主管开户" OR "开户" OR "彩民" OR "娱乐平台" OR "澳洲幸运10" OR "星力" OR "91y" OR "银商" OR "AG真人" OR "百家乐" OR "百家家乐" OR "炸金花" OR "澳门赌场" OR "彩票平台" OR "棋牌" OR "代理" OR "总代" OR "返水" OR "信誉第一" OR "皇冠信用盘" OR "耀世" OR "门徒娱乐")
+("主管开户" OR "开户" OR "彩民" OR "娱乐平台" OR "澳洲幸运10" OR "星力" OR "91y" OR "银商" OR "AG真人" OR "百家乐" OR "百家家乐" OR "炸金花" OR "澳门赌场" OR "彩票平台" OR "棋牌" OR "代理" OR "总代" OR "返水" OR "信誉第一" OR "皇冠信用盘" OR "耀世" OR "门徒娱乐" OR "pg电子" OR "PG电子" OR "c7" OR "188BET" OR "kaiyun" OR "BET9" OR "芒果体育" OR "芒果棋牌" OR "集结号" OR "信誉网投" OR "买球" OR "世界杯买球" OR "赛车" OR "极速赛车" OR "快3" OR "加拿大28" OR "pc28" OR "pk10" OR "一肖一码" OR "白小姐")
 ```
-
-URL: https://github.com/search?q=%28%22%E4%B8%BB%E7%AE%A1%E5%BC%80%E6%88%B7%22+OR+%22%E5%BC%80%E6%88%B7%22+OR+%22%E5%BD%A9%E6%B0%91%22+OR+%22%E5%A8%B1%E6%A8%82%E5%B9%B3%E5%8F%B0%22+OR+%22%E6%BE%B3%E6%B4%B2%E5%B9%B8%E8%BF%9C10%22+OR+%22%E6%98%9F%E5%8A%9B%22+OR+%2291y%22+OR+%22%E9%93%B6%E5%95%86%22+OR+%22AG%E7%9C%9F%E4%BA%BA%22+OR+%22%E7%99%BE%E5%AE%B6%E4%B9%90%22+OR+%22%E7%99%BE%E5%AE%B6%E5%AE%B6%E4%B9%90%22+OR+%22%E7%82%B8%E9%87%91%E8%8A%B1%22+OR+%22%E6%BE%B3%E5%A4%96%E5%9C%B0%E5%9C%B0%22+OR+%22%E5%BD%A9%E7%90%83%E5%B9%B3%E5%8F%B0%22+OR+%22%E6%A3%8B%E7%89%88%22+OR+%22%E4%BB%A3%E7%90%86%22+OR+%22%E6%80%BB%E4%BB%A3%22+OR+%22%E8%BF%94%E6%B0%B4%22+OR+%22%E4%BF%A1%E8%AA%8D%E7%AC%AC%E4%B8%80%22%29&type=issues
