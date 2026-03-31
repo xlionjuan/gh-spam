@@ -36,7 +36,7 @@
 | `pxcarter/skc3u` | 2026-03-29 | 3,551 | | Report: 2026-03-30 (已刪除) |
 | `powersandr/x1g62` | 2026-03-29 | 2,437+ | | Report: 2026-03-30 (已刪除) |
 | `xhizan/6m81n` | 2026-03-29 | 3,512 | | Report: 2026-03-30 (已刪除) |
-| `montagrang/588ex` | 2026-03-27 | 1,504 | | |
+| `montagrang/588ex` | 2026-03-27 | 1,504 | |(已刪除) |
 | `mildred6993-moran9/rkx` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
 | `y7dersmith58/ok7` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
 | `kriwalleni7/qu8` | 2026-03-27 | 1,030 | 星力 gambling spam | Report: 2026-03-30 |
@@ -47,27 +47,27 @@
 |------|----------|-------------|------|-------------|
 | `ln1962/anqbn` | 2026-03-29 | 3,414+ | | |
 | `arebitl/z99tq` | 2026-03-29 | 3,349+ | | |
-| `danielfw4willisb/dvdv` | 2026-03-28 | 1,323 | | |
-| `smithalmed/m2d3p` | 2026-03-27 | 1,200 | | |
+| `danielfw4willisb/dvdv` | 2026-03-28 | 1,323 | |(已刪除) |
+| `smithalmed/m2d3p` | 2026-03-27 | 1,200 | |(已刪除) |
 | `llevaner/gmvnh` | 2026-03-28 | 3,813 | | Report: 2026-03-30 |
-| `mf3187-6/6dnno` | 2026-03-29 | 1,018 | | |
-| `vinod5li/gdrzb` | 2026-03-28 | 1,128+ | | |
-| `isaacshirt/lhag4` | 2026-03-28 | 1,215+ | | |
-| `zemtal/oy5ob` | 2026-03-28 | 1,375+ | | |
-| `frisacamer/xpe2j` | 2026-03-28 | 1,461+ | | |
-| `bbio0118/kggla` | 2026-03-28 | 496 | | |
+| `mf3187-6/6dnno` | 2026-03-29 | 1,018 | |(已刪除) |
+| `vinod5li/gdrzb` | 2026-03-28 | 1,128+ | |(已刪除) |
+| `isaacshirt/lhag4` | 2026-03-28 | 1,215+ | |(已刪除) |
+| `zemtal/oy5ob` | 2026-03-28 | 1,375+ | |(已刪除) |
+| `frisacamer/xpe2j` | 2026-03-28 | 1,461+ | |(已刪除) |
+| `bbio0118/kggla` | 2026-03-28 | 496 | |(已刪除) |
 | `frederick2025-d9/erey7` | 2026-03-28 | 498 | | |
-| `noumarageue/tllub` | 2026-03-28 | 496 | | |
+| `noumarageue/tllub` | 2026-03-28 | 496 | |(已刪除) |
 | `charles-king504e/xt5q0` | 2026-03-28 | 413 | | |
-| `rhoselin/w3z4e` | 2026-03-28 | 498 | | |
-| `jy2886-2/7w1v6` | 2026-03-28 | 299 | | |
-| `shrimp79sk/z57` | 2026-03-29 | 541 | | |
+| `rhoselin/w3z4e` | 2026-03-28 | 498 | |(已刪除) |
+| `jy2886-2/7w1v6` | 2026-03-28 | 299 | |(已刪除) |
+| `shrimp79sk/z57` | 2026-03-29 | 541 | |(已刪除) |
 | `thedrikes/oo0` | 2026-03-29 | 501 | | |
-| `gukasydamo/agnzgu` | 2026-03-29 | 500 | | |
-| `davidljone/msxtlt` | 2026-03-29 | 500 | | |
-| `eleyardone/1p1gg3` | 2026-03-29 | 500 | | |
-| `klausdelac/c82ym0` | 2026-03-29 | 500 | | |
-| `jimkrudzel/nir3xa` | 2026-03-29 | 500 | | |
+| `gukasydamo/agnzgu` | 2026-03-29 | 500 | |(已刪除) |
+| `davidljone/msxtlt` | 2026-03-29 | 500 | |(已刪除) |
+| `eleyardone/1p1gg3` | 2026-03-29 | 500 | |(已刪除) |
+| `klausdelac/c82ym0` | 2026-03-29 | 500 | |(已刪除) |
+| `jimkrudzel/nir3xa` | 2026-03-29 | 500 | |(已刪除) |
 | `bsethpwyatt/zb424` | 2026-03-28 | 294 | | |
 | `bsethpwyatt/fpp8o` | 2026-03-28 | 2,968 | | Report: 2026-03-30 |
 | `tohmenter/75jwt` | 2026-03-30 | 1,893 | pg麻将胡了 spam | |
@@ -82,7 +82,7 @@
 | `hhoylongkenzol95/9aplc` | 2026-03-30 | 1,890 | pg麻将胡了 spam | |
 | `cvarkiett/98j` | 2026-03-30 | 1,356 | pg麻将胡了 spam | |
 | `charles-king504e/5mcxw` | 2026-03-28 | 2,967 | | Report: 2026-03-30 |
-| `maxsappi/06pcc9` | 2026-03-29 | 423 | | |
+| `maxsappi/06pcc9` | 2026-03-29 | 423 | |(已刪除) |
 | `ahanhawk/m0jyqf` | 2026-03-29 | 133 | | |
 | `womap3/6yjlo` | 2026-03-28 | 336 | | |
 | `rgrossic/g11iour4` | 2026-03-26 | 418 | | |
@@ -90,26 +90,26 @@
 ### 小型 Spam（<500 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `gmarla/my` | 2026-03-29 | 200 | | |
-| `gmarla/il` | 2026-03-29 | 141 | | |
-| `georoconto2030/w72vf` | 2026-03-28 | 140 | | |
-| `bbio0118/g7c9f` | 2026-03-28 | 159 | | |
-| `maxvivian/o1v0l` | 2026-03-29 | 471 | | |
-| `bdtrapicom/0` | 2026-03-30 | 173 | | |
-| `plushlowski/m88ur` | 2026-03-30 | 388 | | |
-| `danyafordepsdg/j` | 2026-03-29 | 127 | | |
-| `rjelix/9uj` | 2026-03-30 | 48 | | |
-| `rjelix/04w` | 2026-03-30 | 88 | | |
-| `set43diviny2/8trq` | 2026-03-30 | 93 | | |
-| `bayjhand/xjbp` | 2026-03-30 | 90 | | |
-| `khanvgpalle/ubov0` | 2026-03-30 | 24 | | |
-| `batchero/44h3v` | 2026-03-30 | 84 | | |
-| `davan545/27w` | 2026-03-30 | 57 | 水果機/電玩 spam | |
-| `paperfempt/3w4` | 2026-03-30 | 54 | 水果機/電玩 spam | |
-| `chriscoope/b6p` | 2026-03-30 | 30 | | |
-| `elearniskn/s2f` | 2026-03-30 | 27 | | |
-| `jacobtoux/j3p` | 2026-03-30 | 40 | | |
-| `n3rel/1h2` | 2026-03-30 | 33 | | |
+| `gmarla/my` | 2026-03-29 | 200 | |(已刪除) |
+| `gmarla/il` | 2026-03-29 | 141 | |(已刪除) |
+| `georoconto2030/w72vf` | 2026-03-28 | 140 | |(已刪除) |
+| `bbio0118/g7c9f` | 2026-03-28 | 159 | |(已刪除) |
+| `maxvivian/o1v0l` | 2026-03-29 | 471 | |(已刪除) |
+| `bdtrapicom/0` | 2026-03-30 | 173 | |(已刪除) |
+| `plushlowski/m88ur` | 2026-03-30 | 388 | |(已刪除) |
+| `danyafordepsdg/j` | 2026-03-29 | 127 | |(已刪除) |
+| `rjelix/9uj` | 2026-03-30 | 48 | |(已刪除) |
+| `rjelix/04w` | 2026-03-30 | 88 | |(已刪除) |
+| `set43diviny2/8trq` | 2026-03-30 | 93 | |(已刪除) |
+| `bayjhand/xjbp` | 2026-03-30 | 90 | |(已刪除) |
+| `khanvgpalle/ubov0` | 2026-03-30 | 24 | |(已刪除) |
+| `batchero/44h3v` | 2026-03-30 | 84 | |(已刪除) |
+| `davan545/27w` | 2026-03-30 | 57 | 水果機/電玩 spam |(已刪除) |
+| `paperfempt/3w4` | 2026-03-30 | 54 | 水果機/電玩 spam |(已刪除) |
+| `chriscoope/b6p` | 2026-03-30 | 30 | |(已刪除) |
+| `elearniskn/s2f` | 2026-03-30 | 27 | |(已刪除) |
+| `jacobtoux/j3p` | 2026-03-30 | 40 | |(已刪除) |
+| `n3rel/1h2` | 2026-03-30 | 33 | |(已刪除) |
 | `sesi944/yqsp1` | 2026-03-30 | 500 | 體育平台 spam | |
 | `lentilheav/7z5v8` | 2026-03-30 | 500 | 體育平台 spam | |
 | `sparkdeplo/ou9li` | 2026-03-30 | 500 | 體育平台 spam | |
@@ -120,10 +120,10 @@
 | `anandjanak/jb5yo` | 2026-03-30 | 500 | 體育平台 spam | |
 | `sanjarick/vnz3j` | 2026-03-30 | 500 | 體育平台 spam | |
 | `boxdeustin/yqavx` | 2026-03-30 | 498 | 體育平台 spam | |
-| `villainevi/ubv` | 2026-03-30 | 142 | 電玩/spawning spam | |
-| `fabrilt89/8d8` | 2026-03-30 | 118 | 電玩/spawning spam | |
-| `lockettech/d0z` | 2026-03-30 | 87 | 電玩/spawning spam | |
-| `kamilaparn/5rr` | 2026-03-30 | 103 | 電玩/spawning spam | |
+| `villainevi/ubv` | 2026-03-30 | 142 | 電玩/spawning spam |(已刪除) |
+| `fabrilt89/8d8` | 2026-03-30 | 118 | 電玩/spawning spam |(已刪除) |
+| `lockettech/d0z` | 2026-03-30 | 87 | 電玩/spawning spam |(已刪除) |
+| `kamilaparn/5rr` | 2026-03-30 | 103 | 電玩/spawning spam |(已刪除) |
 
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -147,7 +147,7 @@
 ### 技術項目名稱 Spam（2026-03-30 新發現）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `khanvgpalle/ubov0` | 2026-03-30 | 500+ | | |
+| `khanvgpalle/ubov0` | 2026-03-30 | 500+ | |(已刪除) |
 | `kwonghugo/o8629` | 2026-03-30 | 500+ | | |
 | `johnshawn0/k25c5` | 2026-03-30 | 500+ | | |
 | `herrdowe/3ybrj` | 2026-03-30 | 500+ | | |
@@ -165,15 +165,15 @@
 | `blackegypt/hmh4y` | 2026-03-30 | 496+ | | |
 | `jhappyak/yh9u3` | 2026-03-30 | 496+ | | |
 | `tagwast/ymhd9` | 2026-03-30 | 492+ | | |
-| `sullagiii/4` | 2026-03-30 | 265+ | | |
-| `s-tif-dat/3` | 2026-03-30 | 253+ | | |
-| `amio-nric/z` | 2026-03-30 | 253+ | | |
-| `joekroeni/g` | 2026-03-30 | 280+ | | |
+| `sullagiii/4` | 2026-03-30 | 265+ | |(已刪除) |
+| `s-tif-dat/3` | 2026-03-30 | 253+ | |(已刪除) |
+| `amio-nric/z` | 2026-03-30 | 253+ | |(已刪除) |
+| `joekroeni/g` | 2026-03-30 | 280+ | |(已刪除) |
 | `junatr0n/4a6gv` | 2026-03-30 | 494+ | PG電子 spam | |
 | `lufuxuan1/adx` | 2026-03-30 | 162+ | | |
-| `bbarham6786-j/023` | 2026-03-26 | 1,072 | 家電售后服務 spam | |
+| `bbarham6786-j/023` | 2026-03-26 | 1,072 | 家電售后服務 spam |(已刪除) |
 | `lufuxuan1/iiz` | 2026-03-30 | 239+ | 家電售后服務 spam | |
-| `kourie82un/3fhtk` | 2026-03-30 | 97+ | | |
+| `kourie82un/3fhtk` | 2026-03-30 | 97+ | |(已刪除) |
 
 ---
 
