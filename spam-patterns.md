@@ -323,67 +323,21 @@ gh search issues '集结号'
 
 ---
 
-## 八、非 2026 年 Spam（歷史累積）
-
-### 已確認的非 2026 Spam Repo
-
-| Repo | 建立時間 | Issues 數量 | 備註 |
-|------|----------|-------------|------|
-| `rthrsd/baidu.com` | 2023-01-04 | 990 | 域名搶注，AG真人 spam |
-| `dfghau/baidu` | 2023-01-05 | 717 | 域名搶注，AG真人 spam |
-| `lilladezman-boop/y7vk53iv` | 2025-08-06 | 5,209 | 彩票 spam |
-| `snowladidi-hash/zrbsou18` | 2025-08-06 | 3,795 | 彩票 spam |
-| `8brdh7uf/hahaha` | 2024-03-10 | 300 | 彩票 spam |
-| `hienquocha-ship-it/j` | 2025-09-25 | 99 | 彩票 spam |
-| `hnsts666/-2134563145` | 2025-10-18 | 166 | 赌博 spam |
-| `xx248808dfhsy/-Y-HJ0071510` | 2025-06-19 | 44 | 赌博 spam |
-| `zlfhlls/-Y-` | 2025-07-13 | 36 | 赌博 spam |
-| `flqazlfmmm/HJ0071510` | 2025-06-27 | 13 | 赌博 spam |
-| `skdfjhjk455/-Y-` | 2025-07-11 | 4 | 赌博 spam |
-| `sluo89170-maker/xs10211.com` | 2025-12-11 | 2 | 赌博 spam |
-
-**非 2026 Spam 總計：約 11,429 issues**
-
----
+## 八、歷史 Spam Pattern
 
 ### 2025 Spam Pattern
-
 標題關鍵字：`2025彩民`、`彩票导师`、`加导师彩票赚钱`
 
-```
-2025彩民指南：彩票导师计划群
-2025彩民推荐：导师一对一彩票
-2025彩民首选：加导师彩票赚钱
-```
-
----
-
 ### 2024 Spam Pattern
-
-發現 `8brdh7uf/hahaha` 等少量 spam repo。
-
----
+少量 spam，關鍵字與 2025 類似
 
 ### 2023 Spam Pattern
 ```
 《资讯》AG真人龙虎怎么下载玩-2023"xxx"(今日/更新）
 《资讯》AG真人公司-2023"xxx"(今日/更新）
-《资讯》真人AG是统一开奖吗-2023"xxx"(今日/更新）
 ```
-
-### 2023 Spam 關鍵字
-```
-AG真人
-真人AG
-bg真人
-《资讯》
--2023（有年份後綴）
-```
-
-### 2023 Spam 手法
-- 域名搶注 `baidu.com`、`baidu` 作為 repo 名稱
-- 大量建立 AG 真人賭博相關 issues
-- 每個 issue 標題含年份 `-2023` 後綴
+關鍵字：`AG真人`、`《资讯》`、`-2023`（年份後綴）
+手法：域名搶注（如 `baidu.com` 作為 repo 名稱）
 
 ---
 
@@ -391,156 +345,33 @@ bg真人
 
 ### 常見被搶注域名（無 spam issues）
 ```
-qq.com
-163.com
-taobao.com
+qq.com / 163.com / taobao.com
 ```
 這些域名有大量 squatting repos，但無 spam issues。
 
-### 搜尋方式
 ```bash
 gh search repos 'baidu.com in:repo'
-gh search repos 'qq.com in:repo'
 ```
 
 ---
 
 ## 十、2026 Spam（當前大規模攻擊）
 
-### 主要 Spam Repo（2026-03-30 更新）
+### 2026-03-30 大規模攻擊特徵
+- 攻擊時間：多個 repos 同時建立（08:19）
+- Repo 名稱：隨機字母數字或看似正常的單字
+- 使用大量不同用戶帳號建立 repos
 
-| Repo | 建立時間 | Issues 數量 | 備註 |
-|------|----------|-------------|------|
-| `rluchik1/o` | 2026-03-21 | ~1,900 (高峰期 10,000+) | GitHub 刪除中 |
-| `agunni/d1l8f` | 2026-03-27 | 29,000+ | 持續快速增長 |
-| `jakesms/xiaoixoafei` | 2026-03-30 | 17,500+ | **今日新發現** |
-| `nkhed/nkhed.github.io` | 2025-09-14 | 15,270 | 歷史累積 |
-| `johrok/dqwdqdq` | 2026-03-30 | 7,600+ | **今日新發現** |
-| `allisongae/oimxa` | 2026-03-29 | 5,136 | 持續增長 |
-| `womansalad/pztlg` | 2026-03-29 | 4,917 | 持續增長 |
-| `clebcourse/s0rpd` | 2026-03-29 | 4,097 | 持續增長 |
-| `shyathsing/drqxv` | 2026-03-29 | 4,078 | 持續增長 |
-| `thanhctapcon/thanhctapcon.github.io` | 2025-08-26 | 3,705 | PG電子 spam |
-| `milica64/d1acb` | 2026-03-29 | 2,800+ | |
-| `noumarageue/5xhk7` | 2026-03-28 | 2,983 | X分钟了解-XXX-第一财经 |
-| `jy2886-2/ygi0v` | 2026-03-28 | 2,958 | X分钟了解-XXX-第一财经 |
-| `rhoselin/cjrsq` | 2026-03-28 | 2,997 | X分钟了解-XXX-第一财经 |
-| `waizou/1uovd` | 2026-03-28 | 2,989 | X分钟了解-XXX-第一财经 |
-| `jackcyachner/xmpfev` | 2026-03-30 | 1,400+ | 魚丸捕魚/PG電子 |
-| `whbhams/i96d` | 2025-12-14 | 1,345 | |
-| `nechsdusenko/bensterdarch-bec` | 2025-12-11 | 1,177 | |
+### 攻擊者使用的 repo 名稱 pattern
+- 5-6個隨機字母數字：`huzhangh2010`, `lucavieidev`
+- 看似正常的單字：`thedardney`, `janceswl`, `octnihb`
+- 隨機用戶名統一建立大量 repos
 
-### 2026-03-30 新發現 Spam Repo
-
-| Repo | 建立時間 | Issues 數量 | 備註 |
-|------|----------|-------------|------|
-| `johrok/dqwdqdq` | 2026-03-30 | 7,600+ | 大發/快3/极速飞艇 倍投公式 |
-| `jakesms/xiaoixoafei` | 2026-03-30 | 17,500+ | 快3 計劃導師 spam |
-| `jackcyachner/xmpfev` | 2026-03-30 | 1,400+ | 魚丸捕魚/PG電子 spam |
-| `mnosd6815/u98` | 2026-03-30 | 427 | |
-| `akirjannerchepu/v` | 2026-03-30 | 395 | |
-| `sienwal2002/h0d` | 2026-03-30 | 131 | |
-
-### 宝塔面板 Spam（2026-03 新發現）
-
-| Repo | 建立時間 | Issues 數量 |
-|------|----------|-------------|
-| `bgfakefanon/4znbz` | 2026-03-26 | 566 |
-| `ranazhalkyi/plw2i` | 2026-03-26 | 567 |
-| `yuisikyiu/y8m5y` | 2026-03-26 | 399 |
-| `nitagele/xpbij` | 2026-03-26 | 400 |
-| `andreiruelrawald/4i2ms` | 2026-03-26 | 388 |
-| `sombarwal/a8quw` | 2026-03-26 | 386 |
-| `meringioeler/1j6z1` | 2026-03-26 | 335 |
-| `adeatfouricl/aedyg` | 2026-03-26 | 250 |
-| `friterics/52wdf` | 2026-03-26 | 254 |
-| `avilehuk/2sy02` | 2026-03-26 | 239 |
-| `eilyey12/b01m8` | 2026-03-27 | 182 |
-| `cio-ne/7l7nb` | 2026-03-27 | 181 |
-| `drixfeyt/1znx7` | 2026-03-27 | 217 |
-| `takestarry/1anoi` | 2026-03-27 | 146 |
-| `di-pai-phoo/p9vcv` | 2026-03-27 | 144 |
-
-### 2026-03-30 新 Spam Pattern
-
-#### 1. 快3 計劃導師 spam
-```
-快3计划导师团队
-快3单带一对一计划导师
-快3赚钱计划聊天室
-快3大小单双平台导师计划
-快3精准计划三天包回本
-快3聊天室赚钱
-```
-
-#### 2. 极速飞艇 spam
-```
-极速飞艇8码走势技巧图
-极速飞艇7码计划表规律
-极速飞艇五码跨度
-极速飞艇信誉群
-极速飞艇168官网
-```
-
-#### 3. 倍投公式 spam
-```
-分分快3倍投公式
-分分快3倍投10期方案
-极速飞艇8码倍投规律
-大发全天快3永久计划网
-```
-
-#### 4. 大發 回血 spam
-```
-大发回血邀请码是多少
-大发回血稳赚的玩法
-大发群计划导师带人赚钱
-大发全天实时计划团队
-```
-
-#### 5. 魚丸捕魚/PG電子 spam
-```
-魚丸捕魚充值微信銀商
-魚丸捕魚上下分客服銀商
-PG電子游戏麻将胡了2打法
-PG電子大奖视频
-```
-
----
-
-## 十一、數量估算總結
-
-| 類型 | 數量 |
-|------|------|
-| 非 2026 Spam（歷史累積） | ~11,375 issues |
-| 2026 Spam（持續變化） | **15萬+ issues**（GitHub 開始刪除部分 spam） |
+### 2026 Spam 數量估算
+- 非 2026 Spam（歷史累積）：~11,000 issues
+- 2026 Spam（持續變化）：15萬+ issues
 
 ---
 
 ## 更新時間
-2026-03-31（大量新 spam pattern 持續發現）
-- 2026-04-01：新增 c7, 188BET, kaiyun, 芒果体育, 集结号, 信誉第一, 买球, 赛车, 快3, 加拿大28/pc28, 一肖一码/白小姐 patterns
-
----
-
-## 十二、2026 Spam 攻擊時間線
-
-### 2026-03-30 大規模攻擊
-- 攻擊時間：2026-03-30 08:19（大量 repos 同時建立）
-- 主要類型：
-  - pg麻将胡了（~7400 issues/repo）
-  - ２０２6第一指南/第一甄选/第一专栏（~8500-9600 issues/repo）
-  - c7 平台（~9000+ issues/repo）
-  - 188BET 平台（~8500-9500 issues/repo）
-  - AG真人（~6200+ issues/repo）
-  - 炸金花（~6200+ issues/repo）
-  - kaiyun（~6200+ issues/repo）
-  - 买球（~5000 issues/repo）
-  - 芒果棋牌（~6300+ issues/repo）
-  - 一肖一码/白小姐（~17,000+ issues/repo，超大型）
-  - 信誉类（~43,000 issues/repo，最大規模之一）
-
-### 攻擊者使用的 repo 名稱 pattern
-- 5-6個隨機字母數字：`huzhangh2010`, `lucavieidev`, `justibricks`
-- 看似正常的單字：`thedardney`, `janceswl`, `octnihb`
-- 隨機用戶名統一建立大量 repos
+2026-04-01：新增 c7, 188BET, kaiyun, 芒果体育, 集结号, 信誉第一, 买球, 赛车, 快3, 加拿大28/pc28, 一肖一码/白小姐 patterns
