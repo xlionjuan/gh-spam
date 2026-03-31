@@ -36,6 +36,7 @@ This is a follow-up report for additional spam repositories identified as part o
 | `renalualrob/xn9` | 2026-03-30 | 9,037+ | 加拿大28 spam |
 | `janceswl/d83` | 2026-03-30 | 9,101+ | c7/188BET spam |
 | `ta96489580/nl3` | 2026-03-30 | 9,051+ | c7 spam |
+| `achen-msima/0jh` | 2026-03-30 | 9,030+ | c7 spam |
 | `chen-msima/0jh` | 2026-03-30 | 9,030+ | c7 spam |
 | `chewor-nyunkeyei/dmf` | 2026-03-30 | 9,510+ | 188BET spam |
 | `octnihb/08z` | 2026-03-30 | 8,560+ | 188BET spam |
@@ -88,11 +89,18 @@ This is a follow-up report for additional spam repositories identified as part o
 | `rotreddl/u` | 2026-03-30 | 2,441 | 彩票平台 spam |
 | `witch5paul/2` | 2026-03-30 | 2,453 | 彩票平台 spam |
 | `xqszlag/g` | 2026-03-30 | 2,456 | 彩票平台 spam |
+| `xwxqgew348/14v` | 2026-03-31 | 2,454 | 彩票平台 spam |
+| `isyijxg8180/9rx` | 2026-03-31 | 2,432 | 彩票平台 spam |
+| `potriz-takh/8` | 2026-03-30 | 2,253 | 微信群 spam |
+| `thutk3dexue/l` | 2026-03-30 | 2,248 | 微信群 spam |
+| `zgjin62/n` | 2026-03-30 | 2,238 | 微信群 spam |
+| `rell-2006/q` | 2026-03-30 | 2,233 | 微信群 spam |
 
 ### Medium Spam (500-2000 issues)
 | Repo | Created | Issues | Spam Type |
 |------|---------|--------|-----------|
 | `jackie-fowlkes247i/vyrcsruz` | 2026-03-25 | 2,325 | pc28微信 spam |
+| `deatonpaulw-27/gtagg` | 2026-03-25 | 2,109 | 彩票平台 spam |
 | `naku-ya/c` | 2026-03-30 | 3,801 | 彩票平台 spam |
 | `oecshhm3612/gyb` | 2026-03-31 | 2,500 | 体育投注官网 spam |
 | `yasadhaga/2` | 2026-03-30 | 2,553 | pc28加拿大微信 spam |
