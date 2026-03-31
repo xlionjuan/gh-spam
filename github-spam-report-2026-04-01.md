@@ -4,7 +4,7 @@
 
 This is a follow-up report for additional spam repositories identified as part of the same coordinated gambling spam attack network documented in previous reports. These repositories remain active and contain gambling/adult content spam through GitHub Issues.
 
-**Estimated Total Spam Issues:** 50,000+ across 216 repositories
+**Estimated Total Spam Issues:** 50,000+ across ~~216~~ 259 repositories [(corrected: 原 216 筆誤，應為 259)]
 
 ---
 
@@ -24,7 +24,7 @@ This is a follow-up report for additional spam repositories identified as part o
 
 ---
 
-## Unreported Spam Repositories (216 repos)
+## Unreported Spam Repositories (259 repos) [(corrected: 原 216 筆誤，應為 259)]
 
 ### Super Large Spam (5000+ issues)
 | Repo | Created | Issues | Spam Type |

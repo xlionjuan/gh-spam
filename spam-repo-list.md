@@ -55,13 +55,21 @@
 | `davidgamerabs/3d2hw` | 2026-03-30 | 7,409 | pg麻将胡了 spam | Report: 2026-04-01 |
 | `behreica/7nuty` | 2026-03-30 | 7,408 | pg麻将胡了 spam | Report: 2026-04-01 |
 | `hhoylongkenzol95/9aplc` | 2026-03-30 | 7,405 | pg麻将胡了 spam | Report: 2026-04-01 |
+| `didaginca1/0be6w` | 2026-03-30 | 7,253 | PG电子 spam | |
+| `dplus50/78s` | 2026-03-30 | 5,461 | PG电子 spam | |
 
 ### 大型 Spam（2000-5000 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
 | `jackcyachner/xmpfev` | 2026-03-30 | 12,743 | 上门服务 spam | Report: 2026-04-01 |
 | `porpn/nihaqfe` | 2026-03-30 | 15,422 | pg麻将胡了 spam | Report: 2026-04-01 |
+| `likavale/nrqrxrjs` | 2026-03-30 | 14,478 | 彩票 spam | |
+| `k20123p/427` | 2026-03-30 | 10,426 | 彩票 spam | |
+| `ht0ano/un6` | 2026-03-30 | 10,310 | 彩票 spam | |
+| `penttner/hpykft` | 2026-03-30 | 12,037 | 彩票 spam | |
 | `tomlora69ivenbea/vsnujas` | 2026-03-30 | 5,846 | 微信广东红中麻将 spam | Report: 2026-04-01 |
+| `hbhmacitt/j1bfa` | 2026-03-30 | 7,354 | PG电子 spam | |
+| `frandon5storms/ttagez` | 2026-03-30 | 43,441 | 彩票 spam | |
 | `jackie-fowlkes247i/vyrcsruz` | 2026-03-25 | 2,325 | pc28微信 spam | Report: 2026-04-01 |
 | `kkillebrew-willied/ravxsqrx` | 2026-03-25 | 2,403 | 加拿大28大数据 spam | Report: 2026-04-01 |
 | `kpclinisaac80/iqcqtb` | 2026-03-25 | 2,331 | 加拿大28预测 spam | Report: 2026-04-01 |
@@ -69,6 +77,15 @@
 | `oecshhm3612/gyb` | 2026-03-31 | 2,500 | 体育投注官网 spam | Report: 2026-04-01 |
 | `yasadhaga/2` | 2026-03-30 | 2,553 | pc28加拿大微信 spam | Report: 2026-04-01 |
 | `luehcholik/w1dh` | 2025-12-14 | 6,063 | 三分大发赚钱 spam | Report: 2026-04-01 |
+| `67509/hdt` | 2026-03-30 | 4,930 | 彩票 spam | |
+| `vicrobins/jxj` | 2026-03-30 | 4,873 | 彩票 spam | |
+| `gresphrekovic/odgy` | 2026-03-31 | 2,500 | 彩票 spam | |
+| `kimyi123/hhoy` | 2026-03-31 | 2,500 | 彩票 spam | |
+| `koulioguyan/o2hr` | 2026-03-31 | 2,500 | 彩票 spam | |
+| `mufy3416/6t` | 2026-03-31 | 2,500 | 彩票 spam | |
+| `paileyl/qkav` | 2026-03-31 | 2,500 | 彩票 spam | |
+| `sv2448/lamk` | 2026-03-31 | 2,500 | 彩票 spam | |
+| `frfibi/rz3o` | 2026-03-31 | 2,500 | 彩票 spam | |
 | `xiaobia130/l9j` | 2026-03-31 | 4,941 | sg飞艇 spam | Report: 2026-04-01 |
 | `halmusdrewrs/p9z` | 2026-03-31 | 4,420 | 大宝888lg娱乐 spam | Report: 2026-04-01 |
 | `mizakossi/30q` | 2026-03-31 | 4,433 | sg飞艇app spam | Report: 2026-04-01 |
@@ -230,6 +247,14 @@
 | `treiderocon-wq/i2a` | 2026-03-30 | 1,000 | 计划导师 spam | Report: 2026-04-01 |
 | `caifanbith/tj6` | 2026-03-31 | 1,000 | 包赔计划 spam | Report: 2026-04-01 |
 | `zackshortb/4` | 2026-03-23 | 1,335+ | 91y银商 spam | Report: 2026-04-01 |
+| `simonstrou/bov` | 2026-03-31 | 1,888 | 體育 spam | |
+| `mruanpei/bkb` | 2026-03-31 | 1,870 | ２０２６第一甄选 spam | |
+| `markerinpl/nsz` | 2026-03-31 | 1,585 | 微信群 spam | |
+| `flesh2cycl/udxoq1` | 2026-03-22 | 722 | 彩票平台 spam | |
+| `joshboyday/17e` | 2026-03-31 | 500 | 彩票 spam | |
+| `theg3nddrb/lyavn` | 2026-03-31 | 500 | 彩票 spam | |
+| `piotris37/zyt` | 2026-03-30 | 500 | PG电子 spam | |
+| `thanhctapcon/thanhctapcon.github.io` | 2025-08-26 | 10,368 | 彩票平台 spam | |
 
 ### 小型 Spam（<500 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -291,6 +316,162 @@
 | `tohmenter/tbr4x` | 2026-03-30 | 100 | 回血 spam | Report: 2026-04-01 |
 | `amioal-hoo728/3pnyu` | 2026-03-30 | 100 | 快3回血 spam | Report: 2026-04-01 |
 | `hhoylongkenzol95/j7vta` | 2026-03-30 | 100 | 彩票回血 spam | Report: 2026-04-01 |
+| `azzdarkz/1de` | 2026-03-31 | 481 | ２０２６第一 spam | |
+| `CaseyVevefw/i49` | 2026-03-30 | 391 | ２０２６第一主管 spam | |
+| `kouchiel-r/t0y` | 2026-03-31 | 214 | ２０２６第一资讯 spam | |
+| `ht0ano/rkf` | 2026-03-30 | 193 | 彩票平台 spam | |
+| `octnihb/xsj` | 2026-03-30 | 226 | 彩票 spam | |
+| `ht0ano/t7r` | 2026-03-30 | 187 | 彩票平台 spam | |
+| `octnihb/zyv` | 2026-03-30 | 168 | 彩票 spam | |
+| `tinkuyb/tvm` | 2026-03-30 | 127 | 彩票 spam | |
+| `k20123p/bm0` | 2026-03-30 | 131 | 彩票 spam | |
+| `ransny/0ej` | 2026-03-30 | 139 | 彩票 spam | |
+| `ransny/a28` | 2026-03-30 | 22 | 彩票 spam | |
+| `yhyng/jcsqg` | 2026-03-30 | 2 | PG电子 spam | |
+| `amioal-hoo728/8e4mk` | 2026-03-30 | 100 | PG电子 spam | |
+| `amioal-hoo728/m64tu` | 2026-03-30 | 100 | PG电子 spam | |
+| `behreica/0ff5m` | 2026-03-30 | 50 | PG电子 spam | |
+| `behreica/o4y6s` | 2026-03-30 | 100 | PG电子 spam | |
+| `chewor-nyunkeyei/l6p` | 2026-03-30 | 70 | 彩票 spam | |
+| `davidgamerabs/jbc5v` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/e69um` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/q4yxf` | 2026-03-30 | 200 | PG电子 spam | |
+| `didaginca1/qhlcc` | 2026-03-30 | 50 | PG电子 spam | |
+| `guli90802/1z0bh` | 2026-03-30 | 100 | PG电子 spam | |
+| `hbhmacitt/6pit7` | 2026-03-30 | 100 | PG电子 spam | |
+| `hbhmacitt/89yxx` | 2026-03-30 | 50 | PG电子 spam | |
+| `hhoylongkenzol95/dnm1t` | 2026-03-30 | 100 | PG电子 spam | |
+| `hhoylongkenzol95/p4pap` | 2026-03-30 | 100 | PG电子 spam | |
+| `hhoylongkenzol95/r0x7y` | 2026-03-30 | 50 | PG电子 spam | |
+| `jimantenok/bq947` | 2026-03-30 | 100 | PG电子 spam | |
+| `jisonm-ndss/yx11x` | 2026-03-30 | 100 | PG电子 spam | |
+| `mandhos/0n5vf` | 2026-03-30 | 100 | PG电子 spam | |
+| `mandhos/moqnn` | 2026-03-30 | 100 | PG电子 spam | |
+| `ronemerdbayuntc/6fub7` | 2026-03-30 | 100 | PG电子 spam | |
+| `ronemerdbayuntc/p5kq5` | 2026-03-30 | 150 | PG电子 spam | |
+| `svaril-ittac/095tp` | 2026-03-30 | 100 | PG电子 spam | |
+| `svaril-ittac/etmxm` | 2026-03-30 | 100 | PG电子 spam | |
+| `timerablack-com/bnc` | 2026-03-30 | 55 | PG电子 spam | |
+| `tohmenter/1w0a7` | 2026-03-30 | 100 | PG电子 spam | |
+| `welbm/iw96l` | 2026-03-30 | 100 | PG电子 spam | |
+| `welbm/ops6j` | 2026-03-30 | 100 | PG电子 spam | |
+| `yhyng/lrqzp` | 2026-03-30 | 50 | PG电子 spam | |
+| `zenohapric/9s1me` | 2026-03-30 | 100 | PG电子 spam | |
+| `zenohapric/ig5n3` | 2026-03-30 | 100 | PG电子 spam | |
+| `zenohapric/td71x` | 2026-03-30 | 100 | PG电子 spam | |
+| `achen-msima/0oj` | 2026-03-30 | 92 | 彩票 spam | |
+| `achiperal6677/48f7umes` | 2026-03-31 | 250 | 彩票 spam | |
+| `achiperal6677/ie7y0` | 2026-03-31 | 250 | 彩票 spam | |
+| `adadaslc/owh4` | 2026-03-31 | 2,434 | 彩票 spam | |
+| `amioal-hoo728/56844` | 2026-03-30 | 100 | PG电子 spam | |
+| `amioal-hoo728/7mkiu` | 2026-03-30 | 100 | PG电子 spam | |
+| `amioal-hoo728/bdrf4` | 2026-03-30 | 200 | PG电子 spam | |
+| `amioal-hoo728/i9t8f` | 2026-03-30 | 100 | PG电子 spam | |
+| `behreica/dg8zp` | 2026-03-30 | 50 | PG电子 spam | |
+| `behreica/ep05p` | 2026-03-30 | 100 | PG电子 spam | |
+| `behreica/t9i2a` | 2026-03-30 | 100 | PG电子 spam | |
+| `behreica/v3dpd` | 2026-03-30 | 100 | PG电子 spam | |
+| `bwg6650/8s425` | 2026-03-30 | 200 | PG电子 spam | |
+| `bwg6650/hch5n` | 2026-03-30 | 100 | PG电子 spam | |
+| `bwg6650/ljlqw` | 2026-03-30 | 200 | PG电子 spam | |
+| `bwg6650/p8q47` | 2026-03-30 | 150 | PG电子 spam | |
+| `bwg6650/rnmyc` | 2026-03-30 | 100 | PG电子 spam | |
+| `chlri/b7zdv` | 2026-03-31 | 250 | 彩票 spam | |
+| `cordufree/6r8z` | 2026-03-31 | 499 | 彩票 spam | |
+| `cordufree/hag8ll012` | 2026-03-31 | 500 | 彩票 spam | |
+| `cordufree/o5w4v` | 2026-03-31 | 249 | 彩票 spam | |
+| `darekhyldz/qrd` | 2026-03-31 | 115 | 彩票 spam | |
+| `davidcgarn/kolxs` | 2026-03-31 | 131 | 彩票 spam | |
+| `davidgamerabs/c9pgk` | 2026-03-30 | 100 | PG电子 spam | |
+| `davidgamerabs/inw3p` | 2026-03-30 | 50 | PG电子 spam | |
+| `davidgamerabs/mcg2c` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/0di2p` | 2026-03-30 | 200 | PG电子 spam | |
+| `didaginca1/3mbbe` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/4ku7y` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/d4gwe` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/f5vzv` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/hhv7b` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/rlk8p` | 2026-03-30 | 100 | PG电子 spam | |
+| `didaginca1/ro5s1` | 2026-03-30 | 100 | PG电子 spam | |
+| `fiscollinzi/d2iqkyiic` | 2026-03-31 | 250 | 彩票 spam | |
+| `frfibi/fb1fekum` | 2026-03-31 | 250 | 彩票 spam | |
+| `glantand2012/h7fjn` | 2026-03-30 | 100 | PG电子 spam | |
+| `glantand2012/kgop3` | 2026-03-30 | 150 | PG电子 spam | |
+| `glantand2012/qatwe` | 2026-03-30 | 200 | PG电子 spam | |
+| `glantand2012/zz4pn` | 2026-03-30 | 100 | PG电子 spam | |
+| `gresphrekovic/z4rrzeze` | 2026-03-31 | 250 | 彩票 spam | |
+| `guli90802/3d3et` | 2026-03-30 | 100 | PG电子 spam | |
+| `guli90802/v8hxo` | 2026-03-30 | 100 | PG电子 spam | |
+| `guli90802/y363g` | 2026-03-30 | 200 | PG电子 spam | |
+| `hbhmacitt/0btdo` | 2026-03-30 | 200 | PG电子 spam | |
+| `hbhmacitt/gpsgp` | 2026-03-30 | 100 | PG电子 spam | |
+| `hennetimk94/aeowaohx` | 2026-03-31 | 250 | 彩票 spam | |
+| `hennetimk94/cc` | 2026-03-31 | 495 | 彩票 spam | |
+| `hennetimk94/cc1r5frgl` | 2026-03-31 | 249 | 彩票 spam | |
+| `hhoylongkenzol95/6n1mo` | 2026-03-30 | 100 | PG电子 spam | |
+| `hhoylongkenzol95/a7gx8` | 2026-03-30 | 200 | PG电子 spam | |
+| `hhoylongkenzol95/melf3` | 2026-03-30 | 100 | PG电子 spam | |
+| `hhoylongkenzol95/mr9ey` | 2026-03-30 | 100 | PG电子 spam | |
+| `hhoylongkenzol95/qjh1j` | 2026-03-30 | 200 | PG电子 spam | |
+| `ilenreyana/9k3wq` | 2026-03-30 | 100 | PG电子 spam | |
+| `ilenreyana/b3tur` | 2026-03-30 | 100 | PG电子 spam | |
+| `ilenreyana/fj7xh` | 2026-03-30 | 100 | PG电子 spam | |
+| `ilenreyana/y9vfh` | 2026-03-30 | 150 | PG电子 spam | |
+| `izai1201/9ot7` | 2026-03-31 | 500 | 彩票 spam | |
+| `izai1201/gj0ls51g6` | 2026-03-31 | 498 | 彩票 spam | |
+| `jimantenok/0gp7e` | 2026-03-30 | 150 | PG电子 spam | |
+| `jimantenok/4i8ru` | 2026-03-30 | 50 | PG电子 spam | |
+| `jimantenok/n9gfl` | 2026-03-30 | 100 | PG电子 spam | |
+| `jisonm-ndss/bgr3n` | 2026-03-30 | 100 | 彩票 spam | |
+| `jisonm-ndss/icyov` | 2026-03-30 | 100 | 彩票 spam | |
+| `jisonm-ndss/jqgdy` | 2026-03-30 | 100 | 彩票 spam | |
+| `jisonm-ndss/lu76u` | 2026-03-30 | 150 | 彩票 spam | |
+| `jisonm-ndss/rzp2o` | 2026-03-30 | 100 | 彩票 spam | |
+| `jisonm-ndss/v64z7` | 2026-03-30 | 100 | PG电子 spam | |
+| `jisonm-ndss/vf856` | 2026-03-30 | 200 | 彩票 spam | |
+| `jisonm-ndss/zmcax` | 2026-03-30 | 100 | 彩票 spam | |
+| `kayak59pla/z3q` | 2026-03-31 | 22 | 彩票 spam | |
+| `kimyi123/bceyjapt` | 2026-03-31 | 250 | 彩票 spam | |
+| `kimyi123/hhoy` | 2026-03-31 | 2,500 | 彩票 spam | |
+| `kmcdb6/8g30o` | 2026-03-31 | 142 | 彩票 spam | |
+| `koulioguyan/mvtur` | 2026-03-31 | 250 | 彩票 spam | |
+| `kover79168/yd39y` | 2026-03-31 | 234 | 彩票 spam | |
+| `lilac0beav/tdy` | 2026-03-31 | 19 | 彩票 spam | |
+| `mruanpei/lnv` | 2026-03-31 | 119 | 彩票 spam | |
+| `mufy3416/77wfobt8` | 2026-03-31 | 250 | 彩票 spam | |
+| `muyao102/cfbw` | 2026-03-31 | 500 | 彩票 spam | |
+| `muyao102/m6pd5611` | 2026-03-31 | 250 | 彩票 spam | |
+| `muyao102/vgrl715r` | 2026-03-31 | 250 | 彩票 spam | |
+| `paileyl/3tvld` | 2026-03-31 | 250 | 彩票 spam | |
+| `paileyl/d4p5g` | 2026-03-31 | 250 | 彩票 spam | |
+| `paileyl/gikstps3i` | 2026-03-31 | 250 | 彩票 spam | |
+| `paileyl/tdm0y0fv8` | 2026-03-31 | 249 | 彩票 spam | |
+| `prakashdog/2cf` | 2026-03-31 | 500 | 彩票 spam | |
+| `ronemerdbayuntc/ajfe4` | 2026-03-30 | 200 | PG电子 spam | |
+| `ronemerdbayuntc/eoa7b` | 2026-03-30 | 50 | PG电子 spam | |
+| `ronemerdbayuntc/h0vi9` | 2026-03-30 | 50 | PG电子 spam | |
+| `ronemerdbayuntc/z2jpc` | 2026-03-30 | 50 | PG电子 spam | |
+| `svaril-ittac/ik6hl` | 2026-03-30 | 200 | PG电子 spam | |
+| `svaril-ittac/rvwio` | 2026-03-30 | 50 | PG电子 spam | |
+| `svaril-ittac/xyqdw` | 2026-03-30 | 100 | PG电子 spam | |
+| `tenderv/6n7zpta11` | 2026-03-31 | 500 | 彩票 spam | |
+| `tenderv/6pbuh` | 2026-03-31 | 250 | 彩票 spam | |
+| `tenderv/qv7v` | 2026-03-31 | 498 | 彩票 spam | |
+| `velvetbake/jnr` | 2026-03-31 | 59 | 彩票 spam | |
+| `vinegreagonya/410np9yhj` | 2026-03-31 | 250 | 彩票 spam | |
+| `vinegreagonya/e5xa3ecn` | 2026-03-31 | 250 | 彩票 spam | |
+| `voreem/t1` | 2026-03-31 | 496 | 彩票 spam | |
+| `welbm/aufe7` | 2026-03-30 | 50 | PG电子 spam | |
+| `welbm/cczj1` | 2026-03-30 | 50 | PG电子 spam | |
+| `welbm/gh30z` | 2026-03-30 | 100 | PG电子 spam | |
+| `welbm/gopa3` | 2026-03-30 | 200 | PG电子 spam | |
+| `whbhams/i96d` | 2025-12-14 | 7,547 | 彩票 spam | |
+| `zenohapric/2ksd5` | 2026-03-30 | 50 | PG电子 spam | |
+| `zenohapric/594t0` | 2026-03-30 | 100 | PG电子 spam | |
+| `zenohapric/99o9t` | 2026-03-30 | 100 | PG电子 spam | |
+| `zenohapric/dnl4x` | 2026-03-30 | 200 | PG电子 spam | |
+| `zenohapric/hy78x` | 2026-03-30 | 150 | PG电子 spam | |
+| `67509/5it` | 2026-03-30 | 65 | 彩票 spam | |
 
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -367,4 +548,4 @@
 ## 更新時間
 2026-04-01
 
-**注意**：上方表格中共有 270 個 repos 已提交 abuse report（10 個 Report: 2026-03-30，260 個 Report: 2026-04-01），另有 37 個新發現 spam repos 尚未提交 report。
+**注意**：上方表格中共有 269 個 repos 已提交 abuse report（10 個 Report: 2026-03-30，259 個 Report: 2026-04-01），另有 220 個新發現 spam repos 尚未提交 report。
