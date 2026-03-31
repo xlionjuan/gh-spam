@@ -5,14 +5,14 @@
 ### 超大型 Spam（5000+ issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `johrok/dqwdqdq` | 2026-03-30 | 24,781 | 赛车计划 spam | |
-| `jakesms/xiaoixoafei` | 2026-03-30 | 20,462 | 快3计划导师 spam | |
+| `johrok/dqwdqdq` | 2026-03-30 | 45,578 | 赛车计划 spam | |
+| `jakesms/xiaoixoafei` | 2026-03-30 | 45,000 | 快3计划导师 spam | |
 
 ### 大型 Spam（2000-5000 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `jackcyachner/xmpfev` | 2026-03-30 | 4,811 | 上门服务 spam | |
-| `porpn/nihaqfe` | 2026-03-30 | 2,928 | pg麻将胡了 spam | |
+| `jackcyachner/xmpfev` | 2026-03-30 | 12,743 | 上门服务 spam | |
+| `porpn/nihaqfe` | 2026-03-30 | 15,422 | pg麻将胡了 spam | |
 | `hga080/hga0800` | 2026-03-11 | 2,191 | 足球平台出租 spam | Report: 2026-03-30 |
 | `ervin-smolka346d/k` | 2026-03-29 | 2,130+ | | Report: 2026-03-30 |
 | `iphobiks/757p9` | 2026-03-27 | 3,126 | | Report: 2026-03-30 |
@@ -24,24 +24,23 @@
 ### 中型 Spam（500-2000 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `ln1962/anqbn` | 2026-03-29 | 3,414+ | | |
-| `arebitl/z99tq` | 2026-03-29 | 3,349+ | | |
+| `ln1962/anqbn` | 2026-03-29 | 3,501+ | | |
+| `arebitl/z99tq` | 2026-03-29 | 3,459+ | | |
 | `llevaner/gmvnh` | 2026-03-28 | 3,813 | | Report: 2026-03-30 |
 | `frederick2025-d9/erey7` | 2026-03-28 | 498 | | |
 | `charles-king504e/xt5q0` | 2026-03-28 | 413 | | |
-| `thedrikes/oo0` | 2026-03-29 | 501 | | |
 | `bsethpwyatt/zb424` | 2026-03-28 | 294 | | |
 | `bsethpwyatt/fpp8o` | 2026-03-28 | 2,968 | | Report: 2026-03-30 |
-| `tohmenter/75jwt` | 2026-03-30 | 1,893 | pg麻将胡了 spam | |
-| `welbm/b7r1m` | 2026-03-30 | 1,893 | pg麻将胡了 spam | |
-| `svaril-ittac/0aor3` | 2026-03-30 | 1,806 | pg麻将胡了 spam | |
-| `zenohapric/hp7j0` | 2026-03-30 | 1,890 | pg麻将胡了 spam | |
-| `jimantenok/6m63u` | 2026-03-30 | 1,892 | pg麻将胡了 spam | |
-| `jisonm-ndss/m29cm` | 2026-03-30 | 1,806 | pg麻将胡了 spam | |
-| `ronemerdbayuntc/5sflb` | 2026-03-30 | 1,892 | pg麻将胡了 spam | |
-| `davidgamerabs/3d2hw` | 2026-03-30 | 1,891 | pg麻将胡了 spam | |
-| `behreica/7nuty` | 2026-03-30 | 1,889 | pg麻将胡了 spam | |
-| `hhoylongkenzol95/9aplc` | 2026-03-30 | 1,890 | pg麻将胡了 spam | |
+| `tohmenter/75jwt` | 2026-03-30 | 7,410 | pg麻将胡了 spam | |
+| `welbm/b7r1m` | 2026-03-30 | 7,406 | pg麻将胡了 spam | |
+| `svaril-ittac/0aor3` | 2026-03-30 | 7,405 | pg麻将胡了 spam | |
+| `zenohapric/hp7j0` | 2026-03-30 | 7,406 | pg麻将胡了 spam | |
+| `jimantenok/6m63u` | 2026-03-30 | 7,408 | pg麻将胡了 spam | |
+| `jisonm-ndss/m29cm` | 2026-03-30 | 7,406 | pg麻将胡了 spam | |
+| `ronemerdbayuntc/5sflb` | 2026-03-30 | 7,409 | pg麻将胡了 spam | |
+| `davidgamerabs/3d2hw` | 2026-03-30 | 7,409 | pg麻将胡了 spam | |
+| `behreica/7nuty` | 2026-03-30 | 7,408 | pg麻将胡了 spam | |
+| `hhoylongkenzol95/9aplc` | 2026-03-30 | 7,405 | pg麻将胡了 spam | |
 | `cvarkiett/98j` | 2026-03-30 | 1,356 | pg麻将胡了 spam | |
 | `charles-king504e/5mcxw` | 2026-03-28 | 2,967 | | Report: 2026-03-30 |
 | `ahanhawk/m0jyqf` | 2026-03-29 | 133 | | |
@@ -57,7 +56,7 @@
 | `jamiehingh/vejf7` | 2026-03-30 | 500 | 體育平台 spam | |
 | `sachingoal/k7mjk` | 2026-03-30 | 500 | 體育平台 spam | |
 | `wound6low/m888y` | 2026-03-30 | 500 | 體育平台 spam | |
-| `garg-devs/9akh9` | 2026-03-30 | 119 | 體育平台 spam | |
+| `garg-devs/9akh9` | 2026-03-30 | 500 | 體育平台 spam | |
 | `anandjanak/jb5yo` | 2026-03-30 | 500 | 體育平台 spam | |
 | `sanjarick/vnz3j` | 2026-03-30 | 500 | 體育平台 spam | |
 | `boxdeustin/yqavx` | 2026-03-30 | 498 | 體育平台 spam | |
@@ -65,21 +64,21 @@
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
-| `bgfakefanon/4znbz` | 2026-03-26 | 854 | | |
-| `ranazhalkyi/plw2i` | 2026-03-26 | 855 | | |
-| `yuisikyiu/y8m5y` | 2026-03-26 | 536 | | |
-| `nitagele/xpbij` | 2026-03-26 | 537 | | |
-| `andreiruelrawald/4i2ms` | 2026-03-26 | 854 | | |
-| `sombarwal/a8quw` | 2026-03-26 | 852 | | |
-| `meringioeler/1j6z1` | 2026-03-26 | 537 | | |
-| `adeatfouricl/aedyg` | 2026-03-29 | 779 | | |
-| `friterics/52wdf` | 2026-03-26 | 778 | | |
-| `avilehuk/2sy02` | 2026-03-26 | 776 | | |
-| `eilyey12/b01m8` | 2026-03-27 | 319 | | |
-| `cio-ne/7l7nb` | 2026-03-27 | 181 | | |
-| `drixfeyt/1znx7` | 2026-03-27 | 636 | | |
-| `takestarry/1anoi` | 2026-03-27 | 319 | | |
-| `di-pai-phoo/p9vcv` | 2026-03-27 | 144 | | |
+| `bgfakefanon/4znbz` | 2026-03-26 | 1,044 | | |
+| `ranazhalkyi/plw2i` | 2026-03-26 | 1,045 | | |
+| `yuisikyiu/y8m5y` | 2026-03-26 | 726 | | |
+| `nitagele/xpbij` | 2026-03-26 | 727 | | |
+| `andreiruelrawald/4i2ms` | 2026-03-26 | 1,044 | | |
+| `sombarwal/a8quw` | 2026-03-26 | 1,042 | | |
+| `meringioeler/1j6z1` | 2026-03-26 | 727 | | |
+| `adeatfouricl/aedyg` | 2026-03-29 | 969 | | |
+| `friterics/52wdf` | 2026-03-26 | 968 | | |
+| `avilehuk/2sy02` | 2026-03-26 | 966 | | |
+| `eilyey12/b01m8` | 2026-03-27 | 509 | | |
+| `cio-ne/7l7nb` | 2026-03-27 | 507 | | |
+| `drixfeyt/1znx7` | 2026-03-27 | 826 | | |
+| `takestarry/1anoi` | 2026-03-27 | 509 | | |
+| `di-pai-phoo/p9vcv` | 2026-03-27 | 508 | | |
 
 ### 技術項目名稱 Spam（2026-03-30 新發現）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -88,13 +87,13 @@
 | `johnshawn0/k25c5` | 2026-03-30 | 500+ | | |
 | `herrdowe/3ybrj` | 2026-03-30 | 500+ | | |
 | `sandershin/eep10` | 2026-03-30 | 500+ | | |
-| `tommiz-lan/vouxp` | 2026-03-30 | 361+ | | |
+| `tommiz-lan/vouxp` | 2026-03-30 | 500+ | | |
 | `obrisicino/yoih5` | 2026-03-30 | 500+ | | |
 | `jrvfg/fsqmv` | 2026-03-30 | 499+ | | |
 | `k0mscribba/yxsdl` | 2026-03-30 | 497+ | | |
 | `mihainer/p4bcu` | 2026-03-30 | 500+ | | |
 | `howarddgro/5sh97` | 2026-03-30 | 498+ | | |
-| `jvest-787/apesh` | 2026-03-30 | 350+ | | |
+| `jvest-787/apesh` | 2026-03-30 | 498+ | | |
 | `tgaani/ajcc3` | 2026-03-30 | 497+ | | |
 | `stageblade/shivg` | 2026-03-30 | 496+ | | |
 | `moorpura/yiiqu` | 2026-03-30 | 499+ | | |
