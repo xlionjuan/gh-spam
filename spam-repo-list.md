@@ -513,8 +513,7 @@
 | `jhappyak/yh9u3` | 2026-03-30 | 496+ | | Report: 2026-04-01 |
 | `tagwast/ymhd9` | 2026-03-30 | 492+ | | Report: 2026-04-01 |
 | `junatr0n/4a6gv` | 2026-03-30 | 494+ | PG電子 spam | Report: 2026-04-01 |
-| `lufuxuan1/adx` | 2026-03-30 | 162+ | | Report: 2026-04-01 |
-| `lufuxuan1/iiz` | 2026-03-30 | 239+ | 家電售后服務 spam | Report: 2026-04-01 |
+
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 |
 
 ---
