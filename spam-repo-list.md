@@ -36,6 +36,7 @@
 | `kktanil/uer` | 2026-03-30 | 5,202+ | 买球软件 spam | |
 | `licbbres/fhl6jzn1` | 2026-03-31 | 3,190 | 注册 spam | |
 | `WandaMcgowanid/iyn` | 2026-03-30 | 6,596 | 开户 spam | |
+| `toopatel/nud` | 2026-03-30 | 9,054 | 彩票官网 spam | |
 | `cordufree/gm` | 2026-03-31 | 1,989 | 总代 spam | |
 | `archeshoa/f` | 2026-03-27 | 1,287 | 总代 spam | |
 | `afanducarsh/u6y` | 2026-03-31 | 4,123 | 预测 spam | |
@@ -46,12 +47,27 @@
 | `CaseyVevefw/11y` | 2026-03-30 | 6,358+ | 芒果棋牌 spam | |
 | `johrok/dqwdqdq` | 2026-03-30 | 45,578 | 赛车计划 spam | |
 | `jakesms/xiaoixoafei` | 2026-03-30 | 45,000 | 快3计划导师 spam | |
+| `wareqbk76/xrv` | 2026-03-30 | 6,801 | 外围买球 spam | |
 
 ### 大型 Spam（2000-5000 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
 | `jackcyachner/xmpfev` | 2026-03-30 | 12,743 | 上门服务 spam | |
 | `porpn/nihaqfe` | 2026-03-30 | 15,422 | pg麻将胡了 spam | |
+| `tomlora69ivenbea/vsnujas` | 2026-03-30 | 5,846 | 微信广东红中麻将 spam | |
+| `luehcholik/w1dh` | 2025-12-14 | 6,063 | 三分大发赚钱 spam | |
+| `xiaobia130/l9j` | 2026-03-31 | 4,941 | sg飞艇 spam | |
+| `halmusdrewrs/p9z` | 2026-03-31 | 4,420 | 大宝888lg娱乐 spam | |
+| `mizakossi/30q` | 2026-03-31 | 4,433 | sg飞艇app spam | |
+| `roboferdander/akf` | 2026-03-31 | 4,427 | BBIN电子 spam | |
+| `cafedyery19/j` | 2026-03-30 | 2,444 | pc28加拿大微信 spam | |
+| `gavinanda/l` | 2026-03-30 | 2,448 | 彩票平台 spam | |
+| `huangcainb/i` | 2026-03-30 | 2,446 | 彩票平台 spam | |
+| `rotreddl/u` | 2026-03-30 | 2,441 | 彩票平台 spam | |
+| `witch5paul/2` | 2026-03-30 | 2,453 | 彩票平台 spam | |
+| `xqszlag/g` | 2026-03-30 | 2,456 | 彩票平台 spam | |
+| `xwxqgew348/14v` | 2026-03-31 | 2,454 | 彩票平台 spam | |
+| `isyijxg8180/9rx` | 2026-03-31 | 2,432 | 彩票平台 spam | |
 | `hga080/hga0800` | 2026-03-11 | 2,191 | 足球平台出租 spam | Report: 2026-03-30 |
 | `ervin-smolka346d/k` | 2026-03-29 | 2,130+ | | Report: 2026-03-30 |
 | `iphobiks/757p9` | 2026-03-27 | 3,126 | | Report: 2026-03-30 |
