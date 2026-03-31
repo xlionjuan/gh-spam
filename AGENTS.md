@@ -240,8 +240,24 @@ sed -i '/^|.*| |$/s/| |/| Report: 2026-03-30 |/' spam-repo-list.md
 
 ## 研究檔案
 - `spam-patterns.md` - 完整 pattern 分析
-- `spam-repo-list.md` - 已被確認的 spam repo 清單（含 report 狀態）
+- `spam-repo-list.md` - 已被確認的 spam repo 清單（僅含仍存在的 repos）
+- `deleted-spam-repo-list.md` - 已刪除的 spam repo 歷史記錄
 - `gh-api-syntax.md` - Gh CLI 語法參考（重要！易錯語法記錄）
+
+## 架構說明
+- `spam-repo-list.md`：維護**仍存在**的 spam repos
+- `deleted-spam-repo-list.md`：歸檔**已刪除**的 spam repos（包含已回報和未回報的）
+- 發現新 spam repo → 優先加入 spam-repo-list.md
+- 定時驗證：檢查 spam-repo-list.md 中的 repos 是否已被 GitHub 刪除
+  - 發現刪除 → 移至 deleted-spam-repo-list.md
+
+## 驗證刪除狀態
+```bash
+# 檢查 spam-repo-list.md 中所有 repos 的刪除狀態
+grep '^|' spam-repo-list.md | grep -v 'Repo' | grep -v '\-\-\-' | awk -F'`' '{print $2}' | awk -F'`' '{print $1}' | sort -u | xargs -P 20 -I {} sh -c 'gh api repos/{} --jq ".name" 2>&1 | grep -q "Not Found" && echo {}'
+
+# 批次更新已刪除 repos 到 deleted-spam-repo-list.md
+```
 
 ## 網頁版完整搜尋語法
 ```
