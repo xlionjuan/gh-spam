@@ -37,7 +37,6 @@ This is a follow-up report for additional spam repositories identified as part o
 | `janceswl/d83` | 2026-03-30 | 9,101+ | c7/188BET spam |
 | `ta96489580/nl3` | 2026-03-30 | 9,051+ | c7 spam |
 | `achen-msima/0jh` | 2026-03-30 | 9,030+ | c7 spam |
-| `chen-msima/0jh` | 2026-03-30 | 9,030+ | c7 spam |
 | `chewor-nyunkeyei/dmf` | 2026-03-30 | 9,510+ | 188BET spam |
 | `octnihb/08z` | 2026-03-30 | 8,560+ | 188BET spam |
 | `huzhangh2010/a8a` | 2026-03-30 | 9,608+ | ２０２6第一指南 spam |
@@ -260,7 +259,6 @@ This is a follow-up report for additional spam repositories identified as part o
 | `rgrossic/g11iour4` | 2026-03-26 | 418 | spam |
 | `charles-king504e/xt5q0` | 2026-03-28 | 413 | spam |
 | `womap3/6yjlo` | 2026-03-28 | 336 | spam |
-| `ahanhawk/m0jyqf` | 2026-03-29 | 133 | spam |
 | `bsethpwyatt/zb424` | 2026-03-28 | 294 | spam |
 | `rewardcele/eb1` | 2026-03-31 | 498 | 计划 spam |
 | `rmifzer/dvm` | 2026-03-31 | 500 | 猛龙计划 spam |
