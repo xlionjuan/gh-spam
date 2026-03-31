@@ -107,6 +107,8 @@
 | `handlestac/5eccm` | 2026-03-31 | 292 | 集结号银商 spam | |
 | `thomas-whi/n9ng1` | 2026-03-31 | 165 | 集结号银商 spam | |
 | `deimarket/r` | 2026-03-27 | 546 | 91y银商 spam | |
+| `treiderocon-wq/i2a` | 2026-03-30 | 1,000 | 计划导师 spam | |
+| `caifanbith/tj6` | 2026-03-31 | 1,000 | 包赔计划 spam | |
 
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
