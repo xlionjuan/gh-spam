@@ -16,6 +16,14 @@
 | `justibricks/7kg` | 2026-03-30 | 9,491+ | ２０２６第一甄选 spam | |
 | `lucavieidev/6tg` | 2026-03-30 | 8,586+ | ２０２６第一专栏 spam | |
 | `nlingmy/ti5` | 2026-03-30 | 4,907+ | ２０２６买球 spam | |
+| `amioal-hoo728/oelpz` | 2026-03-30 | 6,297+ | AG真人 spam | |
+| `mandhos/h94wt` | 2026-03-30 | 6,295+ | AG真人 spam | |
+| `bwg6650/bclle` | 2026-03-30 | 6,287+ | AG真人 spam | |
+| `guli90802/l8m8h` | 2026-03-30 | 6,292+ | 炸金花 spam | |
+| `yhyng/wjvcf` | 2026-03-30 | 6,289+ | 炸金花 spam | |
+| `damienlin/tlw` | 2026-03-30 | 5,056+ | 买球 spam | |
+| `mshadysch/qum` | 2026-03-30 | 5,021+ | 买球 spam | |
+| `CaseyVevefw/11y` | 2026-03-30 | 6,358+ | 芒果棋牌 spam | |
 | `johrok/dqwdqdq` | 2026-03-30 | 45,578 | 赛车计划 spam | |
 | `jakesms/xiaoixoafei` | 2026-03-30 | 45,000 | 快3计划导师 spam | |
 
@@ -60,6 +68,7 @@
 | `skymonthar/7f7s7` | 2026-03-20 | 1,354 | 網投第一信誉 spam | |
 | `glantand2012/0bczc` | 2026-03-30 | 6,270+ | kaiyun spam | |
 | `quantilid199/pbz` | 2026-03-30 | 5,171+ | 皇冠信用盘 spam | |
+| `zackshortb/4` | 2026-03-23 | 1,335+ | 91y银商 spam | |
 
 ### 小型 Spam（<500 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -86,6 +95,14 @@
 | `helixvalo/odbjp` | 2026-03-30 | 301 | 皇冠信用盘 spam | |
 | `cvgobbasoo/96i2d` | 2026-03-30 | 402 | 皇冠信用盘 spam | |
 | `zoungh1227/2q8` | 2026-03-30 | 303 | 皇冠信用盘 spam | |
+| `arnoldfisk/j` | 2026-03-31 | 1,000+ | 91y银商 spam | |
+| `kdoucleon/kjz18o` | 2026-03-22 | 590 | 银河999银商 spam | |
+| `ideanmenim/6` | 2026-03-31 | 500 | 91y银商 spam | |
+| `gmlorena/3` | 2026-03-27 | 571 | 集结号银商 spam | |
+| `mastayojki/c8s2a1` | 2026-03-30 | 308 | 91y银商 spam | |
+| `handlestac/5eccm` | 2026-03-31 | 292 | 集结号银商 spam | |
+| `thomas-whi/n9ng1` | 2026-03-31 | 165 | 集结号银商 spam | |
+| `deimarket/r` | 2026-03-27 | 546 | 91y银商 spam | |
 
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
