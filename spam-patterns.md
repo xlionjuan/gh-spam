@@ -45,20 +45,22 @@ Examples:
 ### 4. 賭博遊戲相關
 ```
 澳洲幸运10
-电子pg / PG电子
+电子pg / PG电子 / pg电子
 星力
 棋牌
-百家乐
-百家家乐
+百家乐 / 百家家乐
 炸金花
 澳门赌场
+芒果体育
 ```
 Examples:
 - `澳洲幸运10登录`
 - `PG电子赏金女王`
+- `pg电子赌博`
 - `星力十代`
 - `百家家乐`
 - `澳门赌场`
+- `芒果体育平台`
 
 ### 5. 銀商/上下分（賭博貨幣兌換）
 ```
@@ -67,11 +69,16 @@ Examples:
 下分
 游戏上分
 充值上分
+91y
+集结号
+集结号91y
 ```
 Examples:
 - `９１ｙ信誉银商`
 - `星力游戏上下分`
 - `91y上分微信`
+- `集结号银商`
+- `集结号上下分`
 
 ### 6. 特殊格式 ID
 ```
@@ -82,6 +89,7 @@ Examples:
 ### 7. 其他常見詞
 ```
 信誉第一
+网投信誉
 娱乐
 平台注册
 代理
@@ -91,7 +99,16 @@ Examples:
 足球
 平台
 赢
+芒果棋牌
+c7
+188BET
+kaiyun
+BET9
 ```
+Examples:
+- `网投第一信誉`
+- `c7.c7.ccm登录入口`
+- `kaiyun登录入口`
 
 ### 8. 《资讯》格式（2023年）
 ```
@@ -101,6 +118,42 @@ AG真人
 真人AG
 bg真人
 ```
+
+### 9. 彩票/投注相關（2026新）
+```
+买球
+世界杯买球
+赛车
+极速赛车
+快3
+一分快3
+3分快3
+```
+Examples:
+- `买球世界杯买球`
+- `极速赛车精准计划网`
+- `快3带赚包赔快3导师`
+
+### 10. 加拿大赛车/PC28（2026新）
+```
+加拿大28
+pc28
+pk10
+```
+Examples:
+- `加拿大28pc信誉群`
+- `pk10微信群`
+
+### 11. 一肖一码/香港彩票（2026新）
+```
+一肖一码
+白小姐
+香港一肖一码
+精准四肖
+```
+Examples:
+- `一肖一码澳门一肖`
+- `白小姐一码一肖中特`
 
 ---
 
@@ -179,7 +232,7 @@ bg真人
 ## 五、擴展搜尋語法（網頁版 OR）
 
 ```
-("主管开户" OR "开户" OR "２０２６第一" OR "２０２６彩民" OR "2026第一" OR "2026彩民" OR "——422463——" OR "彩民" OR "娱乐平台" OR "娱乐主管" OR "娱乐注册" OR "澳洲幸运10" OR "电子pg" OR "PG电子" OR "星力十代" OR "星力游戏" OR "91y" OR "银商" OR "上分" OR "下分" OR "游戏上分" OR "信誉第一" OR "代理" OR "总代" OR "AG真人" OR "真人AG" OR "百家乐" OR "百家家乐" OR "炸金花" OR "澳门赌场" OR "棋牌游戏" OR "彩票平台" OR "平台代理" OR "返水" OR "《资讯》" OR "永恒娱乐" OR "赢咖" OR "开户")
+("主管开户" OR "开户" OR "２０２６第一" OR "２０２６彩民" OR "2026第一" OR "2026彩民" OR "——422463——" OR "彩民" OR "娱乐平台" OR "娱乐主管" OR "娱乐注册" OR "澳洲幸运10" OR "电子pg" OR "PG电子" OR "pg电子" OR "星力十代" OR "星力游戏" OR "91y" OR "银商" OR "上分" OR "下分" OR "游戏上分" OR "信誉第一" OR "网投信誉" OR "代理" OR "总代" OR "AG真人" OR "真人AG" OR "百家乐" OR "百家家乐" OR "炸金花" OR "澳门赌场" OR "棋牌游戏" OR "彩票平台" OR "平台代理" OR "返水" OR "《资讯》" OR "永恒娱乐" OR "赢咖" OR "开户" OR "芒果体育" OR "芒果棋牌" OR "c7" OR "188BET" OR "kaiyun" OR "BET9" OR "买球" OR "世界杯买球" OR "赛车" OR "极速赛车" OR "快3" OR "加拿大28" OR "pc28" OR "pk10" OR "一肖一码" OR "白小姐" OR "集结号")
 ```
 
 ---
@@ -196,6 +249,7 @@ gh search issues '澳洲幸运10'
 gh search issues '星力'
 gh search issues '91y'
 gh search issues '电子pg'
+gh search issues 'pg电子'
 gh search issues '银商'
 gh search issues '百家乐'
 gh search issues '百家家乐'
@@ -207,6 +261,23 @@ gh search issues '代理'
 gh search issues '《资讯》'
 gh search issues 'AG真人'
 gh search issues '开户'
+gh search issues '芒果体育'
+gh search issues '芒果棋牌'
+gh search issues 'c7'
+gh search issues '188BET'
+gh search issues 'kaiyun'
+gh search issues 'BET9'
+gh search issues '买球'
+gh search issues '世界杯买球'
+gh search issues '赛车'
+gh search issues '极速赛车'
+gh search issues '快3'
+gh search issues '加拿大28'
+gh search issues 'pc28'
+gh search issues 'pk10'
+gh search issues '一肖一码'
+gh search issues '白小姐'
+gh search issues '集结号'
 ```
 
 ---
@@ -240,6 +311,15 @@ gh search issues '开户'
 - 新宝
 - 欧陆
 - 恒盛
+- c7 / c7.ccm
+- 188BET
+- kaiyun
+- BET9 / BET9九卅娱乐
+- 芒果体育 / 芒果棋牌
+- 集结号
+- 银河999
+- 加拿大28 / pc28
+- pk10
 
 ---
 
@@ -438,6 +518,29 @@ PG電子大奖视频
 ---
 
 ## 更新時間
-2026-03-30（大量新 spam pattern 持續發現）
-- 2026-03-30 14:30：新增今日巨型 spam repos（johrok, jakesms, jackcyachner）
-- 發現 GitHub 開始刪除部分 spam（rluchik1/o 從 10,000+ 降至 1,900）
+2026-03-31（大量新 spam pattern 持續發現）
+- 2026-04-01：新增 c7, 188BET, kaiyun, 芒果体育, 集结号, 信誉第一, 买球, 赛车, 快3, 加拿大28/pc28, 一肖一码/白小姐 patterns
+
+---
+
+## 十二、2026 Spam 攻擊時間線
+
+### 2026-03-30 大規模攻擊
+- 攻擊時間：2026-03-30 08:19（大量 repos 同時建立）
+- 主要類型：
+  - pg麻将胡了（~7400 issues/repo）
+  - ２０２6第一指南/第一甄选/第一专栏（~8500-9600 issues/repo）
+  - c7 平台（~9000+ issues/repo）
+  - 188BET 平台（~8500-9500 issues/repo）
+  - AG真人（~6200+ issues/repo）
+  - 炸金花（~6200+ issues/repo）
+  - kaiyun（~6200+ issues/repo）
+  - 买球（~5000 issues/repo）
+  - 芒果棋牌（~6300+ issues/repo）
+  - 一肖一码/白小姐（~17,000+ issues/repo，超大型）
+  - 信誉类（~43,000 issues/repo，最大規模之一）
+
+### 攻擊者使用的 repo 名稱 pattern
+- 5-6個隨機字母數字：`huzhangh2010`, `lucavieidev`, `justibricks`
+- 看似正常的單字：`thedardney`, `janceswl`, `octnihb`
+- 隨機用戶名統一建立大量 repos
