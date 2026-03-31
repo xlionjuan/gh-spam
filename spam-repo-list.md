@@ -112,6 +112,18 @@
 | `treiderocon-wq/i2a` | 2026-03-30 | 1,000 | 计划导师 spam | |
 | `caifanbith/tj6` | 2026-03-31 | 1,000 | 包赔计划 spam | |
 | `alex-mondyle9/x4mi6w` | 2026-03-31 | 500 | 彩票平台 spam | |
+| `asirizia93-rgb/d1g71k` | 2026-03-31 | 500 | 回血 spam | |
+| `alex-pepef/cor6g9` | 2026-03-31 | 500 | 回血 spam | |
+| `robsaraoig/mp6` | 2026-03-31 | 500 | 快3计划 spam | |
+| `rewardcele/eb1` | 2026-03-31 | 498 | 计划 spam | |
+| `rmifzer/dvm` | 2026-03-31 | 500 | 猛龙计划 spam | |
+| `laernon-00/a8x` | 2026-03-31 | 500 | 快3计划 spam | |
+| `fearberson/shz` | 2026-03-31 | 500 | 计划 spam | |
+| `rajone-w/li7` | 2026-03-31 | 500 | 快3计划 spam | |
+| `dyybuang/kfj` | 2026-03-31 | 500 | 猛龙计划 spam | |
+| `tohmenter/tbr4x` | 2026-03-30 | 100 | 回血 spam | |
+| `amioal-hoo728/3pnyu` | 2026-03-30 | 100 | 快3回血 spam | |
+| `hhoylongkenzol95/j7vta` | 2026-03-30 | 100 | 彩票回血 spam | |
 
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
