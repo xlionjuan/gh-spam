@@ -36,6 +36,8 @@
 | `kktanil/uer` | 2026-03-30 | 5,202+ | 买球软件 spam | |
 | `licbbres/fhl6jzn1` | 2026-03-31 | 3,190 | 注册 spam | |
 | `WandaMcgowanid/iyn` | 2026-03-30 | 6,596 | 开户 spam | |
+| `cordufree/gm` | 2026-03-31 | 1,989 | 总代 spam | |
+| `archeshoa/f` | 2026-03-27 | 1,287 | 总代 spam | |
 | `afanducarsh/u6y` | 2026-03-31 | 4,123 | 预测 spam | |
 | `jeanleggener/4` | 2026-03-30 | 2,252 | 预测 spam | |
 | `matynguy/1` | 2026-03-30 | 2,262 | 预测 spam | |
