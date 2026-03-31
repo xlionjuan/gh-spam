@@ -56,6 +56,8 @@
 | `porpn/nihaqfe` | 2026-03-30 | 15,422 | pg麻将胡了 spam | |
 | `tomlora69ivenbea/vsnujas` | 2026-03-30 | 5,846 | 微信广东红中麻将 spam | |
 | `jackie-fowlkes247i/vyrcsruz` | 2026-03-25 | 2,325 | pc28微信 spam | |
+| `kkillebrew-willied/ravxsqrx` | 2026-03-25 | 2,403 | 加拿大28大数据 spam | |
+| `kpclinisaac80/iqcqtb` | 2026-03-25 | 2,331 | 加拿大28预测 spam | |
 | `naku-ya/c` | 2026-03-30 | 3,801 | 彩票平台 spam | |
 | `oecshhm3612/gyb` | 2026-03-31 | 2,500 | 体育投注官网 spam | |
 | `yasadhaga/2` | 2026-03-30 | 2,553 | pc28加拿大微信 spam | |
@@ -173,6 +175,7 @@
 | `kelloxyme/yycyy` | 2026-01-21 | 1,878 | 糖果派对 spam | |
 | `bcook3en/hzi` | 2026-03-30 | 1,875 | 沙巴体育 spam | |
 | `blooburthastok/bgo` | 2026-03-30 | 1,854 | 体育投注官网 spam | |
+| `krishnatagb/uv4` | 2026-03-30 | 1,872 | 米乐体育投注 spam | |
 | `ppertge141/5ix` | 2026-03-30 | 1,862 | 正规网投 spam | |
 | `willismcdo/u` | 2026-03-27 | 1,524 | 百威平台招商 spam | |
 | `rexdcolley3/q` | 2026-03-30 | 1,468 | pc28微信 spam | |
@@ -180,6 +183,7 @@
 | `maleyshubhando/rcb` | 2026-03-31 | 1,500 | 乐动体育投注 spam | |
 | `mholckman/n7p` | 2026-03-31 | 1,500 | 网上体育投注 spam | |
 | `mohaberez/k0n` | 2026-03-31 | 1,500 | 体育投注欧洲杯 spam | |
+| `lawyer5dra/jli` | 2026-03-31 | 1,500 | AG官方客户端 spam | |
 | `enjoyude00/e` | 2026-03-27 | 1,445 | 彩票平台 spam | |
 | `adielvidde/z9092` | 2026-03-31 | 1,000 | pg电子 spam | |
 | `raldhood/y27g4s` | 2026-03-29 | 764 | 杏运平台注册 spam | |
@@ -233,6 +237,7 @@
 | `alex-pepef/cor6g9` | 2026-03-31 | 500 | 回血 spam | |
 | `robsaraoig/mp6` | 2026-03-31 | 500 | 快3计划 spam | |
 | `alex-sanch/63x` | 2026-03-31 | 500 | 快3计划 spam | |
+| `1i0x/hip` | 2026-03-31 | 500 | Y15点CC/pg麻将 spam | |
 | `yonguyiyandkay/lwhebu` | 2026-03-31 | 500 | 快3人工回血 spam | |
 | `prakashdog/de7` | 2026-03-31 | 498 | Y15点CC/c7娱乐 spam | |
 | `salflaminc/z23` | 2026-03-31 | 464 | 壁挂炉售后spam | |
