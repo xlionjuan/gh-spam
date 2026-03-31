@@ -8,6 +8,10 @@
 | `courl0dowm/wftp` | 2026-03-30 | 17,662+ | 一肖一码 spam | |
 | `thedardney/h96` | 2026-03-30 | 9,504+ | c7 spam | |
 | `timerablack-com/f5g` | 2026-03-30 | 9,020+ | 澳洲幸运10 spam | |
+| `abdigolaa/ha6` | 2026-03-30 | 9,528+ | 加拿大28 spam | |
+| `thebasmune/lba` | 2026-03-30 | 9,512+ | 加拿大28 spam | |
+| `mickerdup/4mi` | 2026-03-30 | 9,550+ | 加拿大28 spam | |
+| `renalualrob/xn9` | 2026-03-30 | 9,037+ | 加拿大28 spam | |
 | `janceswl/d83` | 2026-03-30 | 9,101+ | c7/188BET spam | |
 | `ta96489580/nl3` | 2026-03-30 | 9,051+ | c7 spam | |
 | `achen-msima/0jh` | 2026-03-30 | 9,030+ | c7 spam | |
@@ -112,6 +116,8 @@
 | `treiderocon-wq/i2a` | 2026-03-30 | 1,000 | 计划导师 spam | |
 | `caifanbith/tj6` | 2026-03-31 | 1,000 | 包赔计划 spam | |
 | `alex-mondyle9/x4mi6w` | 2026-03-31 | 500 | 彩票平台 spam | |
+| `Martinapoound/7jn6h` | 2026-03-31 | 999 | 加拿大28 spam | |
+| `turbyfillernaqq-14/xpwxjw` | 2026-03-25 | 805 | 加拿大28 spam | |
 | `asirizia93-rgb/d1g71k` | 2026-03-31 | 500 | 回血 spam | |
 | `alex-pepef/cor6g9` | 2026-03-31 | 500 | 回血 spam | |
 | `robsaraoig/mp6` | 2026-03-31 | 500 | 快3计划 spam | |
