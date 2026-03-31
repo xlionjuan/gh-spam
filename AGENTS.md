@@ -279,12 +279,14 @@ git push
 
 ### 提交 GitHub Abuse Report
 1. 建立 report 檔案：`github-spam-report-YYYY-MM-DD.md`
-2. **Report 格式注意**：不要包含以下欄位：
+2. **Report 必須獨立**：每個 report 應該是完整的 self-contained 文件，不應交叉引用其他 report（如不要寫「如 report XYZ 所述」）
+3. **Report 格式注意**：不要包含以下欄位：
    - `Report Date:`
    - `Reporter:`
    - `Contact:`
    - `Report ID:`
    - `Generated:`
+4. **Section 規則**：如果某個 size category（如 Super Large Spam）沒有任何 repos，必須刪除該 section，不要留空 header
 3. 複製 report 內容到 [GitHub Abuse Form](https://github.com/contact/report-abuse)
 4. 或 email 到 abuse@github.com
 5. 更新 spam-repo-list.md 中所有相關 repos 的 Report 日期

@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a follow-up report for additional spam repositories identified as part of the same coordinated gambling spam attack network documented in previous reports (github-spam-report-2026-03-30.md and github-spam-report-2026-04-01.md). These repositories remain active and contain gambling/adult content spam through GitHub Issues.
+This is a report for additional spam repositories identified as part of the coordinated gambling spam attack network. These repositories remain active and contain gambling/adult content spam through GitHub Issues.
 
 **Estimated Total Spam Issues:** 30,000+ across 221 repositories
 
@@ -23,45 +23,81 @@ This is a follow-up report for additional spam repositories identified as part o
 
 ---
 
-## Unreported Spam Repositories (221 repos)
+## Spam Repositories (221 repos)
 
 ### Super Large Spam (5000+ issues)
 | Repo | Created | Issues | Spam Type |
 |------|---------|--------|-----------|
+| `frandon5storms/ttagez` | 2026-03-30 | 43,441 | 彩票 spam |
+| `likavale/nrqrxrjs` | 2026-03-30 | 14,478 | 彩票 spam |
+| `penttner/hpykft` | 2026-03-30 | 12,037 | 彩票 spam |
+| `k20123p/427` | 2026-03-30 | 10,426 | 彩票 spam |
+| `ht0ano/un6` | 2026-03-30 | 10,310 | 彩票 spam |
+| `thanhctapcon/thanhctapcon.github.io` | 2025-08-26 | 10,368 | 彩票平台 spam |
+| `davidvktrosclr/snamd223` | 2026-03-30 | 8,966 | ２０２６第一 spam |
+| `whbhams/i96d` | 2025-12-14 | 7,547 | 彩票 spam |
+| `hbhmacitt/j1bfa` | 2026-03-30 | 7,354 | PG电子 spam |
+| `didaginca1/0be6w` | 2026-03-30 | 7,253 | PG电子 spam |
+| `dplus50/78s` | 2026-03-30 | 5,461 | PG电子 spam |
+| `vicrobins/jxj` | 2026-03-30 | 4,873 | 彩票 spam |
+| `67509/hdt` | 2026-03-30 | 4,930 | 彩票 spam |
 
 ### Large Spam (2000-5000 issues)
 | Repo | Created | Issues | Spam Type |
 |------|---------|--------|-----------|
+| `kimyi123/hhoy` | 2026-03-31 | 2,500 | 彩票 spam |
+| `koulioguyan/o2hr` | 2026-03-31 | 2,500 | 彩票 spam |
+| `mufy3416/6t` | 2026-03-31 | 2,500 | 彩票 spam |
+| `paileyl/qkav` | 2026-03-31 | 2,500 | 彩票 spam |
+| `sv2448/lamk` | 2026-03-31 | 2,500 | 彩票 spam |
+| `frfibi/rz3o` | 2026-03-31 | 2,500 | 彩票 spam |
+| `gresphrekovic/odgy` | 2026-03-31 | 2,500 | 彩票 spam |
+| `fhederichb/ds` | 2026-03-31 | 2,460 | ２０２６第一 spam |
+| `tenderv/5w` | 2026-03-31 | 2,481 | ２０２６第一 spam |
+| `izai1201/4p` | 2026-03-31 | 2,458 | ２０２６第一 spam |
+| `muyao102/y3` | 2026-03-31 | 2,474 | ２０２６第一 spam |
+| `cordufree/gm` | 2026-03-31 | 2,451 | ２０２６第一 spam |
+| `chlri/o5di` | 2026-03-31 | 2,444 | ２０２６第一 spam |
+| `adadaslc/owh4` | 2026-03-31 | 2,434 | ２０２６第一 spam |
+| `achiperal6677/r7` | 2026-03-31 | 2,427 | ２０２６第一 spam |
+| `abemingbuble/haaj` | 2026-03-30 | 2,391 | ２０２６第一 spam |
 
 ### Medium Spam (500-2000 issues)
 | Repo | Created | Issues | Spam Type |
 |------|---------|--------|-----------|
-| `alex-giu/ylnny` | 2026-03-31  |  656  |  ２０２６第一 spam  |
-| `arvaneshow/fcq` | 2026-03-31  |  805  |  ２０２６第一 spam  |
-| `bjaezz/epnwvhvn` | 2026-03-30  |  659  |  ２０２６第一 spam  |
-| `brchnprinterg/dbmptfy` | 2026-03-30  |  660  |  ２０２６第一 spam  |
-| `charfanda/3wn` | 2026-03-31  |  874  |  ２０２６第一 spam  |
-| `cordufree/hag8ll012` | 2026-03-31  |  500  |  彩票 spam  |
-| `devlodi00/qwesziku` | 2026-03-30  |  663  |  ２０２６第一 spam  |
-| `drafieldamion/qohtqkh` | 2026-03-31  |  711  |  ２０２６第一 spam  |
-| `flesh2cycl/udxoq1` | 2026-03-22  |  722  |  彩票平台 spam  |
-| `greschatewritn/bvvmbpo` | 2026-03-30  |  666  |  ２０２６第一 spam  |
-| `hougro/yyf` | 2026-03-31  |  883  |  ２０２６第一 spam  |
-| `izai1201/9ot7` | 2026-03-31  |  500  |  彩票 spam  |
-| `jamesud13/hx9` | 2026-03-31  |  883  |  ２０２６第一 spam  |
-| `joshboyday/17e` | 2026-03-31  |  500  |  彩票 spam  |
-| `kite-4ml/nzdb` | 2026-03-30  |  669  |  ２０２６第一 spam  |
-| `muyao102/cfbw` | 2026-03-31  |  500  |  彩票 spam  |
-| `piotris37/zyt` | 2026-03-30  |  500  |  PG电子 spam  |
-| `prakashdog/2cf` | 2026-03-31  |  500  |  彩票 spam  |
-| `rehheerzcinoh/olpoh` | 2026-03-30  |  674  |  ２０２６第一 spam  |
-| `sacheswike/dedrl` | 2026-03-30  |  673  |  ２０２６第一 spam  |
-| `seaqoupersven/u9v75` | 2026-03-31  |  815  |  ２０２６第一 spam  |
-| `siminioc/twtsblv` | 2026-03-30  |  676  |  ２０２６第一 spam  |
-| `tenderv/6n7zpta11` | 2026-03-31  |  500  |  彩票 spam  |
-| `theg3nddrb/lyavn` | 2026-03-31  |  500  |  彩票 spam  |
-| `tomncc2112/ejgbcco` | 2026-03-31  |  722  |  ２０２６第一 spam  |
-| `yowar4zow/exrdxpwn` | 2026-03-30  |  679  |  ２０２６第一 spam  |
+| `belibaser/heh` | 2026-03-31 | 1,439 | ２０２６第一 spam |
+| `khurius2004/9st` | 2026-03-31 | 1,710 | ２０２６第一 spam |
+| `kjwilling/94q` | 2026-03-31 | 1,723 | ２０２６第一 spam |
+| `tommerchrischk/cva` | 2026-03-31 | 1,713 | ２０２６第一 spam |
+| `markerinpl/nsz` | 2026-03-31 | 1,585 | 微信群 spam |
+| `mruanpei/bkb` | 2026-03-31 | 1,870 | ２０２６第一甄选 spam |
+| `simonstrou/bov` | 2026-03-31 | 1,888 | 體育 spam |
+| `yaroshmedi/vpp` | 2026-03-31 | 1,243 | ２０２６第一 spam |
+| `shiyugithu/6jy` | 2026-03-31 | 1,199 | ２０２６第一 spam |
+| `fiscollinzi/05x3` | 2026-03-31 | 1,957 | ２０２６第一 spam |
+| `drafieldamion/qohtqkh` | 2026-03-31 | 711 | ２０２６第一 spam |
+| `hougro/yyf` | 2026-03-31 | 883 | ２０２６第一 spam |
+| `jamesud13/hx9` | 2026-03-31 | 883 | ２０２６第一 spam |
+| `seaqoupersven/u9v75` | 2026-03-31 | 815 | ２０２６第一 spam |
+| `arvaneshow/fcq` | 2026-03-31 | 805 | ２０２６第一 spam |
+| `rehheerzcinoh/olpoh` | 2026-03-30 | 674 | ２０２６第一 spam |
+| `sacheswike/dedrl` | 2026-03-30 | 673 | ２０２６第一 spam |
+| `siminioc/twtsblv` | 2026-03-30 | 676 | ２０２６第一 spam |
+| `greschatewritn/bvvmbpo` | 2026-03-30 | 666 | ２０２６第一 spam |
+| `devlodi00/qwesziku` | 2026-03-30 | 663 | ２０２６第一 spam |
+| `brchnprinterg/dbmptfy` | 2026-03-30 | 660 | ２０２６第一 spam |
+| `bjaezz/epnwvhvn` | 2026-03-30 | 659 | ２０２６第一 spam |
+| `kite-4ml/nzdb` | 2026-03-30 | 669 | ２０２６第一 spam |
+| `yowar4zow/exrdxpwn` | 2026-03-30 | 679 | ２０２６第一 spam |
+| `tomncc2112/ejgbcco` | 2026-03-31 | 722 | ２０２６第一 spam |
+| `flesh2cycl/udxoq1` | 2026-03-22 | 722 | 彩票平台 spam |
+| `gitktger20/g5hxr` | 2026-03-31 | 330 | ２０２６第一 spam |
+| `dogravia7/a263t` | 2026-03-31 | 329 | ２０２６第一 spam |
+| `sportsgit/rrk` | 2026-03-31 | 316 | ２０２６第一 spam |
+| `leocelord/hx5` | 2026-03-31 | 308 | ２０２６第一 spam |
+| `eliqueedito/7vk` | 2026-03-31 | 306 | ２０２６第一 spam |
+| `anyuk4989/azf` | 2026-03-31 | 305 | ２０２６第一 spam |
+| `alex-giu/ylnny` | 2026-03-31 | 656 | ２０２６第一 spam |
 
 ### Small Spam (<500 issues)
 | Repo | Created | Issues | Spam Type |
@@ -280,5 +316,3 @@ I request that GitHub Trust & Safety team:
 2. Identify and suspend the bot accounts creating these issues
 3. Remove the spam repositories and/or their issues
 4. Implement countermeasures to prevent similar future attacks
-
-(End of file)
