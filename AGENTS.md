@@ -7,76 +7,113 @@
 - `gh` CLI - GitHub 命令列工具
 - WebFetch - 抓取網頁版搜尋結果
 
-## CLI 語法參考
-**重要**：正確語法請參考 `gh-api-syntax.md`
+## 檔案架構
+| 檔案 | 用途 |
+|------|------|
+| `spam-repo-list.md` | 維護**仍存在**的 spam repos |
+| `deleted-spam-repo-list.md` | 歸檔**已刪除**的 spam repos |
+| `github-spam-report-YYYY-MM-DD.md` | 舉報檔案（每個 report 獨立） |
+| `gh-api-syntax.md` | Gh CLI 語法參考 |
 
-### 查詢 repo 資訊（確認是否真的老spam）
+---
+
+## 工作流程
+
+### 1. 發現新 spam repos
+```bash
+# 搜尋特定關鍵字（推薦）
+gh search issues 'PG電子 --created 2026-03-30' --limit 100
+gh search issues '主管开户' --limit 100
+gh search issues 'AG真人' --limit 100
+
+# 搜尋特定日期的所有 repos
+gh search issues 'created:2026-03-30' --limit 500 --sort created
+```
+
+### 2. 驗證並記錄新 repos
+```bash
+# 批次驗證 repos（檢查建立時間和 issue 數量）
+for repo in repo1 repo2 repo3; do
+  info=$(gh api repos/$repo --jq '{created: .created_at, issues: .open_issues_count}' 2>/dev/null)
+  echo "$repo: $info"
+done
+
+# 檢查 issue 標題確認是否為 spam
+gh api repos/USER/REPO/issues --jq '.[0:3] | .[].title'
+```
+
+### 3. 驗證刪除狀態
+```bash
+# 檢查 spam-repo-list.md 中所有 repos 是否仍存在
+grep -oP '^\| `\K[^`]+' spam-repo-list.md | grep '/' | sort -u > /tmp/list_repos.txt
+xargs -P 50 -I {} sh -c 'gh api repos/{} --jq ".name" 2>&1 | grep -q "Not Found" && echo {}' < /tmp/list_repos.txt
+
+# 發現刪除 → 從 spam-repo-list.md 移除，加入 deleted-spam-repo-list.md
+```
+
+### 4. 驗證 Report 與 List 一致
+```bash
+# 確認 report 中 repo 數量
+grep -E '^\| `[^`]+` ' github-spam-report-YYYY-MM-DD.md | wc -l
+
+# 確認沒有重複
+grep -E '^\| `[^`]+` ' github-spam-report-YYYY-MM-DD.md | awk -F'`' '{print $2}' | sort | uniq -d
+
+# 確認 report repos 都在 list 中
+grep -oP '^\| `\K[^`]+' github-spam-report-YYYY-MM-DD.md | while read repo; do
+  grep -q "$repo" spam-repo-list.md || echo "MISSING: $repo"
+done
+```
+
+### 5. 提交 GitHub Abuse Report
+1. 建立 report 檔案：`github-spam-report-YYYY-MM-DD.md`
+2. **Report 必須獨立**：不應交叉引用其他 report
+3. **格式規則**：
+   - 不要包含：`Report Date:`, `Reporter:`, `Contact:`, `Report ID:`, `Generated:`
+   - 如果某個 size category 沒有 repos，必須刪除該 section，不要留空 header
+4. 複製 report 內容到 [GitHub Abuse Form](https://github.com/contact/report-abuse)
+5. 更新 spam-repo-list.md 中相關 repos 的 Report 日期
+
+### 6. Git 工作流程
+```bash
+git add -A
+git commit -m 'Update: description'
+git push
+# 若 push 失敗，重試一次（Forgejo 認證問題）
+```
+
+---
+
+## CLI 語法參考
+**重要**：詳細語法請參考 `gh-api-syntax.md`
+
 ```bash
 # 確認 repo 建立時間和 issue 數量
 gh api repos/USER/REPO --jq '{name: .name, created: .created_at, open_issues: .open_issues_count}'
-```
 
-### 搜尋特定日期的 spam
-```bash
-# 查詢 2025 年 spam
-gh search issues '彩票导师 --created 2025-01-01..2025-12-31' --limit 100
+# 確認 repo 是否已刪除
+gh api repos/USER/REPO --jq '.name' 2>/dev/null || echo "DELETED"
 
-# 查詢 2023-2024 年 spam
-gh search issues 'AG真人 --created 2023-01-01..2024-12-31' --limit 100
-
-# 查詢最新 spam（2026-03-30 以後）
-gh search issues 'created:2026-03-30' --limit 100 --sort created
-```
-
-### 查詢 user 資訊（注意 endpoint）
-```bash
-# 正確：用 users 而非 repos
+# 查詢 user 資訊（注意：用 users 而非 repos）
 gh api users/USERNAME --jq '{login: .login, created: .created_at}'
 ```
 
-## 重要技巧
+---
+
+## 重要規則
 
 ### 識別真假老 spam
 標題含年份（如 `2025彩民指南`）**不代表**是老 spam！
 - **關鍵**：用 `gh api repos/USER/REPO --jq '.created_at'` 確認 repo 真正建立時間
-- **假老 spam**：`jy2886-2/ygi0v` (2026-03-28) 但標題是 `2024年第一指南`、`2025年第一指南`
-- **真老 spam**：`lilladezman-boop/y7vk53iv` (2025-08-06) 且標題確實是 `2025彩民...`
+- **假老 spam**：`jy2886-2/ygi0v` (2026-03-28) 但標題是 `2024年第一指南`
+- **真老 spam**：`lilladezman-boop/y7vk53iv` (2025-08-06)
 
-### 驗證步驟
-1. 發現可疑 spam repo → 2. 檢查 `gh api repos/USER/REPO --jq '.created_at'` → 3. 確認建立時間 → 4. 記錄到 spam-repo-list.md
-
-### ⚠️ 重要規則：嚴禁提前填寫 Report 日期
-**嚴禁在未實際提交 GitHub Abuse Report 之前填寫 Report 日期！**
+### ⚠️ 嚴禁提前填寫 Report 日期
 - 只有已提交 abuse report 的 repos 才能填寫 Report 日期
 - 發現新 spam repo 時，Report 欄位留空
 - 填寫日期必須是真正完成 report 的日期
-- 違者後果自負
 
-### 驗證 repo 是否仍存在
-```bash
-gh api repos/USER/REPO --jq '.name' 2>/dev/null || echo "DELETED"
-```
-
-### 驗證 Report 日期是否正確
-**目的**：確保所有有 Report 日期的 repos 都真的在 report 檔案中
-
-```bash
-# 1. 確認 spam-repo-list.md 中有 Report 日期的 repos
-grep 'Report:' spam-repo-list.md | grep '| `' | awk -F'`' '{print $2}' | awk -F'`' '{print $1}' | sort -u > /tmp/listed_repos.txt
-
-# 2. 檢查是否每個有 Report 日期的 repo 都在 report 檔案中
-for repo in $(cat /tmp/listed_repos.txt); do
-  if ! grep -q "$repo" github-spam-report-*.md 2>/dev/null; then
-    echo "NOT IN REPORT: $repo"
-  fi
-done
-
-# 3. 檢查是否有重複的 repo 條目
-grep 'Report:' spam-repo-list.md | grep '| `' | awk -F'`' '{print $2}' | sort | uniq -d
-
-# 4. 確認數量正確（42 個 repos 應該有 Report 日期）
-grep 'Report:' spam-repo-list.md | grep -v '已提交' | wc -l
-```
+---
 
 ## 發現的 Spam Pattern
 
@@ -84,243 +121,55 @@ grep 'Report:' spam-repo-list.md | grep -v '已提交' | wc -l
 
 #### 主要關鍵字
 ```
-主管开户
-开户
-彩民
-娱乐
-澳洲幸运10
-星力
-AG真人
-百家乐 / 百家家乐
-炸金花
-澳门赌场
-银商
-上分 / 下分 / 微信上分
-91y
-彩票
-棋牌
-代理
-总代
-返水
-信誉
-耀世
-门徒娱乐
-皇冠信用盘
-pg电子 / PG电子 / 电子pg
-c7 / c7.ccm
-188BET
-kaiyun
-BET9 / BET9九卅娱乐
-芒果体育
-芒果棋牌
-集结号 / 集结号91y
-信誉第一
-网投信誉
-买球
-世界杯买球
-赛车 / 极速赛车 / 北京赛车 / pk10
-快3 / 3分快3 / 幸运快3
-加拿大28 / pc28
-一肖一码
-白小姐
-威尼斯 / 威斯尼斯
-bbin / BBIN
-澳门银河
-倍投
-上岸 / 回血
-包赔
-带你赚钱 / 带你回血
-计划群 / 计划导师
-预测
-走势
-菠菜
-网址
+主管开户、开户、彩民、娱乐、澳洲幸运10、星力、AG真人、
+百家乐、百家家乐、炸金花、澳门赌场、银商、91y、彩票、
+棋牌、代理、总代、返水、信誉、皇冠信用盘、pg电子、PG電子、
+c7、188BET、kaiyun、芒果体育、芒果棋牌、集结号、信誉第一、
+买球、世界杯买球、赛车、极速赛车、快3、加拿大28、pc28、
+一肖一码、白小姐、威尼斯、bbin、倍投、上岸、回血、包赔
 ```
 
-#### 2026 新 spam 標題 pattern
-```
-# X分钟了解-XXX-第一财经
-X分钟了解-168财神捕鱼-第一财经
-X分钟了解-PG电子招财喵-第一财经
-
-# ２０２６年第一指南-XXX
-２０２6年第一指南-体育平台
-２０２6年第一指南-PG电子
-２０２6年第一指南-AG真人
-
-# 皇冠信用盘出租
-皇冠信用盘代理开户
-皇冠登0123系统出租
-
-# 技術項目名稱偽裝（大量同時發布）
-Vite-React-TS-Boilerplate
-Diffusion-Model-FineTune
-SpringMVC 核心原理讲解
-宝塔面板如何修改管理员邮箱
-
-# 銀商/極速賽車
-91y银商
-极速赛车qq群
-澳洲幸运10微信群
-
-# 彩票欺騙
-一肖一码澳门一肖
-白小姐一码一肖中特
-精准四肖四码
-
-# 投注平台
-买球世界杯买球
-快3带赚包赔快3导师
-
-# 大發/回血上岸
-大发回血上岸带你
-导师带你赚钱
-三天带你回血
-
-# 彩票平台
-彩票计划app
-快3平台
-正规彩票平台
-```
-
-# 彩票欺騙
-一肖一码澳门一肖
-白小姐一码一肖中特
-精准四肖四码
-
-# 投注平台
-买球世界杯买球
-快3带赚包赔快3导师
-```
+#### 技術項目名稱偽裝 spam
+- Repo 名稱：隨機字元組合（如 `khanvgpalle/ubov0`）
+- Issue 內容：賭博關鍵字隱藏在技術標題中
+- 同時間大量出現（同一分鐘建立）
 
 #### 2026 Spam 攻擊時間線
-- 2026-03-30 大規模攻擊（多個 repos 同時建立，如 08:19）
-- 大型 spam 類型：
-  - pg麻将胡了（~7400 issues/repo）
-  - ２０２6第一指南/第一甄选/第一专栏（~8500-9600 issues/repo）
-  - c7 平台（~9000+ issues/repo）
-  - 188BET 平台（~8500-9500 issues/repo）
-  - AG真人（~6200+ issues/repo）
-  - 炸金花（~6200+ issues/repo）
-  - kaiyun（~6200+ issues/repo）
-  - 买球（~5000 issues/repo）
-  - 芒果棋牌（~6300+ issues/repo）
-  - 一肖一码/白小姐（~17,000+ issues/repo）
-  - 信誉类（~43,000 issues/repo）
+- **2026-03-30** 大規模攻擊（多個 repos 同時建立，如 08:19）
+- **2026-03-31** 持續攻擊波
+
+#### 大型 spam 類型（2026-03-30）
+| 類型 | Issues/Repo |
+|------|-------------|
+| pg麻将胡了 | ~7,400 |
+| ２０２６第一指南/甄选/专栏 | ~8,500-9,600 |
+| c7 平台 | ~9,000+ |
+| 188BET 平台 | ~8,500-9,500 |
+| AG真人 | ~6,200+ |
+| 炸金花 | ~6,200+ |
+| kaiyun | ~6,200+ |
+| 买球 | ~5,000 |
+| 芒果棋牌 | ~6,300+ |
+| 一肖一码/白小姐 | ~17,000+ |
+| 信誉类 | ~43,000+ |
 
 ### 2025 Spam
 - 關鍵字：`2025彩民`、`彩票导师`
-
-### 2024 Spam
-- 少量 spam
 
 ### 2023 Spam（域名搶注）
 - 關鍵字：`《资讯》`、`AG真人`、`-2023`
 - 手法：域名搶注（如 `baidu.com` 作為 repo 名稱）
 
-## 工作流程
-
-### 發現新 spam 的方法
-1. **搜尋特定日期**：`gh search issues 'created:2026-03-30' --limit 100 --sort created`
-2. **檢查 issue 數量異常的 repo**：數量突然增加的 repo
-3. **驗證 repo 建立時間**：確認是否為新攻擊
-4. **更新 spam-repo-list.md**：記錄新發現的 spam repo
-
-### 驗證並更新清單
-1. 發現可疑 repo → 2. `gh api repos/USER/REPO --jq '{...}'` → 3. 記錄到 spam-repo-list.md → 4. 如已 report，填寫 report 日期
-
-### 批次尋找新 spam repos（2026-03-30 為例）
-```bash
-# 1. 列出特定日期的所有 unique repos
-gh search issues 'created:2026-03-30' --limit 500 --sort created | \
-  grep -E '^[a-z0-9-]+/[a-z0-9]+' | awk '{print $1}' | sort -u
-
-# 2. 過濾高 issue 數量的可疑 repos
-gh search issues 'created:2026-03-30' --limit 500 --sort created | \
-  grep -E '^[a-z0-9-]+/[a-z0-9]+' | awk '{if ($2 > 100) print}' | head -30
-
-# 3. 批次驗證 repos（檢查建立時間和 issue 數量）
-for repo in repo1 repo2 repo3; do
-  info=$(gh api repos/$repo --jq '{created: .created_at, issues: .open_issues_count}' 2>/dev/null)
-  echo "$repo: $info"
-done
-
-# 4. 檢查 issue 標題確認是否為 spam
-gh api repos/USER/REPO/issues --jq '.[0:3] | .[].title'
-```
-
-### 識別技術名稱偽裝 spam
-技術專案名稱 spam 的共同特徵：
-- Repo 名稱：隨機字元組合（如 `khanvgpalle/ubov0`、`kwonghugo/o8629`）
-- Issue 內容：賭博關鍵字隱藏在技術標題中
-- 同時間大量出現（同一分鐘建立）
-```bash
-# 搜尋技術名稱偽裝 spam
-gh search issues 'created:2026-03-30' --limit 500 --sort created | \
-  grep -E '(Vite|React|Spring|LangChain|Docker|Gatsby|Nuxt)' | head -20
-```
-
-### Git 工作流程
-```bash
-# 初始化（首次）
-git init -b main
-git add -A
-git commit -m 'Initial commit'
-git remote add origin https://git.xlion.tw/xlionjuan/gh-spam.git
-git push -u origin main
-
-# 更新後推送
-git add -A
-git commit -m 'Update: add new spam repos found'
-git push
-```
-
-**Forgejo Push 注意**：此專案托管於 Forgejo (`git.xlion.tw`)，偶爾會出現認證錯誤。若 push 失敗，重試一次即可成功。
-
-### 提交 GitHub Abuse Report
-1. 建立 report 檔案：`github-spam-report-YYYY-MM-DD.md`
-2. **Report 必須獨立**：每個 report 應該是完整的 self-contained 文件，不應交叉引用其他 report（如不要寫「如 report XYZ 所述」）
-3. **Report 格式注意**：不要包含以下欄位：
-   - `Report Date:`
-   - `Reporter:`
-   - `Contact:`
-   - `Report ID:`
-   - `Generated:`
-4. **Section 規則**：如果某個 size category（如 Super Large Spam）沒有任何 repos，必須刪除該 section，不要留空 header
-3. 複製 report 內容到 [GitHub Abuse Form](https://github.com/contact/report-abuse)
-4. 或 email 到 abuse@github.com
-5. 更新 spam-repo-list.md 中所有相關 repos 的 Report 日期
-
-### 批次更新 Report 日期
-```bash
-# 將所有空的 Report 欄位填入日期
-sed -i '/^|.*| |$/s/| |/| Report: 2026-03-30 |/' spam-repo-list.md
-
-# 或手動指定某幾個 repo（需手動編輯）
-```
-
-## 研究檔案
-- `spam-patterns.md` - 完整 pattern 分析
-- `spam-repo-list.md` - 已被確認的 spam repo 清單（僅含仍存在的 repos）
-- `deleted-spam-repo-list.md` - 已刪除的 spam repo 歷史記錄
-- `gh-api-syntax.md` - Gh CLI 語法參考（重要！易錯語法記錄）
-
-## 架構說明
-- `spam-repo-list.md`：維護**仍存在**的 spam repos
-- `deleted-spam-repo-list.md`：歸檔**已刪除**的 spam repos（包含已回報和未回報的）
-- 發現新 spam repo → 優先加入 spam-repo-list.md
-- 定時驗證：檢查 spam-repo-list.md 中的 repos 是否已被 GitHub 刪除
-  - 發現刪除 → 移至 deleted-spam-repo-list.md
-
-## 驗證刪除狀態
-```bash
-# 檢查 spam-repo-list.md 中所有 repos 的刪除狀態
-grep '^|' spam-repo-list.md | grep -v 'Repo' | grep -v '\-\-\-' | awk -F'`' '{print $2}' | awk -F'`' '{print $1}' | sort -u | xargs -P 20 -I {} sh -c 'gh api repos/{} --jq ".name" 2>&1 | grep -q "Not Found" && echo {}'
-
-# 批次更新已刪除 repos 到 deleted-spam-repo-list.md
-```
+---
 
 ## 網頁版完整搜尋語法
 ```
-("主管开户" OR "开户" OR "彩民" OR "娱乐平台" OR "澳洲幸运10" OR "星力" OR "91y" OR "银商" OR "AG真人" OR "百家乐" OR "百家家乐" OR "炸金花" OR "澳门赌场" OR "彩票平台" OR "棋牌" OR "代理" OR "总代" OR "返水" OR "信誉第一" OR "皇冠信用盘" OR "耀世" OR "门徒娱乐" OR "pg电子" OR "PG电子" OR "c7" OR "188BET" OR "kaiyun" OR "BET9" OR "芒果体育" OR "芒果棋牌" OR "集结号" OR "信誉网投" OR "买球" OR "世界杯买球" OR "赛车" OR "极速赛车" OR "快3" OR "加拿大28" OR "pc28" OR "pk10" OR "一肖一码" OR "白小姐")
+("主管开户" OR "开户" OR "彩民" OR "娱乐平台" OR "澳洲幸运10" OR "星力" OR 
+"91y" OR "银商" OR "AG真人" OR "百家乐" OR "百家家乐" OR "炸金花" OR 
+"澳门赌场" OR "彩票平台" OR "棋牌" OR "代理" OR "总代" OR "返水" OR 
+"信誉第一" OR "皇冠信用盘" OR "耀世" OR "门徒娱乐" OR "pg电子" OR 
+"PG电子" OR "c7" OR "188BET" OR "kaiyun" OR "BET9" OR "芒果体育" OR 
+"芒果棋牌" OR "集结号" OR "信誉网投" OR "买球" OR "世界杯买球" OR 
+"赛车" OR "极速赛车" OR "快3" OR "加拿大28" OR "pc28" OR "pk10" OR 
+"一肖一码" OR "白小姐")
 ```
