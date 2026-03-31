@@ -5,6 +5,10 @@
 ### 超大型 Spam（5000+ issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
 |------|----------|-------------|------|-------------|
+| `huzhangh2010/a8a` | 2026-03-30 | 9,608+ | ２０２６第一指南 spam | |
+| `justibricks/7kg` | 2026-03-30 | 9,491+ | ２０２６第一甄选 spam | |
+| `lucavieidev/6tg` | 2026-03-30 | 8,586+ | ２０２６第一专栏 spam | |
+| `nlingmy/ti5` | 2026-03-30 | 4,907+ | ２０２６买球 spam | |
 | `johrok/dqwdqdq` | 2026-03-30 | 45,578 | 赛车计划 spam | |
 | `jakesms/xiaoixoafei` | 2026-03-30 | 45,000 | 快3计划导师 spam | |
 
@@ -46,6 +50,7 @@
 | `ahanhawk/m0jyqf` | 2026-03-29 | 133 | | |
 | `womap3/6yjlo` | 2026-03-28 | 336 | | |
 | `rgrossic/g11iour4` | 2026-03-26 | 418 | | |
+| `skymonthar/7f7s7` | 2026-03-20 | 1,354 | 網投第一信誉 spam | |
 
 ### 小型 Spam（<500 issues）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -60,6 +65,12 @@
 | `anandjanak/jb5yo` | 2026-03-30 | 500 | 體育平台 spam | |
 | `sanjarick/vnz3j` | 2026-03-30 | 500 | 體育平台 spam | |
 | `boxdeustin/yqavx` | 2026-03-30 | 498 | 體育平台 spam | |
+| `guli90802/a2t5j` | 2026-03-30 | 50 | pg电子赌博 spam | |
+| `yhyng/gup88` | 2026-03-30 | 50 | pg电子直营 spam | |
+| `bwg6650/ejh6r` | 2026-03-30 | 50 | pg电子攻略 spam | |
+| `svaril-ittac/n65a4` | 2026-03-30 | 100 | pg电子赌博 spam | |
+| `ronemerdbayuntc/afud6` | 2026-03-30 | 100 | PG电子网站 spam | |
+| `welbm/kz7rw` | 2026-03-30 | 100 | PG电子网站 spam | |
 
 ### 宝塔面板 Spam（技术文章伪装）
 | Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
@@ -133,6 +144,6 @@
 ---
 
 ## 更新時間
-2026-03-30
+2026-04-01
 
 **注意**：只有上方表格中列出的 42 個 repos 已提交 abuse report（Report: 2026-03-30）。其餘 repos 待報告。
