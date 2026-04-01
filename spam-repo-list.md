@@ -513,8 +513,25 @@
 | `jhappyak/yh9u3` | 2026-03-30 | 496+ | | Report: 2026-04-01 |
 | `tagwast/ymhd9` | 2026-03-30 | 492+ | | Report: 2026-04-01 |
 | `junatr0n/4a6gv` | 2026-03-30 | 494+ | PG電子 spam | Report: 2026-04-01 |
+| `hengssukea/zgg` | 2026-03-30 | 2025 | 主管开户 spam | |
+| `antantfiel/pmr` | 2026-04-01 | 1038 | 主管开户 spam | |
+| `davedestra/25t` | 2026-04-01 | 1000 | ２０２６第一 spam | |
+| `vishalkitt/m82` | 2026-04-01 | 1000 | ２０２６第一 spam | |
+| `neoservice/qo2` | 2026-04-01 | 1000 | ２０２６第一 spam | |
+| `rupertjack/x49` | 2026-04-01 | 1000 | ２０２６第一 spam | |
+| `beastingda/g6r` | 2026-04-01 | 1000 | ２０２６第一 spam | |
+| `sukshanghagwayan/m5612` | 2026-04-01 | 998 | 主管开户 spam | |
+| `dancer5tul/i` | 2026-03-27 | 1301 | 主管开户 spam | |
+| `danyidockie/9q4o` | 2026-04-01 | 435 | 主管开户 spam | |
+| `mikerjmonteri-a/oiwu` | 2026-04-01 | 498 | 主管开户 spam | |
+| `sesi944/7ul` | 2026-03-30 | 500 | 體育平台 spam | |
+| `anandjanak/yqm` | 2026-03-30 | 488 | 體育平台 spam | |
+| `ardhambh/bbb` | 2026-04-01 | 151 | 主管开户 spam | |
+| `oohihm/r` | 2026-04-01 | 202 | 主管开户 spam | |
+| `moneyfruit/ok64` | 2026-04-01 | 350 | 電子pg spam | |
+| `rodogux/70nh` | 2026-04-01 | 300 | 電子pg spam | |
 
-| `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 |
+| `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 | |
 
 ---
 
