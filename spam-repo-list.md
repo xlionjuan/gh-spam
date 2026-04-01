@@ -342,6 +342,9 @@
 | `moinla968/egj` | 2026-04-01 | 2064 | 技术资料 spam | |
 | `mohstkandeong10/yfure` | 2026-04-01 | 750 | 快3 spam | |
 | `darkwisauez/v9aj0` | 2026-04-01 | 136 | 快3 spam | |
+| `jhardtu/v78w` | 2026-04-01 | 2615 | 麻将胡了 spam | |
+| `gsboyeetma/6ysp` | 2026-04-01 | 2236 | 麻将胡了 spam | |
+| `achelchest/divam` | 2026-04-01 | 582 | 皇冠出租 spam | |
 
 ---
 
