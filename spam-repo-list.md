@@ -345,6 +345,8 @@
 | `jhardtu/v78w` | 2026-04-01 | 2615 | 麻将胡了 spam | |
 | `gsboyeetma/6ysp` | 2026-04-01 | 2236 | 麻将胡了 spam | |
 | `achelchest/divam` | 2026-04-01 | 582 | 皇冠出租 spam | |
+| `flat0paren/2wim` | 2026-04-01 | 2250 | 芒果体育 spam | |
+| `marca-274/03` | 2026-04-01 | 1182 | 快3 spam | |
 
 ---
 
