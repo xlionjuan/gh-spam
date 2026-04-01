@@ -365,6 +365,8 @@
 | `moneyfruit/i4jn` | 2026-04-01 | 1776 | MG电子 spam | |
 | `wsmnh/a3i` | 2026-04-01 | 3862 | 救护车转运 spam | |
 | `winston779/naiyunvpn` | 2026-04-01 | 1473 | 品茶服务 spam | |
+| `asaswwwww1/tcv` | 2026-04-01 | 1144 | 保险箱售后 spam | |
+| `theencipexyas/u` | 2026-04-01 | 1011 | 救护车 spam | |
 
 ---
 
