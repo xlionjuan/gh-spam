@@ -633,6 +633,14 @@
 | `rice8cheek/bqj` | 2026-04-01 | 500 | 计划 spam | |
 | `sofianflyn/mwx` | 2026-04-01 | 372 | 计划 spam | |
 | `craft-magu/v7w` | 2026-04-01 | 500 | 计划 spam | |
+| `4bh507/00z` | 2026-03-30 | 2026 | 幸运10 spam | |
+| `andresslacker/dm5w` | 2026-04-01 | 435 | 平台代理 spam | |
+| `wartinai/ss` | 2026-04-01 | 79 | 平台代理 spam | |
+| `0x7xiazhen/csd` | 2026-04-01 | 168 | 平台代理 spam | |
+| `xxxxxstart/062ho` | 2026-03-27 | 141 | 平台代理 spam | |
+| `iphobiks/tseud` | 2026-03-27 | 20 | 平台代理 spam | |
+| `kamalicait/8ni` | 2026-04-01 | 177 | 幸运10 spam | |
+| `kedday/1za` | 2026-04-01 | 348 | 幸运10 spam | |
 
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 | |
 
