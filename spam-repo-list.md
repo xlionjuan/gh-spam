@@ -333,6 +333,10 @@
 | `marca-274/02` | 2026-04-01 | 1162 | 快3信誉 spam | |
 | `vjosephprsoria/18` | 2026-04-01 | 207 | 彩票资料 spam | |
 | `manomershan/aoo` | 2026-04-01 | 142 | 赚钱方法 spam | |
+| `mrggorstan/4oyt` | 2026-04-01 | 2310 | 麻将胡了 spam | |
+| `mikeact331/wk3d` | 2026-04-01 | 2211 | 麻将胡了 spam | |
+| `msiaddich/k7l` | 2026-04-01 | 1296 | PG电子 spam | |
+| `enmense-12/lja` | 2026-04-01 | 1295 | 财神捕鱼 spam | |
 
 ---
 
