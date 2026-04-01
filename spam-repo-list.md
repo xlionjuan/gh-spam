@@ -326,6 +326,13 @@
 | `issinanfaco-ne-g/3qz` | 2026-04-01 | 68 | 微信群 spam | |
 | `puppieshva/3fkjib` | 2026-04-01 | 60 | 微信群 spam | |
 | `bschvnx/vkwac` | 2026-04-01 | 46 | 客服电话 spam | |
+| `joeystedpo/sfcz` | 2026-04-01 | 2199 | 体育投注 spam | |
+| `martinlouk/wa8` | 2026-04-01 | 1262 | 大发导师 spam | |
+| `namgjengha/nn4` | 2026-04-01 | 1255 | mgm娱乐场 spam | |
+| `neoservice/qo2` | 2026-04-01 | 1254 | AG亚娱 spam | |
+| `marca-274/02` | 2026-04-01 | 1162 | 快3信誉 spam | |
+| `vjosephprsoria/18` | 2026-04-01 | 207 | 彩票资料 spam | |
+| `manomershan/aoo` | 2026-04-01 | 142 | 赚钱方法 spam | |
 
 ---
 
