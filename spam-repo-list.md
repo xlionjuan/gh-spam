@@ -283,6 +283,27 @@
 | `bbathawstemen/hhfab` | 2026-04-01 | 751 | 快3计划 spam | |
 | `bexuzitech/fd4lg` | 2026-04-01 | 1500 | 快3计划 spam | |
 | `gypt667/a676z` | 2026-04-01 | 1500 | 快3计划 spam | |
+| `botonia/q0q6k` | 2026-04-01 | 1474 | 快3计划 spam | |
+| `jentic/jentic-public-apis` | 2026-04-01 | 1177 | 快3计划 spam | |
+| `zerotyraar/x` | 2026-04-01 | 835 | 快3计划 spam | |
+| `cloudbusqued/pte` | 2026-04-01 | 775 | 快3计划 spam | |
+| `fayls/twx` | 2026-04-01 | 774 | 快3计划 spam | |
+| `solopeace7/w3w` | 2026-04-01 | 770 | 快3计划 spam | |
+| `cormsilshik/8` | 2026-04-01 | 736 | 快3计划 spam | |
+| `alasstlevis/d` | 2026-04-01 | 731 | 快3计划 spam | |
+| `jamesoendl/yoj` | 2026-04-01 | 627 | 快3计划 spam | |
+| `rmater123/l` | 2026-04-01 | 544 | 快3计划 spam | |
+| `oohihm/p` | 2026-04-01 | 489 | 快3计划 spam | |
+| `ab7089-x/I` | 2026-04-01 | 170 | 快3计划 spam | |
+| `ab7089-x/Y` | 2026-04-01 | 173 | 快3计划 spam | |
+| `adissanalm/sfpsi` | 2026-04-01 | 237 | 快3计划 spam | |
+| `anicebartin2479/e` | 2026-04-01 | 325 | PG电子 spam | |
+| `cykiese/c` | 2026-04-01 | 329 | PG电子 spam | |
+| `frankubaj3/3` | 2026-04-01 | 333 | PG电子 spam | |
+| `lc5908/b` | 2026-04-01 | 332 | PG电子 spam | |
+| `prinsf73/g` | 2026-04-01 | 329 | PG电子 spam | |
+| `vhutos/h` | 2026-04-01 | 336 | PG电子 spam | |
+| `zsagd/3hz6` | 2026-04-01 | 311 | PG电子 spam | |
 
 ---
 
