@@ -347,6 +347,8 @@
 | `achelchest/divam` | 2026-04-01 | 582 | 皇冠出租 spam | |
 | `flat0paren/2wim` | 2026-04-01 | 2250 | 芒果体育 spam | |
 | `marca-274/03` | 2026-04-01 | 1182 | 快3 spam | |
+| `vjosephprsoria/24` | 2026-04-01 | 194 | 快3 spam | |
+| `vjosephprsoria/27` | 2026-04-01 | 214 | 快3 spam | |
 
 ---
 
