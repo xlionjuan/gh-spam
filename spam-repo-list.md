@@ -641,6 +641,21 @@
 | `iphobiks/tseud` | 2026-03-27 | 20 | 平台代理 spam | |
 | `kamalicait/8ni` | 2026-04-01 | 177 | 幸运10 spam | |
 | `kedday/1za` | 2026-04-01 | 348 | 幸运10 spam | |
+| `alainarios/ocrcq` | 2026-04-01 | 593 | 微信号 spam | |
+| `hengssukea/76m` | 2026-03-30 | 500 | 微信号 spam | |
+| `moinla968/ezn` | 2026-03-30 | 500 | 微信号 spam | |
+| `annbertthe/7` | 2026-03-27 | 503 | 微信号 spam | |
+| `pds2345/c` | 2026-03-27 | 315 | 微信号 spam | |
+| `austinch12/nm0fr` | 2026-04-01 | 298 | 微信号 spam | |
+| `luis233k/u8ixn` | 2026-04-01 | 298 | 微信号 spam | |
+| `q-kkl/y` | 2026-03-27 | 1292 | 微信群 spam | |
+| `edevadum1/6` | 2026-03-27 | 1282 | 微信群 spam | |
+| `ceneempoon/r` | 2026-03-27 | 505 | 微信群 spam | |
+| `idrapcdavi/l` | 2026-03-27 | 1250 | 微信群 spam | |
+| `sumitparak/z` | 2026-03-27 | 1331 | 微信群 spam | |
+| `ardhambh/0ax` | 2026-04-01 | 62 | 微信群 spam | |
+| `ardhambh/y8r` | 2026-04-01 | 172 | 微信群 spam | |
+| `pafdavis/whh` | 2026-04-01 | 47 | 微信群 spam | |
 
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 | |
 
