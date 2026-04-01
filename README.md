@@ -6,7 +6,7 @@ Besides the spam reports, all files are expected in Chinese.
 
 > [!NOTE]  
 > Please please join the discussion in https://github.com/orgs/community/discussions/191078
-> I don't want to seeing AI saying something NSFW when I'm not requested to.
+> <br>I don't want to seeing AI saying something NSFW when I'm not requested to.
 
 ## Workflow
 
