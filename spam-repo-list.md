@@ -595,6 +595,44 @@
 | `lifegr/ob0l` | 2026-04-01 | 49 | 百家乐 spam | |
 | `moneyfruit/jq2b` | 2026-04-01 | 300 | 百家乐 spam | |
 | `moneyfruit/9j04` | 2026-04-01 | 49 | 百家乐 spam | |
+| `eugeaniaro/b9eb` | 2026-04-01 | 1948 | 开奖 spam | |
+| `celtroffherly/7wc` | 2026-03-30 | 2075 | 开奖 spam | |
+| `moinla968/egj` | 2026-03-30 | 2024 | 开奖 spam | |
+| `eingrum3507-i/SDS` | 2026-04-01 | 771 | 开奖 spam | |
+| `george58ce/giu` | 2026-04-01 | 865 | 开奖 spam | |
+| `tnhst/411` | 2026-04-01 | 500 | 开奖 spam | |
+| `krysagesty/ldz` | 2026-04-01 | 500 | 开奖 spam | |
+| `theapplema/ccmlcx` | 2026-04-01 | 500 | 开奖 spam | |
+| `paulmarche/7w0` | 2026-04-01 | 500 | 开奖 spam | |
+| `banlonboy/wa0li8` | 2026-04-01 | 500 | 开奖 spam | |
+| `drunkkerne/k1fkgg` | 2026-04-01 | 500 | 开奖 spam | |
+| `moat8gear/gg2` | 2026-04-01 | 500 | 开奖 spam | |
+| `bluhrufr/nd1` | 2026-04-01 | 300 | 开奖 spam | |
+| `haosbtoang/ebkqeh` | 2026-04-01 | 229 | 开奖 spam | |
+| `isagindraj/1br` | 2026-04-01 | 66 | 开奖 spam | |
+| `jimmilgo/qm115` | 2026-04-01 | 500 | 开奖 spam | |
+| `amount22to/045` | 2026-04-01 | 500 | 计划 spam | |
+| `chaosieucs/khx` | 2026-04-01 | 500 | 计划 spam | |
+| `vspozman/ni6` | 2026-04-01 | 500 | 计划 spam | |
+| `winterdrea/k32` | 2026-04-01 | 500 | 计划 spam | |
+| `ibylefitas/69n` | 2026-04-01 | 500 | 计划 spam | |
+| `emmarhithi/ve4` | 2026-04-01 | 500 | 计划 spam | |
+| `blakewoodp/nn5` | 2026-04-01 | 500 | 计划 spam | |
+| `leni1667/dvm` | 2026-04-01 | 500 | 计划 spam | |
+| `juanjelima/7jmoem` | 2026-04-01 | 500 | 计划 spam | |
+| `triewicz/vz9` | 2026-04-01 | 500 | 计划 spam | |
+| `ankle14coa/z58` | 2026-04-01 | 500 | 计划 spam | |
+| `zhiweigixi/hlk` | 2026-04-01 | 500 | 计划 spam | |
+| `addisonlot/wxl` | 2026-04-01 | 500 | 计划 spam | |
+| `shtiangidp/nf5` | 2026-04-01 | 500 | 计划 spam | |
+| `catsoulett/ae2` | 2026-04-01 | 500 | 计划 spam | |
+| `voyage48ca/h4y` | 2026-04-01 | 500 | 计划 spam | |
+| `supermoore/4ax` | 2026-04-01 | 312 | 计划 spam | |
+| `kaba2bit/3gd` | 2026-04-01 | 500 | 计划 spam | |
+| `eiblamed21/bkh` | 2026-04-01 | 178 | 计划 spam | |
+| `rice8cheek/bqj` | 2026-04-01 | 500 | 计划 spam | |
+| `sofianflyn/mwx` | 2026-04-01 | 372 | 计划 spam | |
+| `craft-magu/v7w` | 2026-04-01 | 500 | 计划 spam | |
 
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 | |
 
