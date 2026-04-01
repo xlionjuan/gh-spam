@@ -666,6 +666,33 @@
 | `markocker/xrh` | 2026-04-01 | 988 | 返水 spam | |
 | `jalthia/836` | 2026-04-01 | 910 | 返水 spam | |
 | `felixhenri/9bp` | 2026-04-01 | 340 | 信誉 spam | |
+| `quail04col/6nu` | 2026-04-01 | 1107 | 投注 spam | |
+| `dubpak/rmy` | 2026-04-01 | 1180 | 投注 spam | |
+| `jtgentaros/swx` | 2026-04-01 | 1106 | 投注 spam | |
+| `erhaniott/sn6` | 2026-04-01 | 1206 | 投注 spam | |
+| `monaghes/jur` | 2026-04-01 | 1000 | 投注 spam | |
+| `atelvins-e/c9e` | 2026-04-01 | 1197 | 投注 spam | |
+| `osmccomic/7k8` | 2026-04-01 | 1033 | 投注 spam | |
+| `kthanto/t97` | 2026-04-01 | 779 | 投注 spam | |
+| `board82tem/kak` | 2026-04-01 | 996 | 投注 spam | |
+| `get2004/l7v` | 2026-04-01 | 1000 | 投注 spam | |
+| `elastace19/q8b` | 2026-04-01 | 1000 | 投注 spam | |
+| `ore3d/gmx` | 2026-04-01 | 648 | 投注 spam | |
+| `chest0milk/wvk` | 2026-04-01 | 645 | 投注 spam | |
+| `kiliangi/mr5` | 2026-04-01 | 393 | 投注 spam | |
+| `ibrique/s0y` | 2026-04-01 | 683 | 投注 spam | |
+| `knif14/dqx` | 2026-04-01 | 460 | 投注 spam | |
+| `bitligua/esw` | 2026-04-01 | 1016 | 体育 spam | |
+| `khostel/j1y` | 2026-03-30 | 500 | 体育 spam | |
+| `why2cint/qfw` | 2026-03-30 | 500 | 体育 spam | |
+| `orecharion/xqq8f` | 2026-03-30 | 377 | 体育 spam | |
+| `nathansjon/hte` | 2026-03-30 | 500 | 体育 spam | |
+| `stageblade/wpk` | 2026-03-30 | 495 | 体育 spam | |
+| `mthenicols/zfakp` | 2026-03-30 | 495 | 体育 spam | |
+| `jhardtu/9dkm` | 2026-04-01 | 300 | 投注 spam | |
+| `pkoich/kvo` | 2026-04-01 | 260 | 投注 spam | |
+| `tiaolx/c5y` | 2026-04-01 | 120 | 投注 spam | |
+| `jvest-787/tjklf` | 2026-03-30 | 498 | 体育 spam | |
 
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 | |
 
