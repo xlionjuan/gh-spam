@@ -69,6 +69,7 @@ done
 1. 建立 report 檔案：`github-spam-report-YYYY-MM-DD.md`
 2. **Report 必須獨立**：不應交叉引用其他 report
 3. **格式規則**：
+   - **語言**：所有陳述必須使用英文（關鍵字如賭博術語除外）
    - 不要包含：`Report Date:`, `Reporter:`, `Contact:`, `Report ID:`, `Generated:`
    - 如果某個 size category 沒有 repos，必須刪除該 section，不要留空 header
 4. 複製 report 內容到 [GitHub Abuse Form](https://github.com/contact/report-abuse)

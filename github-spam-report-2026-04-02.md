@@ -6,9 +6,9 @@ GitHub Issues spam campaign promoting gambling platforms detected.
 
 ---
 
-## 大型 Spam（2000+ issues）
+## Large Spam (2000+ Issues)
 
-| Repo | 建立時間 | Issues 數量 |
+| Repo | Created | Issues |
 |------|----------|-------------|
 | `yonnuskill/8uh7` | 2026-04-01 | 2081 |
 | `wsmnh/a3i` | 2026-04-01 | 3862 |
@@ -42,9 +42,9 @@ GitHub Issues spam campaign promoting gambling platforms detected.
 
 ---
 
-## 中型 Spam（500-2000 issues）
+## Medium Spam (500-2000 Issues)
 
-| Repo | 建立時間 | Issues 數量 |
+| Repo | Created | Issues |
 |------|----------|-------------|
 | `zikhui/k0m` | 2026-04-01 | 719 |
 | `zhiweigixi/hlk` | 2026-04-01 | 500 |
@@ -286,9 +286,9 @@ GitHub Issues spam campaign promoting gambling platforms detected.
 
 ---
 
-## 小型 Spam（<500 issues）
+## Small Spam (<500 Issues)
 
-| Repo | 建立時間 | Issues 數量 |
+| Repo | Created | Issues |
 |------|----------|-------------|
 | `zsagd/3hz6` | 2026-04-01 | 311 |
 | `zingeliangzs/mqe88` | 2026-04-01 | 97 |
@@ -512,11 +512,11 @@ GitHub Issues spam campaign promoting gambling platforms detected.
 
 ---
 
-## 統計
+## Statistics
 
-| 類型 | 數量 |
-|------|------|
-| 大型 Spam（2000+ issues） | 29 |
-| 中型 Spam（500-2000 issues） | 237 |
-| 小型 Spam（<500 issues） | 219 |
-| **總計** | **485** |
+| Type | Count |
+|------|-------|
+| Large Spam (2000+ Issues) | 29 |
+| Medium Spam (500-2000 Issues) | 237 |
+| Small Spam (<500 Issues) | 219 |
+| **Total** | **485** |
