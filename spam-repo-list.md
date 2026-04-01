@@ -337,6 +337,11 @@
 | `mikeact331/wk3d` | 2026-04-01 | 2211 | 麻将胡了 spam | |
 | `msiaddich/k7l` | 2026-04-01 | 1296 | PG电子 spam | |
 | `enmense-12/lja` | 2026-04-01 | 1295 | 财神捕鱼 spam | |
+| `celtroffherly/7wc` | 2026-04-01 | 2115 | 技术资料 spam | |
+| `hengssukea/zgg` | 2026-04-01 | 2065 | 技术资料 spam | |
+| `moinla968/egj` | 2026-04-01 | 2064 | 技术资料 spam | |
+| `mohstkandeong10/yfure` | 2026-04-01 | 750 | 快3 spam | |
+| `darkwisauez/v9aj0` | 2026-04-01 | 136 | 快3 spam | |
 
 ---
 
