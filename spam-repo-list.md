@@ -656,6 +656,16 @@
 | `ardhambh/0ax` | 2026-04-01 | 62 | 微信群 spam | |
 | `ardhambh/y8r` | 2026-04-01 | 172 | 微信群 spam | |
 | `pafdavis/whh` | 2026-04-01 | 47 | 微信群 spam | |
+| `jwldbersch/vwabr` | 2026-04-01 | 21263 | 彩票 spam | |
+| `deallurin/ypk` | 2026-04-01 | 1115 | 返水 spam | |
+| `homecatea/zwu` | 2026-04-01 | 1186 | 返水 spam | |
+| `vanniefoy1/jf7` | 2026-04-01 | 1116 | 返水 spam | |
+| `shayrik/jlp` | 2026-04-01 | 1118 | 返水 spam | |
+| `peterstegg/s50` | 2026-04-01 | 125 | 返水 spam | |
+| `markotugea/xyq` | 2026-04-01 | 79 | 返水 spam | |
+| `markocker/xrh` | 2026-04-01 | 988 | 返水 spam | |
+| `jalthia/836` | 2026-04-01 | 910 | 返水 spam | |
+| `felixhenri/9bp` | 2026-04-01 | 340 | 信誉 spam | |
 
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 | |
 
