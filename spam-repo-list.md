@@ -693,6 +693,35 @@
 | `pkoich/kvo` | 2026-04-01 | 260 | 投注 spam | |
 | `tiaolx/c5y` | 2026-04-01 | 120 | 投注 spam | |
 | `jvest-787/tjklf` | 2026-03-30 | 498 | 体育 spam | |
+| `marca-274/01` | 2026-03-30 | 1178 | 倍投 spam | |
+| `marca-274/02` | 2026-03-30 | 1146 | 倍投 spam | |
+| `marca-274/03` | 2026-03-30 | 1158 | 倍投 spam | |
+| `gregoryali/5w0` | 2026-04-01 | 500 | 倍投 spam | |
+| `sing91gum/y4g` | 2026-04-01 | 500 | 倍投 spam | |
+| `bsurusest/5rm4q` | 2026-04-01 | 1076 | 倍投 spam | |
+| `bsurusest/qasmv` | 2026-04-01 | 500 | 倍投 spam | |
+| `bsurusest/2md71` | 2026-04-01 | 677 | 倍投 spam | |
+| `golf1floor/k1i` | 2026-04-01 | 499 | 倍投 spam | |
+| `kahuldrajpajun/xt5gj` | 2026-04-01 | 1000 | 倍投 spam | |
+| `kahuldrajpajun/fygzx` | 2026-04-01 | 975 | 倍投 spam | |
+| `politenius/92f` | 2026-04-01 | 500 | 上岸 spam | |
+| `sidesmash0/9su` | 2026-04-01 | 500 | 上岸 spam | |
+| `0x7xiazhen/xscsd` | 2026-04-01 | 157 | 上岸 spam | |
+| `bkecker/q92cjo` | 2026-04-01 | 500 | 上岸 spam | |
+| `duynum/mxt` | 2026-04-01 | 26 | 上岸 spam | |
+| `clam86pizz/d6f` | 2026-04-01 | 500 | 上岸 spam | |
+| `dellmsen36/mrz` | 2026-04-01 | 500 | 上岸 spam | |
+| `jimyeathar/t7j` | 2026-04-01 | 500 | 上岸 spam | |
+| `bassbull4/a6swcf` | 2026-04-01 | 500 | 上岸 spam | |
+| `euanerumon/ui3yno` | 2026-04-01 | 500 | 上岸 spam | |
+| `songdapipe/zrb` | 2026-04-01 | 500 | 上岸 spam | |
+| `vaidya09/55uz44` | 2026-04-01 | 500 | 上岸 spam | |
+| `rouse0tie/46zal` | 2026-04-01 | 113 | 上岸 spam | |
+| `report9cra/00p` | 2026-04-01 | 408 | 上岸 spam | |
+| `playd1210/x3f` | 2026-04-01 | 500 | 上岸 spam | |
+| `elutiessanfer/khdlg` | 2026-04-01 | 1480 | 上岸 spam | |
+| `scottyevan/t70sq9` | 2026-04-01 | 498 | 上岸 spam | |
+| `newingerjw/rh3` | 2026-04-01 | 500 | 上岸 spam | |
 
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 | |
 
