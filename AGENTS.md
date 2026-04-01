@@ -108,10 +108,14 @@ gh api users/USERNAME --jq '{login: .login, created: .created_at}'
 - **假老 spam**：`jy2886-2/ygi0v` (2026-03-28) 但標題是 `2024年第一指南`
 - **真老 spam**：`lilladezman-boop/y7vk53iv` (2025-08-06)
 
-### ⚠️ 嚴禁提前填寫 Report 日期
-- 只有已提交 abuse report 的 repos 才能填寫 Report 日期
+### ⚠️ Report 日期填寫時機
+- **建立報告後立即填寫**：建立 report 檔案時，隨即將 Report 日期填入 spam-repo-list.md
 - 發現新 spam repo 時，Report 欄位留空
-- 填寫日期必須是真正完成 report 的日期
+- Report 日期與 report 檔案日期一致（如 2026-04-02 建立報告，則填寫 Report: 2026-04-02）
+
+### ⚠️ 自動記錄準則
+- 發現 spam repos 時，**直接加入 spam-repo-list.md**，不需詢問用戶
+- 驗證後確認為 spam 即記錄，不應延遲
 
 ---
 
