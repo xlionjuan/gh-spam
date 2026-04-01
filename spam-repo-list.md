@@ -530,6 +530,30 @@
 | `oohihm/r` | 2026-04-01 | 202 | 主管开户 spam | |
 | `moneyfruit/ok64` | 2026-04-01 | 350 | 電子pg spam | |
 | `rodogux/70nh` | 2026-04-01 | 300 | 電子pg spam | |
+| `mattreitle/ly1` | 2026-04-01 | 59 | 主管开户 spam | |
+| `bulzervisen/kjxqd` | 2026-04-01 | 56 | 主管开户 spam | |
+| `jedi-serve/vuf` | 2026-04-01 | 63 | 主管开户 spam | |
+| `ozenedal/qw9` | 2026-04-01 | 64 | 主管开户 spam | |
+| `ipomyjypic/kxb` | 2026-04-01 | 66 | 主管开户 spam | |
+| `noacka/qn6rx` | 2026-04-01 | 59 | 主管开户 spam | |
+| `subas-aha1007/wwnyw` | 2026-04-01 | 60 | 主管开户 spam | |
+| `majaftrov/wfbg9` | 2026-04-01 | 60 | 主管开户 spam | |
+| `andresslacker/bm30h` | 2026-04-01 | 61 | 主管开户 spam | |
+| `kapeterhuug/osw8m` | 2026-04-01 | 62 | 主管开户 spam | |
+| `gurmcpn/ptg5h` | 2026-04-01 | 63 | 主管开户 spam | |
+| `danyidockie/8s0t1` | 2026-04-01 | 63 | 主管开户 spam | |
+| `danisgust/keonl` | 2026-04-01 | 64 | 主管开户 spam | |
+| `rayanabrancharda/01x9x` | 2026-04-01 | 65 | 主管开户 spam | |
+| `walhainasan/8` | 2026-04-01 | 313 | PG电子 spam | |
+| `thmayger/1` | 2026-04-01 | 312 | PG电子 spam | |
+| `elmrritter/qg0` | 2026-04-01 | 325 | 彩票 spam | |
+| `sukshanghagwayan/gcg3w` | 2026-04-01 | 604 | 彩票 spam | |
+| `rzeeirey/4` | 2026-04-01 | 28 | PG电子 spam | |
+| `v10ekreid/z` | 2026-04-01 | 28 | PG电子 spam | |
+| `u1cer93/4` | 2026-04-01 | 29 | PG电子 spam | |
+| `vernanen/h` | 2026-04-01 | 31 | PG电子 spam | |
+| `adamataldin-canc/v` | 2026-04-01 | 30 | PG电子 spam | |
+| `alarmping1/l` | 2026-04-01 | 33 | PG电子 spam | |
 
 | `servewwf/a6chk` | 2026-03-31 | 120 | RPA微信技術spam | Report: 2026-04-01 | |
 
