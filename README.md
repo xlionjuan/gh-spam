@@ -19,7 +19,7 @@ Most important files
 * [AGENTS.md](AGENTS.md) - Agent instructions and work patterns
 * [spam-repo-list.md](spam-repo-list.md) - Current known spam repo list
 * [deleted-spam-repo-list.md](deleted-spam-repo-list.md) - Known but deleted repos
-* github-spam-report-YYYY-MM-DD.md - Abuse report templates
+* github-spam-report-YYYY-MM-DD.md - Abuse reports
 
 Others check [FILE-GUIDE.md](FILE-GUIDE.md) (Chinese)
 
