@@ -79,7 +79,6 @@
 | `roses-frilled-1c/k` | 2026-04-01 | 1211 | 证件制作 spam | Report: 2026-04-02 |
 | `swirl-inch-7a/1` | 2026-04-01 | 1433 | 证件制作 spam | Report: 2026-04-02 |
 | `mhiggins8516-o/m2` | 2026-04-01 | 734 | 快3 spam | Report: 2026-04-02 |
-| `ahnwdard/a` | 2026-04-01 | 500 | 技术项目 spam | Report: 2026-04-02 |
 | `liltermyantrikki/h` | 2026-04-01 | 500 | 技术项目 spam | Report: 2026-04-02 |
 | `sneggyze-neff/0` | 2026-04-01 | 500 | 技术项目 spam | Report: 2026-04-02 |
 | `jereviei-991/g5` | 2026-04-01 | 421 | 快3计划 spam | Report: 2026-04-02 |
