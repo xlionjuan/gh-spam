@@ -1009,3 +1009,54 @@
 | `zikhui/k0m` | | | |(已刪除) |
 | `zensixcent/2xh` | | | |(已刪除) |
 | `ahnwdard/a` | | | |(已刪除) |
+
+## 2026-04-08 驗證發現已刪除（47個）
+| Repo | 建立時間 | Issues 數量 | 備註 | Report 日期 |
+|------|----------|-------------|------|-------------|
+| `alainarios/ocrcq` | 2026-04-01 | 593 | 微信号 spam | Report: 2026-04-02 (已刪除) |
+| `andresslacker/bm30h` | 2026-04-01 | 61 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `andresslacker/dm5w` | 2026-04-01 | 435 | 平台代理 spam | Report: 2026-04-02 (已刪除) |
+| `anicebartin2479/e` | 2026-04-01 | 325 | PG电子 spam | Report: 2026-04-02 (已刪除) |
+| `annbertthe/7` | 2026-03-27 | 503 | 微信号 spam | Report: 2026-04-02 (已刪除) |
+| `antipslavet-hg/7` | 2026-04-01 | 258 | 牛牛群 spam | Report: 2026-04-02 (已刪除) |
+| `athlete-lioness-5d/j` | 2026-04-01 | 1143 | 证件制作 spam | Report: 2026-04-02 (已刪除) |
+| `bradandmon4/a` | 2026-04-01 | 254 | 牛牛群 spam | Report: 2026-04-02 (已刪除) |
+| `bulzervisen/kjxqd` | 2026-04-01 | 56 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `castinbocker/s` | 2026-04-01 | 256 | 牛牛群 spam | Report: 2026-04-02 (已刪除) |
+| `ceneempoon/r` | 2026-03-27 | 505 | 微信群 spam | Report: 2026-04-02 (已刪除) |
+| `cykiese/c` | 2026-04-01 | 329 | PG电子 spam | Report: 2026-04-02 (已刪除) |
+| `cyldrk/h` | 2026-04-01 | 255 | 牛牛群 spam | Report: 2026-04-02 (已刪除) |
+| `dancer5tul/i` | 2026-03-27 | 1301 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `danisgust/keonl` | 2026-04-01 | 64 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `danyidockie/8s0t1` | 2026-04-01 | 63 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `danyidockie/9q4o` | 2026-04-01 | 435 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `edevadum1/6` | 2026-03-27 | 1282 | 微信群 spam | Report: 2026-04-02 (已刪除) |
+| `elobanjaelle/m` | 2026-04-01 | 257 | 牛牛群 spam | Report: 2026-04-02 (已刪除) |
+| `finusatho/r` | 2026-04-01 | 262 | 牛牛群 spam | Report: 2026-04-02 (已刪除) |
+| `frankubaj3/3` | 2026-04-01 | 333 | PG电子 spam | Report: 2026-04-02 (已刪除) |
+| `gurmcpn/ptg5h` | 2026-04-01 | 63 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `kapeterhuug/osw8m` | 2026-04-01 | 62 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `lc5908/b` | 2026-04-01 | 332 | PG电子 spam | Report: 2026-04-02 (已刪除) |
+| `liltermyantrikki/h` | 2026-04-01 | 500 | 技术项目 spam | Report: 2026-04-02 (已刪除) |
+| `llevaner/gmvnh` | 2026-03-28 | 3,813 | | Report: 2026-03-30 (已刪除) |
+| `lovepras/5lbm2` | 2026-04-01 | 92 | 指纹锁 spam | Report: 2026-04-02 (已刪除) |
+| `majaftrov/wfbg9` | 2026-04-01 | 60 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `mhiggins8516-o/m2` | 2026-04-01 | 734 | 快3 spam | Report: 2026-04-02 (已刪除) |
+| `mikerjmonteri-a/oiwu` | 2026-04-01 | 498 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `neciyay-cel/du` | 2026-04-01 | 4119 | 捐卵 spam | Report: 2026-04-02 (已刪除) |
+| `noacka/qn6rx` | 2026-04-01 | 59 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `pds2345/c` | 2026-03-27 | 315 | 微信号 spam | Report: 2026-04-02 (已刪除) |
+| `prinsf73/g` | 2026-04-01 | 329 | PG电子 spam | Report: 2026-04-02 (已刪除) |
+| `q-kkl/y` | 2026-03-27 | 1292 | 微信群 spam | Report: 2026-04-02 (已刪除) |
+| `rayanabrancharda/01x9x` | 2026-04-01 | 65 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `roses-frilled-1c/k` | 2026-04-01 | 1211 | 证件制作 spam | Report: 2026-04-02 (已刪除) |
+| `screen-73-animist/s` | 2026-04-01 | 1078 | 证件制作 spam | Report: 2026-04-02 (已刪除) |
+| `sneggyze-neff/0` | 2026-04-01 | 500 | 技术项目 spam | Report: 2026-04-02 (已刪除) |
+| `subas-aha1007/wwnyw` | 2026-04-01 | 60 | 主管开户 spam | Report: 2026-04-02 (已刪除) |
+| `sumitparak/z` | 2026-03-27 | 1331 | 微信群 spam | Report: 2026-04-02 (已刪除) |
+| `swirl-inch-7a/1` | 2026-04-01 | 1433 | 证件制作 spam | Report: 2026-04-02 (已刪除) |
+| `theencipexyas/u` | 2026-04-01 | 1011 | 救护车 spam | Report: 2026-04-02 (已刪除) |
+| `vhutos/h` | 2026-04-01 | 336 | PG电子 spam | Report: 2026-04-02 (已刪除) |
+| `wsmnh/a3i` | 2026-04-01 | 3862 | 救护车转运 spam | Report: 2026-04-02 (已刪除) |
+| `zingeliangzs/mqe88` | 2026-04-01 | 97 | 指纹锁 spam | Report: 2026-04-02 (已刪除) |
+| `zsagd/3hz6` | 2026-04-01 | 311 | PG电子 spam | Report: 2026-04-02 (已刪除) |
