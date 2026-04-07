@@ -18,13 +18,11 @@
 | `xxxxxstart/062ho` | 2026-03-27 | 141 | 平台代理 spam | Report: 2026-04-02 |
 | `iphobiks/tseud` | 2026-03-27 | 20 | 平台代理 spam | Report: 2026-04-02 |
 | `marca-274/01` | 2026-03-30 | 1178 | 倍投 spam | Report: 2026-04-02 |
-| `jentic/jentic-public-apis` | 2026-04-01 | 1177 | 快3计划 spam | Report: 2026-04-02 |
 | `marca-274/02` | 2026-04-01 | 1162 | 快3信誉 spam | Report: 2026-04-02 |
 | `vjosephprsoria/18` | 2026-04-01 | 207 | 彩票资料 spam | Report: 2026-04-02 |
 | `marca-274/03` | 2026-04-01 | 1182 | 快3 spam | Report: 2026-04-02 |
 | `vjosephprsoria/24` | 2026-04-01 | 194 | 快3 spam | Report: 2026-04-02 |
 | `vjosephprsoria/27` | 2026-04-01 | 214 | 快3 spam | Report: 2026-04-02 |
-| `winston779/naiyunvpn` | 2026-04-01 | 1473 | 品茶服务 spam | Report: 2026-04-02 |
 | `jereviei-991/g5` | 2026-04-01 | 421 | 快3计划 spam | Report: 2026-04-02 |
 
 ---
@@ -33,12 +31,12 @@
 
 | 類型 | 估算數量 |
 |------|----------|
-| 2026 Spam | 13 個 repos，約 13,996 issues |
-| **總計** | **13 個 repos，約 13,996 issues** |
+| 2026 Spam | 11 個 repos，約 5,340 issues |
+| **總計** | **11 個 repos，約 5,340 issues** |
 
 ---
 
 ## 更新時間
 2026-04-08
 
-**注意**：上方表格中共有 13 個 repos 仍存在。
+**注意**：上方表格中共有 11 個 repos 仍存在。

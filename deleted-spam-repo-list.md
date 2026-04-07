@@ -1060,3 +1060,13 @@
 | `wsmnh/a3i` | 2026-04-01 | 3862 | 救护车转运 spam | Report: 2026-04-02 (已刪除) |
 | `zingeliangzs/mqe88` | 2026-04-01 | 97 | 指纹锁 spam | Report: 2026-04-02 (已刪除) |
 | `zsagd/3hz6` | 2026-04-01 | 311 | PG电子 spam | Report: 2026-04-02 (已刪除) |
+
+---
+
+## 合法 Repo 但被灌 Spam（2個）
+**注意**：這些是正常合法的 repo，但被 spammer 濫發 issues
+
+| Repo | 建立時間 | Issues 數量 | 備註 |
+|------|----------|-------------|------|
+| `jentic/jentic-public-apis` | 2025-03-31 | ~1,634 | 正常 AI APIs 專案，被 spam 濫發 issues，仍存在 |
+| `winston779/naiyunvpn` | 2023-11-22 | ~3 | 正常 VPN 服務 repo，被 spam 攻擊後清理，仍存在 |
