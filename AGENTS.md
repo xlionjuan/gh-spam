@@ -22,7 +22,7 @@
 **⚠️ 子代理使用原則**
 - 涉及 **50+ 大量 API 呼叫**、**大量檔案讀取**、或 **需要並行處理** 的任務，**必須使用 Task tool 派生子代理**
 - 子代理類型：使用 `explore` agent 類型處理研究/驗證任務
-- 這樣可以避免觸發 rate limit、提高效率、節省上下文
+- **直接寫入檔案**：子代理可以直接讀取和寫入相關檔案（spam-repo-list.md、deleted-spam-repo-list.md、AGENTS.md），無需回傳給主代理再轉寫
 
 ### 1. 發現新 spam repos
 ```bash
@@ -34,6 +34,8 @@ gh search issues 'AG真人' --limit 100
 # 搜尋特定日期的所有 repos
 gh search issues 'created:2026-03-30' --limit 500 --sort created
 ```
+
+**⚠️ 子代理直接寫入**：派子代理發現新 spam repos 時，應直接修改 spam-repo-list.md 和 AGENTS.md（新增攻擊波資訊），不回傳給主代理
 
 ### 2. 驗證並記錄新 repos
 ```bash
