@@ -74,7 +74,11 @@ xargs -P 50 -I {} sh -c 'gh api repos/{} --jq ".name" 2>&1 | grep -q "Not Found"
 - 子代理檢查項目：
   - Repo 基本資訊（名稱、描述、建立時間）
   - Issue 標題內容（是否為賭博關鍵字）
-  - 確認為合法專案後，從 spam-repo-list.md 移出，加入 deleted-spam-repo-list.md 的「經驗證為非 Spam 的 Repo」區塊
+- **若確認為合法專案**：
+  - 仍需回報 GitHub（因為該 repo 被濫用）
+  - 在 spam-repo-list.md 的備註欄標記「合法 repo 被灌 spam」
+  - 後續驗證刪除後，移至 deleted-spam-repo-list.md 的「合法 Repo 但被灌 Spam」區塊
+- **若確認為假 spam repo（非真實專案）**：正常回報
 
 ### 5. 驗證 Report 與 List 一致
 ```bash
