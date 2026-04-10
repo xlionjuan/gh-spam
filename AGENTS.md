@@ -12,6 +12,7 @@
 |------|------|
 | `spam-repo-list.md` | 維護**仍存在**的 spam repos |
 | `deleted-spam-repo-list.md` | 歸檔**已刪除**的 spam repos |
+| `spam-patterns.md` | 記錄發現的 spam pattern 研究 |
 | `github-spam-report-YYYY-MM-DD.md` | 舉報檔案（每個 report 獨立） |
 | `gh-api-syntax.md` | Gh CLI 語法參考 |
 
@@ -22,7 +23,7 @@
 **⚠️ 子代理使用原則**
 - 涉及 **50+ 大量 API 呼叫**、**大量檔案讀取**、或 **需要並行處理** 的任務，**必須使用 Task tool 派生子代理**
 - 子代理類型：使用 `explore` agent 類型處理研究/驗證任務
-- **直接寫入檔案**：子代理可以直接讀取和寫入相關檔案（spam-repo-list.md、deleted-spam-repo-list.md、AGENTS.md），無需回傳給主代理再轉寫
+- **直接寫入檔案**：子代理可以直接讀取和寫入相關檔案（spam-repo-list.md、deleted-spam-repo-list.md、spam-patterns.md），無需回傳給主代理再轉寫
 
 ### 1. 發現新 spam repos
 ```bash
