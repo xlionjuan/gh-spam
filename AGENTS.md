@@ -64,6 +64,11 @@ xargs -P 50 -I {} sh -c 'gh api repos/{} --jq ".name" 2>&1 | grep -q "Not Found"
 - 子代理可以並行處理大量 API 呼叫，避免觸發 rate limit 並提高效率
 - 驗證結果分為兩類：仍存在的 repos、已刪除的 repos
 
+**刪除處理原則**：
+- 若 repo 在 spam-repo-list.md 中有 Report 日期 → 移至 deleted-spam-repo-list.md 的「驗證發現已刪除」區段
+- 若 repo 在 spam-repo-list.md 中沒有 Report 日期（從未回報）→ 移至 deleted-spam-repo-list.md 的「已刪除但尚未回報」區段
+- 不需要補回報（GitHub 已自動清除）
+
 ### 4. 識別合法 Repo（使用子代理）
 - 當 spam list 中的 repos 可能含有誤判的合法專案時，**必須使用子代理**驗證
 - 子代理檢查項目：
