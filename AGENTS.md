@@ -36,7 +36,7 @@ gh search issues 'AG真人' --limit 100
 gh search issues 'created:2026-03-30' --limit 500 --sort created
 ```
 
-**⚠️ 子代理直接寫入**：派子代理發現新 spam repos 時，應直接修改 spam-repo-list.md 和 spam-patterns.md（新增 spam pattern），不回傳給主代理
+**⚠️ 子代理直接寫入**：派子代理發現新 spam repos 時，應直接修改 spam-repo-list.md 和 spam-patterns.md（發現高頻關鍵字則加入 spam-patterns.md），不回傳給主代理
 
 ### 2. 驗證並記錄新 repos
 ```bash
