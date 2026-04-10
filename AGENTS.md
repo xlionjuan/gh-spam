@@ -19,6 +19,11 @@
 
 ## 工作流程
 
+**⚠️ 子代理使用原則**
+- 涉及 **50+ 大量 API 呼叫**、**大量檔案讀取**、或 **需要並行處理** 的任務，**必須使用 Task tool 派生子代理**
+- 子代理類型：使用 `explore` agent 類型處理研究/驗證任務
+- 這樣可以避免觸發 rate limit、提高效率、節省上下文
+
 ### 1. 發現新 spam repos
 ```bash
 # 搜尋特定關鍵字（推薦）
@@ -42,7 +47,7 @@ done
 gh api repos/USER/REPO/issues --jq '.[0:3] | .[].title'
 ```
 
-### 3. 驗證刪除狀態
+### 3. 驗證刪除狀態（使用子代理）
 ```bash
 # 檢查 spam-repo-list.md 中所有 repos 是否仍存在
 grep -oP '^\| `\K[^`]+' spam-repo-list.md | grep '/' | sort -u > /tmp/list_repos.txt
@@ -51,7 +56,19 @@ xargs -P 50 -I {} sh -c 'gh api repos/{} --jq ".name" 2>&1 | grep -q "Not Found"
 # 發現刪除 → 從 spam-repo-list.md 移除，加入 deleted-spam-repo-list.md
 ```
 
-### 4. 驗證 Report 與 List 一致
+**⚠️ 大規模驗證必須使用子代理**
+- 當需要驗證 50+ 個 repos 的存在狀態時，**必須使用 Task tool 派生子代理**執行
+- 子代理可以並行處理大量 API 呼叫，避免觸發 rate limit 並提高效率
+- 驗證結果分為兩類：仍存在的 repos、已刪除的 repos
+
+### 4. 識別合法 Repo（使用子代理）
+- 當 spam list 中的 repos 可能含有誤判的合法專案時，**必須使用子代理**驗證
+- 子代理檢查項目：
+  - Repo 基本資訊（名稱、描述、建立時間）
+  - Issue 標題內容（是否為賭博關鍵字）
+  - 確認為合法專案後，從 spam-repo-list.md 移出，加入 deleted-spam-repo-list.md 的「經驗證為非 Spam 的 Repo」區塊
+
+### 5. 驗證 Report 與 List 一致
 ```bash
 # 確認 report 中 repo 數量
 grep -E '^\| `[^`]+` ' github-spam-report-YYYY-MM-DD.md | wc -l
@@ -65,7 +82,7 @@ grep -oP '^\| `\K[^`]+' github-spam-report-YYYY-MM-DD.md | while read repo; do
 done
 ```
 
-### 5. 提交 GitHub Abuse Report
+### 6. 提交 GitHub Abuse Report
 1. 建立 report 檔案：`github-spam-report-YYYY-MM-DD.md`
 2. **Report 必須獨立**：不應交叉引用其他 report
 3. **格式規則**：
@@ -75,7 +92,7 @@ done
 4. 複製 report 內容到 [GitHub Abuse Form](https://github.com/contact/report-abuse)
 5. 更新 spam-repo-list.md 中相關 repos 的 Report 日期
 
-### 6. Git 工作流程
+### 7. Git 工作流程
 ```bash
 git add -A
 git commit -m 'Update: description'
