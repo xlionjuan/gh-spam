@@ -130,9 +130,9 @@ gh api users/USERNAME --jq '{login: .login, created: .created_at}'
 - **真老 spam**：`lilladezman-boop/y7vk53iv` (2025-08-06)
 
 ### ⚠️ Report 日期填寫時機
-- **建立報告後立即填寫**：建立 report 檔案時，隨即將 Report 日期填入 spam-repo-list.md
-- 發現新 spam repo 時，Report 欄位留空
-- Report 日期與 report 檔案日期一致（如 2026-04-02 建立報告，則填寫 Report: 2026-04-02）
+- **發現新 spam repo**：Report 欄位留空
+- **建立 report 檔案後**：立即將 Report 日期填入 spam-repo-list.md
+- **後續 validate 發現刪除**：整列搬移到 deleted-spam-repo-list.md
 
 ### ⚠️ 自動記錄準則
 - 發現 spam repos 時，**直接加入 spam-repo-list.md**，不需詢問用戶
