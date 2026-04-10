@@ -50,7 +50,7 @@ done
 gh api repos/USER/REPO/issues --jq '.[0:3] | .[].title'
 ```
 
-### 3. 驗證刪除狀態（使用子代理）
+### 6. 驗證刪除狀態（使用子代理）
 ```bash
 # 檢查 spam-repo-list.md 中所有 repos 是否仍存在
 grep -oP '^\| `\K[^`]+' spam-repo-list.md | grep '/' | sort -u > /tmp/list_repos.txt
@@ -69,7 +69,7 @@ xargs -P 50 -I {} sh -c 'gh api repos/{} --jq ".name" 2>&1 | grep -q "Not Found"
 - 若 repo 在 spam-repo-list.md 中沒有 Report 日期（從未回報）→ 移至 deleted-spam-repo-list.md 的「已刪除但尚未回報」區段
 - 不需要補回報（GitHub 已自動清除）
 
-### 4. 識別合法 Repo（使用子代理）
+### 3. 識別合法 Repo（使用子代理）
 - 當 spam list 中的 repos 可能含有誤判的合法專案時，**必須使用子代理**驗證
 - 子代理檢查項目：
   - Repo 基本資訊（名稱、描述、建立時間）
@@ -80,7 +80,7 @@ xargs -P 50 -I {} sh -c 'gh api repos/{} --jq ".name" 2>&1 | grep -q "Not Found"
   - 後續驗證刪除後，移至 deleted-spam-repo-list.md 的「合法 Repo 但被灌 Spam」區塊
 - **若確認為假 spam repo（非真實專案）**：正常回報
 
-### 5. 驗證 Report 與 List 一致
+### 4. 驗證 Report 與 List 一致
 ```bash
 # 確認 report 中 repo 數量
 grep -E '^\| `[^`]+` ' github-spam-report-YYYY-MM-DD.md | wc -l
@@ -94,7 +94,7 @@ grep -oP '^\| `\K[^`]+' github-spam-report-YYYY-MM-DD.md | while read repo; do
 done
 ```
 
-### 6. 提交 GitHub Abuse Report
+### 5. 提交 GitHub Abuse Report
 1. 建立 report 檔案：`github-spam-report-YYYY-MM-DD.md`
 2. **Report 必須獨立**：不應交叉引用其他 report
 3. **格式規則**：
