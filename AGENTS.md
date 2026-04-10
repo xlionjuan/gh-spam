@@ -24,6 +24,8 @@
 - 涉及 **50+ 大量 API 呼叫**、**大量檔案讀取**、或 **需要並行處理** 的任務，**必須使用 Task tool 派生子代理**
 - 子代理類型：使用 `explore` agent 類型處理研究/驗證任務
 - **直接寫入檔案**：子代理可以直接讀取和寫入相關檔案（spam-repo-list.md、deleted-spam-repo-list.md、spam-patterns.md），無需回傳給主代理再轉寫
+- 禁止「傳話式」流程：子代理找到新 repo、驗證刪除、或發現新 pattern 後，必須直接更新對應檔案，不要先回傳結果再由主代理代寫
+- 進行 50+ repo 的批量 gh 搜尋或 gh api 驗證前，先用 Task tool 的 explore 子代理分批處理，不要由主代理直接執行大規模平行呼叫。
 
 ### 1. 發現新 spam repos
 ```bash
@@ -111,6 +113,8 @@ git commit -m 'Update: description'
 git push
 # 若 push 失敗，重試一次（Forgejo 認證問題）
 ```
+
+- 當使用者要求 `git push` 時，視為包含所有 push 前必要步驟：檢查工作樹、提交必要變更，然後再推送。
 
 ---
 
